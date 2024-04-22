@@ -1,0 +1,99 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+.hero{
+    position: relative;
+    padding: 50px 10px;
+    background: #0077cc;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 50px;
+    color: rgb(255, 237, 213);
+    text-align: left;
+}
+
+.hero h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: .5rem;
+}
+
+.hero p{
+    font-size: 1.2rem;
+}
+
+.services-overview {
+    padding: 20px;
+    background: #f8f8f8;
+}
+
+.services-overview h2 {
+    color: #333;
+}
+
+.services-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.about, .testimonials, .contact-cta {
+    padding: 20px;
+    background: white;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background: #ff6f61;
+    transition: background-color 0.3s;
+}
+
+.btn-hero {
+    background-color: rgb(249, 115, 22); /* Or any other color that fits your brand */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none; /* Remove underline from link */
+    transition: background-color 0.3s;
+  }
+  
+  .btn-hero:hover {
+    background-color: #e95f5a; /* Darker shade on hover */
+  }
+
+.btn-primary {
+    background: #ff6f61;
+}
+
+.btn-primary:hover {
+    background: #e95f5a;
+}
+
+.btn-secondary {
+    background: #6c757d;
+}
+
+.btn-secondary:hover {
+    background: #565e64;
+}
+
+footer {
+    padding: 20px;
+    background: #333;
+    color: white;
+}
