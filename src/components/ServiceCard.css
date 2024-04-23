@@ -22,7 +22,7 @@
     color: #555;
 }
 
-.service-image {
+.service-image-home {
     width: 300px; /* Ensure the image fits the card */
     height: 250px; /* Maintain aspect ratio */
     object-fit: cover;
