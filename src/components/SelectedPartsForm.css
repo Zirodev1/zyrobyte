@@ -1,0 +1,41 @@
+/* SelectedPartsForm.css */
+
+.selected-parts-form {
+
+  }
+  
+  .selected-part {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 4px;
+  }
+  
+  .selected-part img {
+    width: 100px;
+    margin-right: 1rem;
+  }
+  
+  .selected-part h3 {
+    margin: 0;
+  }
+  
+  .selected-part p {
+    margin: 0.5rem 0;
+  }
+  
+  .selected-part button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .selected-part button:hover {
+    background-color: #bd2130;
+  }
+  

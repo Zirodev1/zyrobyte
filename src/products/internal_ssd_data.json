@@ -1,0 +1,392 @@
+[
+    {
+        "name": "SK hynix Platinum P41 M2 SSD 2TB, M.2 2280 NVME PCIe Gen4.0 Internal SSD  l Up to 7,000MB/S l with 176-Layer NAND Flash",
+        "price": "149.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/BU8YS2404160GLTKXE7.jpg"
+    },
+    {
+        "name": "SAMSUNG SSD 990 PRO 2TB, PCIe 4.0 M.2 2280, Seq. Read Speeds Up-to 7,450MB/s (MZ-V9P2T0B/AM)",
+        "price": "189.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-861-01.jpg"
+    },
+    {
+        "name": "WD_BLACK SN850X NVMe M.2 2280 2TB PCI-Express 4.0 x4 Internal Solid State Drive (SSD) WDS200T2X0E",
+        "price": "169.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-247-02.jpg"
+    },
+    {
+        "name": "KingSpec SSD 2TB Internal Solid State Drive M.2 NVMe 2280 PCIe  3.0X4 Computer Disk Data Storage NAND Flash Hard Drives PC Desktop Laptop Ultrabook Upgrade for CoRe Ryzen Motherboard",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/B1V8S23080106RVAKED.jpg"
+    },
+    {
+        "name": "SAMSUNG SSD 990 EVO 2TB, PCIe 5.0 M.2 2280, Seq. Read Speeds Up-to 5,000MB/s (MZ-V9E2T0B/AM)",
+        "price": "149.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-887-01.jpg"
+    },
+    {
+        "name": "WD_BLACK SN850X NVMe M.2 2280 1TB PCI-Express 4.0 x4 Internal Solid State Drive (SSD) WDS100T2X0E",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-243-05.jpg"
+    },
+    {
+        "name": "KingSpec XG 7000 4TB M.2 2280 PCIe 4.0x4 NVME 1.4 Speed up to 7400MB/s Write Speed Up to 6600MB/s Internal Solid State Drive for PS5 PC Desktop Laptop Game-Player with Heatsink",
+        "price": "214.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/B1V8S2307210E7V6GB3.jpg"
+    },
+    {
+        "name": "Team Group T-FORCE VULCAN Z 2.5\" 1TB SATA III 3D NAND Internal Solid State Drive (SSD) T253TZ001T0C101",
+        "price": "56.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-833-01.jpg"
+    },
+    {
+        "name": "SAMSUNG SSD 990 PRO 1TB, PCIe 4.0 M.2 2280, Seq. Read Speeds Up-to 7,450MB/s (MZ-V9P1T0B/AM)",
+        "price": "127.75",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-860-01.jpg"
+    },
+    {
+        "name": "KingSpec XG 7000 2TB M.2 2280 PCIe 4.0x4 NVME 1.4 Speed up to 7400MB/s Write Speed Up to 6600MB/s Internal Solid State Drive for PS5 PC Desktop Laptop Game-Player with Heatsink",
+        "price": "123.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/B1V8S2307210GT62SB3.jpg"
+    },
+    {
+        "name": "SAMSUNG SSD 990 EVO 1TB, PCIe 5.0 M.2 2280, Seq. Read Speeds Up-to 5,000MB/s ( MZ-V9E1T0B/AM)",
+        "price": "89.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-886-04.png"
+    },
+    {
+        "name": "Team Group CX2 2.5\" 2TB SATA III 3D TLC Internal Solid State Drive (SSD) T253X6002T0C101",
+        "price": "97.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-573-V01.jpg"
+    },
+    {
+        "name": "Solidigm P44 Pro 2TB M.2 2280 PCIe 4.0 NVMe Gen4 Gaming TLC Internal Solid State Drive (SSD) SSDPFKKW020X7X1",
+        "price": "169.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-318-013-05.png"
+    },
+    {
+        "name": "WD_BLACK SN850X NVMe M.2 2280 1TB PCI-Express 4.0 x4 Internal Solid State Drive (SSD) WDS100T2XHE",
+        "price": "109.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-245-01.jpg"
+    },
+    {
+        "name": "Solidigm P41 Plus 2TB M.2 2280 PCIe 4.0 NVMe Gen4 Internal Solid State Drive (SSD) SSDPFKNU020TZX1",
+        "price": "116.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-329-022-16.png"
+    },
+    {
+        "name": "WD Blue 500GB SA510 2.5\" Internal Solid State Drive SSD - WDS500G3B0A",
+        "price": "57.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-228-V01.jpg"
+    },
+    {
+        "name": "KingSpec XG 7000 1TB M.2 2280 PCIe 4.0x4 NVME 1.4 Internal Solid State Drive for PS5 PC Desktop Laptop Game-Player with Heatsink",
+        "price": "69.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/B1V8S2307210EEV19B3.jpg"
+    },
+    {
+        "name": "Team Group T-Force CARDEA Z540 M.2 2280 2TB PCIe Gen5x4 with NVMe 3D NAND Internal Solid State Drive (SSD) TM8FF1002T0C129",
+        "price": "269.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-985-107-10.jpg"
+    },
+    {
+        "name": "Gigastone 1TB 2.5\" Internal SSD, 3D NAND Solid State Drive, SATA III 6Gb/s 2.5 inch 7mm (0.28), Read up to 560MB/s",
+        "price": "74.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/AGDFS2112091X97A.jpg"
+    },
+    {
+        "name": "Gigastone Game Turbo 5-Pack 128GB SSD SATA III 6Gb/s. 3D NAND 2.5\" Internal Solid State Drive, Read up to 540MB/s. Compatible with PC, Desktop and Laptop, 2.5 inch 7mm (0.28)",
+        "price": "89.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/AGDFS2305160KNRHE6A.jpg"
+    },
+    {
+        "name": "Gigastone 2-Pack 500GB SSD SATA III 6Gb/s. 3D NAND 2.5\" Internal Solid State Drive, Read up to 520MB/s. Compatible with PC, Desktop and Laptop, 2.5 inch 7mm (0.28)",
+        "price": "75.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/AGDFS2302270L7VHO31.jpg"
+    },
+    {
+        "name": "SK hynix Platinum P41 M2 SSD 2TB, M.2 2280 NVME PCIe Gen4.0 Internal SSD  l Up to 7,000MB/S l with 176-Layer NAND Flash",
+        "price": "149.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/BU8YS2404160GLTKXE7.jpg"
+    },
+    {
+        "name": "Silicon Power 1TB NVMe PCIe Gen3 x4 M.2 2280 SSD (SU001TBP34A60M28SN)",
+        "price": "62.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-301-428-03.jpg"
+    },
+    {
+        "name": "Silicon Power Ace A55 2.5\" 1TB SATA III 3D NAND Internal Solid State Drive (SSD) SU001TBSS3A55S25NE",
+        "price": "60.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-301-382-01.jpg"
+    },
+    {
+        "name": "SK hynix Gold P31 M2 SSD 1TB, M.2 2280 NVME PCIe Gen3.0 Internal SSD  l Up to 3,500MB/S",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/BU8YS2404160HKRD628.jpg"
+    },
+    {
+        "name": "SAMSUNG 980 PRO SSD 2TB, PCIe 4.0 M.2 2280, Speeds Up-to 6,400MB/s Best for High End Computing, Gaming, and Heavy Duty Workstations (MZV8P2T0B/AM)",
+        "price": "167.70",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-796-V01.jpg"
+    },
+    {
+        "name": "SAMSUNG 980 PRO SSD 1TB, PCIe 4.0 M.2 2280, Speeds Up-to 7,000MB/s Best for High End Computing, Gaming, and Heavy Duty Workstations (MZV8P1T0B/AM)",
+        "price": "109.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-790-V01.jpg"
+    },
+    {
+        "name": "Western Digital WD_BLACK SN770 M.2 2280 1TB PCIe Gen4 16GT/s, up to 4 Lanes Internal Solid State Drive (SSD) WDS100T3X0E",
+        "price": "84.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-217-V05.jpg"
+    },
+    {
+        "name": "SAMSUNG 970 EVO PLUS M.2 2280 2TB PCIe Gen 3.0 x4, NVMe 1.3 V-NAND  Internal Solid State Drive (SSD) MZ-V7S2T0B/AM",
+        "price": "149.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-744-V01.jpg"
+    },
+    {
+        "name": "Western Digital WD_BLACK SN770 M.2 2280 2TB PCIe Gen4 16GT/s, up to 4 Lanes Internal Solid State Drive (SSD) WDS200T3X0E",
+        "price": "138.62",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-218-V05.jpg"
+    },
+    {
+        "name": "SAMSUNG 870 EVO Series 2.5\" 4TB SATA III V-NAND Internal Solid State Drive (SSD) MZ-77E4T0B/AM",
+        "price": "338.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-795-V01.jpg"
+    },
+    {
+        "name": "SAMSUNG 980 M.2 2280 1TB PCI-Express 3.0 x4, NVMe 1.4 V-NAND MLC Internal Solid State Drive (SSD) MZ-V8V1T0B/AM",
+        "price": "104.75",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-804-V07.jpg"
+    },
+    {
+        "name": "Crucial MX500 1TB 3D NAND SATA 2.5 Inch Internal SSD, up to 560 MB/s  - CT1000MX500SSD1",
+        "price": "89.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-174-V09.jpg"
+    },
+    {
+        "name": "SAMSUNG 980 PRO SSD with Heatsink 2TB, PCIe 4.0 M.2 2280, Speeds Up-to 7,000MB/s, Best for High End Computing, Workstations and Compatible with Playstation5 (MZ-V8P2T0CW)",
+        "price": "184.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-826-V01.jpg"
+    },
+    {
+        "name": "Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD, up to 540 MB/s - CT1000BX500SSD1",
+        "price": "69.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-231-V01.jpg"
+    },
+    {
+        "name": "SAMSUNG 980 PRO SSD with Heatsink 1TB, PCIe 4.0 M.2 2280, Speeds Up-to 7,000MB/s, Best for High End Computing, Workstations and Compatible with Playstation5 (MZ-V8P1T0CW)",
+        "price": "119.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-825-12.jpg"
+    },
+    {
+        "name": "SAMSUNG 970 EVO PLUS M.2 2280 500GB PCIe Gen 3.0 x4, NVMe 1.3 V-NAND Internal Solid State Drive (SSD) MZ-V7S500B/AM",
+        "price": "79.75",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-742-S01.jpg"
+    },
+    {
+        "name": "Addlink Addgame PS5 Compatible A95 4TB 7200 MB/s Read Speed Internal Solid State Drive - M.2 2280 PCIe NVMe Gen4X4 3D TLC NAND SSD with Heatsink (ad4TBA95M2P)",
+        "price": "349.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/BPBKS2306290CGG70E4.jpg"
+    },
+    {
+        "name": "SAMSUNG 870 EVO Series 2.5\" 1TB SATA III V-NAND Internal Solid State Drive (SSD) MZ-77E1T0B/AM",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-793-V07.jpg"
+    },
+    {
+        "name": "Team Group CX2 2.5\" 1TB SATA III 3D NAND Internal Solid State Drive (SSD) T253X6001T0C101",
+        "price": "57.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-561-V05.jpg"
+    },
+    {
+        "name": "SAMSUNG 870 QVO Series 2.5\" 1TB SATA III V-NAND Internal Solid State Drive (SSD) MZ-77Q1T0B/AM",
+        "price": "111.14",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-781-V04.jpg"
+    },
+    {
+        "name": "SK hynix Platinum P41 M2 SSD 2TB, M.2 2280 NVME PCIe Gen4.0 Internal SSD  l Up to 7,000MB/S l with 176-Layer NAND Flash",
+        "price": "149.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/BU8YS2404160GLTKXE7.jpg"
+    },
+    {
+        "name": "Addlink S95 4TB SSD for PC Storage Upgrade 7200 MB/s Maximum Read Speed PCIe NVMe Gen4 Internal Solid State Hard Drive - M.2 2280 TLC 3D NAND SSD (ad4TBS95M2P)",
+        "price": "478.88",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/BPBKS2306290BZRNO6B.jpg"
+    },
+    {
+        "name": "Team Group MP33 M.2 2280 1TB PCIe 3.0 x4 with NVMe 1.3 3D NAND Internal Solid State Drive (SSD) TM8FP6001T0C101",
+        "price": "61.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-417-V05.jpg"
+    },
+    {
+        "name": "SAMSUNG 870 EVO Series 2.5\" 500GB SATA III V-NAND Internal Solid State Drive (SSD) MZ-77E500B/AM",
+        "price": "69.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-792-V01.jpg"
+    },
+    {
+        "name": "Kingston A400 240GB SATA 3 2.5\" Internal SSD SA400S37/240G - HDD Replacement for Increase Performance",
+        "price": "27.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-400-V01.jpg"
+    },
+    {
+        "name": "Kingston NV2 1TB M.2 2280 NVMe PCIe Internal SSD Up to 3500 MB/s SNV2S/1000G",
+        "price": "60.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-729-05.jpg"
+    },
+    {
+        "name": "SAMSUNG 990 PRO M.2 2280 4TB PCI-Express Gen 4.0 x4, NVMe 2.0 V7 V-NAND 3bit MLC Internal Solid State Drive (SSD) MZ-V9P4T0B/AM. Non-Heatsink",
+        "price": "314.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-879-01.jpg"
+    },
+    {
+        "name": "Western Digital WD_Blue SN580 M.2 2280 2TB PCI-Express 4.0 x4 TLC Internal Solid State Drive (SSD) WDS200T3B0E",
+        "price": "124.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-253-01.png"
+    },
+    {
+        "name": "Crucial T500 1TB Gen4 NVMe M.2 Internal Gaming SSD, Up to 7300MB/s, laptop & desktop Compatible + 1mo Adobe CC All Apps - CT1000T500SSD8",
+        "price": "84.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-387-01.png"
+    },
+    {
+        "name": "WD_BLACK  SN850X NVMe M.2 2280 4TB PCI-Express 4.0 x4 Internal Solid State Drive (SSD) WDS400T2X0E",
+        "price": "319.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-244-05.jpg"
+    },
+    {
+        "name": "Team Group MP44L M.2 2280 1TB PCIe 4.0 x4 with NVMe 1.4 TLC Internal Solid State Drive (SSD) TM8FPK001T0C101",
+        "price": "68.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-919-01.jpg"
+    },
+    {
+        "name": "SAMSUNG 970 EVO PLUS M.2 2280 1TB PCIe Gen 3.0 x4, NVMe 1.3 V-NAND Internal Solid State Drive (SSD) MZ-V7S1T0B/AM",
+        "price": "99.95",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-743-V01.jpg"
+    },
+    {
+        "name": "Seagate BarraCuda Q5 M.2 2280 1TB PCIe Gen3 x4 NVMe 1.3 3D QLC Internal Solid State Drive (SSD) ZP1000CV3A001",
+        "price": "63.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-248-144-V04.jpg"
+    },
+    {
+        "name": "Kingston NV2 500G M.2 2280 NVMe PCIe Internal SSD Up to 3500 MB/s SNV2S/500G",
+        "price": "42.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-729-05.jpg"
+    },
+    {
+        "name": "SAMSUNG 990 PRO M.2 2280 4TB PCI-Express Gen 4.0 x4, NVMe 2.0 V7 V-NAND 3bit MLC Internal Solid State Drive (SSD) MZ-V9P4T0CW. W/Heatsink",
+        "price": "331.62",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-878-01.jpg"
+    },
+    {
+        "name": "SAMSUNG 870 EVO Series 2.5\" 2TB SATA III V-NAND Internal Solid State Drive (SSD) MZ-77E2T0B/AM",
+        "price": "179.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-794-V01.jpg"
+    },
+    {
+        "name": "Team Group CX2 2.5\" 512GB SATA III 3D NAND Internal Solid State Drive (SSD) T253X6512G0C101",
+        "price": "32.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-560-V06.jpg"
+    },
+    {
+        "name": "WD_BLACK SN850X NVMe M.2 2280 2TB PCI-Express 4.0 x4 Internal Solid State Drive (SSD) WDS200T2XHE",
+        "price": "179.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-250-246-04.jpg"
+    },
+    {
+        "name": "Team Group MP34 M.2 2280 4TB PCIe 3.0 x4 with NVMe 1.3 3D NAND Internal Solid State Drive (SSD) TM8FP4004T0C101",
+        "price": "225.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-702-01.jpg"
+    },
+    {
+        "name": "Crucial P3 Plus 1TB PCIe 4.0 3D NAND NVMe M.2 SSD, up to 5000MB/s - CT1000P3PSSD8",
+        "price": "71.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-300-01.jpg"
+    },
+    {
+        "name": "Team Group MP44 M.2 2280 4TB PCIe 4.0 x4 with NVMe Laptop & Desktop & NUC & NAS Internal Solid State Drive (SSD), (R/W Speed up to 7,400/6,900MB/s) TM8FPW004T0C101",
+        "price": "259.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-985-038-05.jpg"
+    },
+    {
+        "name": "SAMSUNG SSD 990 PRO with Heatsink 2TB, PCIe 4.0, Sew. Read Speeds Up-to 7,450MB/s, Compatible with PlayStation®5 (MZ-V9P2T0CW)",
+        "price": "199.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-147-863-01.jpg"
+    },
+    {
+        "name": "Corsair MP600 CORE XT M.2 2280 4TB PCI-Express 4.0 x4 3D QLC Internal Solid State Drive (SSD) CSSD-F4000GBMP600CXT",
+        "price": "249.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-988-01.png"
+    },
+    {
+        "name": "Team Group T-FORCE VULCAN Z 2.5\" 480GB SATA III 3D NAND Internal Solid State Drive (SSD) T253TZ480G0C101",
+        "price": "27.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-832-01.jpg"
+    },
+    {
+        "name": "Corsair MP600 PRO LPX M.2 2280 2TB PCIe Gen4 x4 NVMe 1.4 3D TLC Internal Solid State Drive (SSD) CSSD-F2000GBMP600PLPW - Optimized for PS5",
+        "price": "174.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-979-02.jpg"
+    },
+    {
+        "name": "Corsair MP600 PRO LPX M.2 2280 1TB PCIe Gen4 x4 NVMe 1.4 3D TLC Internal Solid State Drive (SSD) CSSD-F1000GBMP600PLPW - Optimized for PS5",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-979-02.jpg"
+    },
+    {
+        "name": "Crucial T500 2TB Gen4 NVMe M.2 Internal Gaming SSD, Up to 7400MB/s, laptop & desktop Compatible + 1mo Adobe CC All Apps - CT2000T500SSD8",
+        "price": "155.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-387-01.png"
+    },
+    {
+        "name": "Crucial MX500 4TB 3D NAND SATA 2.5 Inch Internal SSD, up to 560 MB/s - CT4000MX500SSD1",
+        "price": "309.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-282-V01.jpg"
+    },
+    {
+        "name": "Crucial P3 Plus 2TB PCIe 4.0 3D NAND NVMe M.2 SSD, up to 5000MB/s - CT2000P3PSSD8",
+        "price": "129.95",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-301-04.jpg"
+    },
+    {
+        "name": "Corsair MP600 CORE Mini 1TB M.2 NVMe PCIe x4 Gen4 2 SSD – M.2 2230 – Up to 5,000MB/sec Sequential Read  QLC NAND – Great for Steam Deck, ASUS ROG Ally, Microsoft Surface Pro .CSSD-F1000GBMP600CM",
+        "price": "79.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-982-123-01.jpg"
+    },
+    {
+        "name": "Team Group T-FORCE VULCAN Z 2.5\" 240GB SATA III 3D NAND Internal Solid State Drive (SSD) T253TZ240G0C101",
+        "price": "21.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-831-01.jpg"
+    },
+    {
+        "name": "Team Group T-FORCE VULCAN Z 2.5\" 2TB SATA III 3D NAND Internal Solid State Drive (SSD) T253TZ002T0C101",
+        "price": "96.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-861-01.jpg"
+    },
+    {
+        "name": "Crucial P3 2TB PCIe 3.0 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT2000P3SSD8",
+        "price": "126.25",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-297-V01.jpg"
+    },
+    {
+        "name": "Crucial P3 Plus M.2 2280 4TB PCI-Express 4.0 x4 NVMe 3D NAND Internal Solid State Drive (SSD) CT4000P3PSSD8",
+        "price": "226.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-302-V01.jpg"
+    },
+    {
+        "name": "Team Group MP33 M.2 2280 512GB PCIe 3.0 x4 with NVMe 1.3 3D NAND Internal Solid State Drive (SSD) TM8FP6512G0C101",
+        "price": "38.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-416-V05.jpg"
+    },
+    {
+        "name": "Team Group QX 2.5\" 4TB SATA III 3D NAND Internal Solid State Drive (SSD), Speed up to 560MB/s, Laptop & PC Desktop compatible (T253X7004T0C101)",
+        "price": "197.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-645-V02.jpg"
+    },
+    {
+        "name": "Crucial MX500 500GB 3D NAND SATA 2.5 Inch Internal SSD, up to 560 MB/s  - CT500MX500SSD1",
+        "price": "54.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-173-V01.jpg"
+    }
+]
