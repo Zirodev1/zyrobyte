@@ -2,6 +2,7 @@
 
 .builder-container {
     display: flex;
+    
 }
 
 .pc-builder {
@@ -9,7 +10,7 @@
     color: #333;
     background-color: #f7f7f7;
     padding: 2rem;
-    max-width: 600px;
+    max-width: 50%;
   }
 
   .pc-builder h1 {

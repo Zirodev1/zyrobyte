@@ -15,12 +15,13 @@
   
   .part-options {
     width: 100%;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
   }
   
   .part-item {
+    width: 100px;
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 0.5rem;

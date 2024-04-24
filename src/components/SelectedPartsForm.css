@@ -1,41 +1,40 @@
 /* SelectedPartsForm.css */
 
 .selected-parts-form {
+    margin: 0 auto;
+    width: 50%;
+}
 
-  }
-  
-  .selected-part {
+.partCard {
+    width:  90%;
+    height: 120px;
     display: flex;
+    justify-content: flex-start;
     align-items: center;
-    margin-bottom: 1rem;
-    background: #fff;
-    padding: 1rem;
-    border-radius: 4px;
-  }
-  
-  .selected-part img {
+    border: 1px solid #333;
+    margin:  0 auto;
+}
+
+.partCard img {
     width: 100px;
-    margin-right: 1rem;
-  }
-  
-  .selected-part h3 {
-    margin: 0;
-  }
-  
-  .selected-part p {
-    margin: 0.5rem 0;
-  }
-  
-  .selected-part button {
-    background-color: #dc3545;
-    color: white;
+    height: 100px;
+    margin: 0 30px;
+}
+
+.partCard button {
+    margin: 0 30px;
+    width: 100px;
+    height: 30px;
     border: none;
-    padding: 0.5rem 1rem;
-    cursor: pointer;
-    border-radius: 4px;
-  }
-  
-  .selected-part button:hover {
-    background-color: #bd2130;
-  }
-  
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+}
+
+.cardDesc {
+    display: flex;
+}
+
+.cardDesc h3 {
+    margin: 0 30px;
+}
