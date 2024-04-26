@@ -1,392 +1,470 @@
 [
     {
+        "id": 1,
         "name": "CORSAIR RMx Series (2021) RM850x CP-9020200-NA 850 W ATX12V / EPS12V 80 PLUS GOLD Certified Full Modular Power Supply",
         "price": "124.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-272-V01.jpg"
     },
     {
+        "id": 2,
+        "name": "CORSAIR RMx Series (2021) RM850x CP-9020200-NA 850 W ATX12V / EPS12V 80 PLUS GOLD Certified Full Modular Power Supply",
+        "price": "124.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-272-V01.jpg"
+    },
+    {
+        "id": 3,
         "name": "CORSAIR RM750e Fully Modular Low-Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - 105°C-Rated Capacitors - 80 PLUS Gold  Efficiency - Modern Standby Support",
         "price": "99.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-300-03.png"
     },
     {
-        "name": "CORSAIR RM1000e Fully Modular Low-Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - 105°C-Rated Capacitors - 80 PLUS Gold  Efficiency - Modern Standby Support",
-        "price": "139.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-289-01.jpg"
-    },
-    {
-        "name": "Super Flower Leadex Platinum 1600W 80+ Platinum, 10 Years Warranty, ECO Fanless & Silent Mode, Full Modular Power Supply, Dual Ball Bearing Fan, SF-1600F14HP",
-        "price": "299.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AMNPS200812KTH2X.jpg"
-    },
-    {
-        "name": "CORSAIR RM850e Fully Modular Low-Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - 105°C-Rated Capacitors - 80 PLUS Gold  Efficiency - Modern Standby Support",
-        "price": "119.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-301-08.png"
-    },
-    {
-        "name": "CORSAIR RMx Series (2021) RM850x CP-9020200-NA 850 W ATX12V / EPS12V 80 PLUS GOLD Certified Full Modular Power Supply",
-        "price": "124.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-272-V01.jpg"
-    },
-    {
+        "id": 4,
         "name": "Super Flower Leadex Platinum SE 1200W 80+ Platinum, 10 Years Warranty, ECO Fanless & Silent Mode, Full Flat Ribbon Modular Power Supply, Dual Ball Bearing Fan, SF-1200F14MP V2",
         "price": "219.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/1HU-024C-00037-01.jpg"
     },
     {
+        "id": 5,
+        "name": "CORSAIR RM1000e Fully Modular Low-Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - 105°C-Rated Capacitors - 80 PLUS Gold  Efficiency - Modern Standby Support",
+        "price": "139.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-289-01.jpg"
+    },
+    {
+        "id": 6,
+        "name": "CORSAIR RM850e Fully Modular Low-Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - 105°C-Rated Capacitors - 80 PLUS Gold  Efficiency - Modern Standby Support",
+        "price": "119.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-301-08.png"
+    },
+    {
+        "id": 7,
+        "name": "Super Flower Leadex VI Platinum PRO 1000W ATX 80 PLUS PLATINUM Certified Power Supply, 10 Years Warranty, Patent Connectors, Full Modular, Ultra-Flexible Flat Ribbon Cables, FDB Fan, SF-1000F14PE",
+        "price": "179.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/AMNPS220119qK6XW.jpg"
+    },
+    {
+        "id": 8,
         "name": "Seasonic FOCUS GX-850, 850W 80+ Gold, Full-Modular, ATX Form Factor, Low Noise, Premium Japanese Capacitor, 10 Year Warranty, Nvidia RTX 30/40 Super, AMD GPU Compatible, Ref# SSR-850FX",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-151-188-V15.jpg"
     },
     {
-        "name": "Thermaltake GF1 (2024) Fully Modular ATX 850W Power Supply - 80 PLUS Gold - Ultra Quiet - Zero RPM, PS-TPD-0850FNFAGU-P",
-        "price": "94.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-460-01.jpg"
-    },
-    {
-        "name": "Super Flower Leadex VI Platinum PRO 850W ATX 80 PLUS PLATINUM Certified Power Supply, 10 Years Warranty, Super Connectors, Full Modular, Ultra-Flexible Flat Ribbon Cables, FDB Fan, SF-850F14PE",
-        "price": "149.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AMNPS220119cQPRy.jpg"
-    },
-    {
+        "id": 9,
         "name": "CORSAIR RMe Series RM1200e ATX Power Supply – Fully Modular – ATX 3.0 – 80 PLUS Gold – Cybenetics Platinum – Low-Noise – 1200 Watts",
         "price": "159.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-315-01.png"
     },
     {
-        "name": "Thermaltake Smart Series 600W SLI / CrossFire Ready Continuous Power ATX12V V2.3 / EPS12V 80 PLUS Certified Active PFC Power Supply Haswell Ready PS-SPD-0600NPCWUS-W",
-        "price": "40.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-232-01.jpg"
-    },
-    {
-        "name": "CORSAIR CX Series CX650 80 PLUS Bronze ATX Power Supply",
-        "price": "69.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-322-07.png"
-    },
-    {
-        "name": "CORSAIR RMx Series (2021) RM1000x CP-9020201-NA 1000 W ATX12V / EPS12V SLI Ready CrossFire Ready 80 PLUS GOLD Certified Full Modular Active PFC Power Supply",
-        "price": "159.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-273-V12.jpg"
-    },
-    {
-        "name": "CORSAIR SF750 CP-9020186-NA 750 W SFX 80 PLUS PLATINUM Certified Full Modular Power Supply",
-        "price": "169.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-080-Z01.jpg"
-    },
-    {
-        "name": "CORSAIR RMx Series (2021) RM750x CP-9020199-NA 750 W ATX12V / EPS12V 80 PLUS GOLD Certified Full Modular Power Supply",
-        "price": "109.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-271-V01.jpg"
-    },
-    {
+        "id": 10,
         "name": "Super Flower Leadex Platinum SE 1000W 80+ Platinum, 10 Years Warranty, ECO Fanless & Silent Mode, Full Flat Ribbon Modular Power Supply, Dual Ball Bearing Fan, SF-1000F14MP V2",
         "price": "189.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/AMNPS210318N2STA.jpg"
     },
     {
+        "id": 11,
+        "name": "Thermaltake GF1 (2024) Fully Modular ATX 850W Power Supply - 80 PLUS Gold - Ultra Quiet - Zero RPM, PS-TPD-0850FNFAGU-P",
+        "price": "94.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-460-01.jpg"
+    },
+    {
+        "id": 12,
+        "name": "CORSAIR RMx Series (2021) RM1000x CP-9020201-NA 1000 W ATX12V / EPS12V SLI Ready CrossFire Ready 80 PLUS GOLD Certified Full Modular Active PFC Power Supply",
+        "price": "159.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-273-V12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Thermaltake Smart Series 600W SLI / CrossFire Ready Continuous Power ATX12V V2.3 / EPS12V 80 PLUS Certified Active PFC Power Supply Haswell Ready PS-SPD-0600NPCWUS-W",
+        "price": "40.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-232-01.jpg"
+    },
+    {
+        "id": 14,
+        "name": "CORSAIR CX Series CX650 80 PLUS Bronze ATX Power Supply",
+        "price": "69.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-322-07.png"
+    },
+    {
+        "id": 15,
+        "name": "CORSAIR SF750 CP-9020186-NA 750 W SFX 80 PLUS PLATINUM Certified Full Modular Power Supply",
+        "price": "169.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-080-Z01.jpg"
+    },
+    {
+        "id": 16,
+        "name": "CORSAIR RMx Series (2021) RM750x CP-9020199-NA 750 W ATX12V / EPS12V 80 PLUS GOLD Certified Full Modular Power Supply",
+        "price": "109.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-271-V01.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Super Flower Leadex III 750W 80+ Gold, Three-Way ECO Mode Fanless, Silent & Cooling Mode, FDB Fan, Full Modular Power Supply, Dual Over Power Protection, SF-750F14HG",
+        "price": "109.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/1HU-024C-00006-S04.jpg"
+    },
+    {
+        "id": 18,
         "name": "CORSAIR CX-M CX750M 750 W ATX 80 PLUS BRONZE Certified Semi-Modular Power Supply",
         "price": "74.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-276-V15.jpg"
     },
     {
+        "id": 19,
         "name": "CORSAIR RMx SHIFT Series™ RM750x 80 PLUS Gold Fully Modular ATX Power Supply - Modular Side Interface - ATX 3.0 & PCIe 5.0 Compliant -  Zero RPM Fan Mode - 105°C-Rated Capacitors - 80 PLU Power Supply",
         "price": "99.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-312-08.png"
     },
     {
+        "id": 20,
         "name": "CORSAIR CX Series CX550 80 PLUS Bronze ATX Power Supply",
         "price": "59.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-321-07.png"
     },
     {
+        "id": 21,
         "name": "ENERMAX Revolution D.F. X 1050W Full Modular, 80 Plus Gold, ATX 3.0 & PCIe 5.0 Ready, Native 600W 12VHPWR Connector, Industrial- Grade 100% Japanese Capacitors, ARGB Side Panel Power Supply",
         "price": "119.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-194-151-18.jpg"
     },
     {
+        "id": 22,
         "name": "ENERMAX Revolution D.F. X 850W Full Modular, 80 Plus Gold, ATX 3.0 & PCIe 5.0 Ready, Native 600W 12VHPWR Connector, Industrial- Grade 100% Japanese Capacitors, ARGB Side Panel Power Supply",
-        "price": "129.99",
+        "price": "109.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-194-150-10.jpg"
     },
     {
+        "id": 23,
         "name": "be quiet! Straight Power 12 1200W ATX 3.0 Power Supply | 80+ Platinum Efficiency | PCIe 5.0 | Japanese 105°C Capacitors | Fully Modular PSU | 12v Rail System | 10 Year Warranty | BN517",
         "price": "199.90",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS2306270B0RGQF5.jpg"
     },
     {
+        "id": 24,
         "name": "Montech Gamma II 750W, 80+ Gold Certified PSU, LLC+DC to DC Technology, High Quality Components, 100% Japanese Capacitors, Silent Fan, High Performance, Full Flat Cables",
         "price": "59.49",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/AK91S210429VDeye.jpg"
     },
     {
+        "id": 25,
         "name": "Seasonic FOCUS GX-1000, 1000W 80+ Gold, Full-Modular, ATX Form Factor, Low Noise, Premium Japanese Capacitor, 10 Year Warranty, Nvidia RTX 30/40 Super, AMD GPU Compatible, Ref# SSR-1000FX",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-151-210-V24.jpg"
     },
     {
+        "id": 26,
         "name": "CORSAIR RM Series RM750 750 W ATX 80 PLUS GOLD Certified Full Modular Power Supply",
         "price": "109.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-277-01.jpg"
     },
     {
-        "name": "Thermaltake Smart Series 500W SLI/CrossFire Ready Continuous Power ATX 12V V2.3 / EPS 12V 80 PLUS Certified Active PFC Power Supply Haswell Ready PS-SPD-0500NPCWUS-W",
-        "price": "38.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-233-01.jpg"
-    },
-    {
+        "id": 27,
         "name": "MSI - MAG A750GL PCIE 5.0, 80 GOLD Fully Modular Gaming PSU, 12VHPWR Cable, ATX 3.0 Compatible, 750W Power Supply",
         "price": "89.00",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-022-33.jpg"
     },
     {
+        "id": 28,
+        "name": "Thermaltake Smart Series 500W SLI/CrossFire Ready Continuous Power ATX 12V V2.3 / EPS 12V 80 PLUS Certified Active PFC Power Supply Haswell Ready PS-SPD-0500NPCWUS-W",
+        "price": "38.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-233-01.jpg"
+    },
+    {
+        "id": 29,
         "name": "Montech CENTURY G5, 750 Watt, ATX 3.0 & PCIe Gen 5 Compliant, 80 PLUS Gold, Low Noise, Superior Full-Bridge LLC structure , Full Japanese Capacitors,  Fully Modular Power Supply",
-        "price": "94.00",
+        "price": "63.81",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-959-001-07.png"
     },
     {
+        "id": 30,
         "name": "MSI - MAG A850GL PCIE 5.0, 80 GOLD Fully Modular Gaming PSU, 12VHPWR Cable, ATX 3.0 Compatible, 850W Power Supply",
         "price": "0.0",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-021-21.jpg"
     },
     {
-        "name": "CORSAIR CX Series CX750 80 PLUS Bronze ATX Power Supply",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-323-07.png"
-    },
-    {
+        "id": 31,
         "name": "Thermaltake Smart Series 700W SLI / CrossFire Ready Continuous Power ATX12V V2.3 / EPS12V 80 PLUS Certified Active PFC Power Supply Haswell Ready PS-SPD-0700NPCWUS-W",
         "price": "53.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-231-01.jpg"
     },
     {
+        "id": 32,
+        "name": "CORSAIR CX Series CX750 80 PLUS Bronze ATX Power Supply",
+        "price": "79.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-323-07.png"
+    },
+    {
+        "id": 33,
         "name": "EVGA SuperNOVA 750 GT, 80 Plus Gold 750W, Fully Modular, Auto Eco Mode with FDB Fan, 100% Japanese Capacitors, 7 Year Warranty, Includes Power ON Self Tester, Compact 150mm Size, 220-GT-0750-Y1",
         "price": "109.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-187-S12.jpg"
     },
     {
+        "id": 34,
         "name": "ASUS ROG STRIX 1000W Gold PSU, Power Supply (ROG Heatsinks, Axial-tech Fan Design, Dual Ball Fan Bearings, 0dB Technology, 80 PLUS Gold Certification, Fully Modular Cables, 10-year Warranty)",
         "price": "179.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-014-V11.jpg"
     },
     {
-        "name": "MSI - MEG Ai1300P PCIE 5.0, 80 PLATINUM Full Modular Gaming PSU, 12VHPWR Cable, 4080 4090 ATX 3.0 Compatible, 1300W Power Supply",
-        "price": "323.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-018-01.jpg"
-    },
-    {
+        "id": 35,
         "name": "CORSAIR SF1000L Fully Modular Low-Noise SFX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Quiet 120mm PWM Fan - 80 PLUS Gold Efficiency - Zero RPM Mode - 105°C-Rated Capacitors",
         "price": "159.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-309-07.png"
     },
     {
+        "id": 36,
         "name": "CORSAIR RM850 CP-9020232-NA 850 W ATX 80 PLUS GOLD Certified Full Modular Power Supply",
         "price": "139.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-278-01.jpg"
     },
     {
+        "id": 37,
         "name": "MSI - MPG A1000G PCIE 5.0, 80 GOLD Full Modular Gaming PSU, 12VHPWR Cable, 4080 4090 ATX 3.0 Compatible, 1000W Power Supply",
         "price": "179.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-016-16.jpg"
     },
     {
+        "id": 38,
+        "name": "MSI - MEG Ai1300P PCIE 5.0, 80 PLATINUM Full Modular Gaming PSU, 12VHPWR Cable, 4080 4090 ATX 3.0 Compatible, 1300W Power Supply",
+        "price": "323.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-018-01.jpg"
+    },
+    {
+        "id": 39,
         "name": "Thermaltake Smart BM3 850W 80Plus Bronze ATX 3.0 & PCIE 5.0 Ready Semi-Modular Power Supply; 105°C/221°F Japanese Capacitor; 5 Year Warranty; PS-SPD-0850MNFABU-3",
         "price": "79.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-454-01.jpg"
     },
     {
+        "id": 40,
         "name": "Cooler Master MWE Gold 850 V2 Fully Modular, 850W, 80+ Gold Efficiency, Quiet HDB Fan, 2 EPS Connectors, High Temperature Resilience, 5 Year Warranty",
         "price": "95.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-171-180-V04.jpg"
     },
     {
+        "id": 41,
         "name": "EVGA SuperNOVA 850 GT, 80 Plus Gold 850W, Fully Modular, Auto Eco Mode with FDB Fan, 100% Japanese Capacitors, 7 Year Warranty, Includes Power ON Self Tester, Compact 150mm Size, 220-GT-0850-Y1",
         "price": "134.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-199-01.jpg"
     },
     {
+        "id": 42,
         "name": "CORSAIR RMx Series (2021) RM850x CP-9020200-NA 850 W ATX12V / EPS12V 80 PLUS GOLD Certified Full Modular Power Supply",
         "price": "124.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-272-V01.jpg"
     },
     {
+        "id": 43,
         "name": "Thermaltake Toughpower GF2 ARGB 750W 80+ Gold 16.8 Million Colors 18 Addressable LEDs 5V Motherboard Sync/Analog Controlled SLI Full Modular Power Supply, PS-TPD-0750F3FAGU-2",
         "price": "144.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-427-V06.jpg"
     },
     {
+        "id": 44,
         "name": "be quiet! Dark Power PRO 13 1300W ATX 3.0 Power Supply | 80 PLUS Titanium Efficiency | PCIe 5.0 | Fully digital | Modular | BN500",
         "price": "419.90",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS2305100X28CPC9.jpg"
     },
     {
-        "name": "EVGA SuperNOVA 650 GT, 80 Plus Gold 650W, Fully Modular, Auto Eco Mode with FDB Fan, 100% Japanese Capacitors, 7 Year Warranty, Includes Power ON Self Tester, Compact 150mm Size, 220-GT-0650-Y1",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-186-S04.jpg"
-    },
-    {
+        "id": 45,
         "name": "EVGA SuperNOVA 1000 GT, 80 Plus Gold 1000W, Fully Modular, Eco Mode with FDB Fan, 100% Japanese Capacitors, 10 Year Warranty, Includes Power ON Self Tester, Compact 150mm Size, 220-GT-1000-X1",
         "price": "163.85",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-221-01.jpg"
     },
     {
+        "id": 46,
+        "name": "EVGA SuperNOVA 650 GT, 80 Plus Gold 650W, Fully Modular, Auto Eco Mode with FDB Fan, 100% Japanese Capacitors, 7 Year Warranty, Includes Power ON Self Tester, Compact 150mm Size, 220-GT-0650-Y1",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-186-S04.jpg"
+    },
+    {
+        "id": 47,
         "name": "MSI - MPG A850G PCIE 5.0, 80 GOLD Full Modular Gaming PSU, 12VHPWR Cable, 4080 4070 ATX 3.0 Compatible, 850W Power Supply",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-017-07.jpg"
     },
     {
+        "id": 48,
         "name": "MSI- MEG Ai1000P PCIE 5.0, 80 PLATINUM Full Modular Gaming PSU, 12VHPWR Cable, 4080 4090 ATX 3.0 Compatible, 1000W Power Supply",
-        "price": "253.99",
+        "price": "252.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-019-03.jpg"
     },
     {
+        "id": 49,
         "name": "CORSAIR RMx Shift Series RM1200x Shift Fully Modular 80PLUS Gold ATX Power Supply",
         "price": "229.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-304-10.png"
     },
     {
-        "name": "ASUS TUF Gaming 850W Gold (850 Watt, ATX 3.0 Compatible, Fully Modular Power Supply, 80+ Gold, Military-grade Components, Dual Ball Bearing, Axial-tech Fan, PCB Coating)",
-        "price": "129.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-030-08.png"
-    },
-    {
+        "id": 50,
         "name": "CORSAIR RMx Shift Series RM1000x Shift Fully Modular 80PLUS Gold ATX Power Supply",
         "price": "209.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-303-01.png"
     },
     {
-        "name": "ASUS ROG Loki SFX-L 1000W Platinum (Fully Modular Power Supply, 80+ Platinum, 120mm PWM ARGB Fan, Aura Sync, ATX 3.0 Compatible, PCIe 5.0 Ready)",
-        "price": "240.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-035-13.png"
-    },
-    {
-        "name": "Thermaltake Toughpower GF A3 ATX 3.0 750W 80+ Gold Full Modular SLI/Crossfile Ready Power Supply; PCIe Gen.5 300W 12VHPWR Connector Included; PS-TPD-0750FNFAGU-L)",
-        "price": "89.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-450-07.jpg"
-    },
-    {
+        "id": 51,
         "name": "CORSAIR RMx Shift Series RM850x Shift Fully Modular 80PLUS Gold ATX Power Supply",
         "price": "159.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-302-01.png"
     },
     {
+        "id": 52,
+        "name": "ASUS TUF Gaming 850W Gold (850 Watt, ATX 3.0 Compatible, Fully Modular Power Supply, 80+ Gold, Military-grade Components, Dual Ball Bearing, Axial-tech Fan, PCB Coating)",
+        "price": "129.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-030-08.png"
+    },
+    {
+        "id": 53,
+        "name": "ASUS ROG Loki SFX-L 1000W Platinum (Fully Modular Power Supply, 80+ Platinum, 120mm PWM ARGB Fan, Aura Sync, ATX 3.0 Compatible, PCIe 5.0 Ready)",
+        "price": "240.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-035-13.png"
+    },
+    {
+        "id": 54,
+        "name": "Thermaltake Toughpower GF A3 ATX 3.0 750W 80+ Gold Full Modular SLI/Crossfile Ready Power Supply; PCIe Gen.5 300W 12VHPWR Connector Included; PS-TPD-0750FNFAGU-L)",
+        "price": "89.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-450-07.jpg"
+    },
+    {
+        "id": 55,
         "name": "Thermaltake Toughpower GX2 80+ Gold 600W SLI/Crossfire Ready Continuous Power ATX 12V V2.4/EPS V2.92 Non Modular Power Supply 5 Year Warranty PS-TPD-0600NNFAGU-2",
         "price": "67.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-415-V10.jpg"
     },
     {
+        "id": 56,
         "name": "Seasonic FOCUS GX-750, 750W 80+ Gold, Full- Modular, ATX Form Factor, Low Noise, Premium Japanese Capacitor, 10 Year Warranty, Nvidia RTX 30/40 Super, AMD GPU Compatible, Ref# SSR-750FX",
         "price": "109.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-151-187-V17.jpg"
     },
     {
+        "id": 57,
         "name": "be quiet! Dark Power PRO 13 1600W ATX 3.0 Power Supply | 80 Plus Titanium Efficiency | PCIe 5 | Modular | Overclocking Support | 10 Year Warranty | BN501",
         "price": "399.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS2305100XB4ALC9.jpg"
     },
     {
+        "id": 58,
         "name": "be quiet! Dark Power 13 1000W ATX 3.0 Power Supply | 80 PLUS Titanium Efficiency | PCIe 5.0 | Fully Digital | Fully Modular PSU | Overclocking Key | 10 Year Warranty",
         "price": "289.90",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS2301270XTEZS9A.jpg"
     },
     {
+        "id": 59,
         "name": "Thermaltake Toughpower GF3 1350W, ATX 3.0 Standard, PCIe Gen.5 600W 12VHPWR Connector Included, 80+ Gold Full Modular SLI/Crossfire Ready Power Supply, 10 Year Warranty, PS-TPD-1350FNFAGU-4",
         "price": "199.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-435-01.jpg"
     },
     {
+        "id": 60,
         "name": "EVGA SuperNOVA 850 P5, 80 Plus Platinum 850W, Fully Modular, Eco Mode with FDB Fan, 10 Year Warranty, Includes Power ON Self Tester, Compact 150mm Size, Power Supply 220-P5-0850-X1",
         "price": "119.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-223-16.jpg"
     },
     {
+        "id": 61,
         "name": "EVGA 700 GD 100-GD-0700-V1 700 W ATX12V / EPS12V 80 PLUS GOLD Certified Non-Modular Active PFC Power Supply",
         "price": "84.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-159-V09.jpg"
     },
     {
+        "id": 62,
         "name": "Thermaltake Toughpower GF3 1000W, ATX 3.0 Standard, PCIe Gen.5 600W 12VHPWR Connector Included, 80+ Gold Full Modular SLI/Crossfire Ready Power Supply, 10 Year Warranty, PS-TPD-1000FNFAGU-4",
         "price": "177.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-437-01.jpg"
     },
     {
+        "id": 63,
         "name": "EVGA SuperNOVA 1300 G+, 80+ GOLD 1300W, Fully Modular, 10 Year Warranty, Includes FREE Power On Self Tester, Power Supply - 220-GP-1300-X1",
         "price": "269.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-190-V01.jpg"
     },
     {
+        "id": 64,
         "name": "CORSAIR HX1500i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR iCUE Software Compatible - 80 PLUS Platinum Efficiency",
         "price": "359.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-320-07.jpg"
     },
     {
+        "id": 65,
         "name": "CORSAIR AXi Series AX1600i CP-9020087-NA 1600W ATX 80 PLUS TITANIUM Certified Full Modular Digital ATX Power Supply",
         "price": "609.94",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-226-V01.jpg"
     },
     {
+        "id": 66,
         "name": "GIGABYTE GP-UD1300GM PG5 1300W 80 Plus Gold Certified Fully Modular Power Supply",
         "price": "199.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-233-042-07.jpg"
     },
     {
+        "id": 67,
         "name": "CORSAIR SF850L Fully Modular Low-Noise SFX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Quiet 120mm PWM Fan - 80 PLUS Gold Efficiency - Zero RPM Mode - 105°C-Rated Capacitors",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-308-03.png"
     },
     {
+        "id": 68,
         "name": "Seasonic VERTEX GX-1000, 1000W 80+ Gold, ATX 3.0 & PCIe 5.0 Ready, Full-Modular, ATX Form Factor, Low Noise, Premium Japanese Capacitor, 12 Year Warranty, Nvidia RTX 30/40 Super, AMD GPU Compatible",
         "price": "169.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-022-03.png"
     },
     {
+        "id": 69,
         "name": "DeepCool PX850G ATX3.0 80 PLUS Gold Fully Modular 850W Power Supply, 135mm FDB Fan with Silent Fanless Mode, 160mm Compact Size",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-328-038-01.jpg"
     },
     {
+        "id": 70,
         "name": "Thermaltake Toughpower GF A3 ATX 3.0 1050W 80+ Gold Full Modular SLI/Crossfile Ready Power Supply; PCIe Gen.5 600W 12VHPWR Connector Included; PS-TPD-1050FNFAGU-L)",
         "price": "153.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-448-07.jpg"
     },
     {
+        "id": 71,
+        "name": "EVGA SuperNOVA 1300 GT, 80 Plus Gold 1300W, Fully Modular, Eco Mode with FDB Fan, 100% Japanese Capacitors, 10 Year Warranty, Includes Power ON Self Tester, Compact 180mm Size, 220-GT-1300-X1",
+        "price": "219.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-231-V09.jpg"
+    },
+    {
+        "id": 72,
         "name": "Thermaltake Toughpower GF A3 650W 80+ Gold Full Modular SLI/Crossfile Ready ATX 3.0 Standard Power Supply; PCIe Gen.5 300W 12VHPWR Connector Included; PS-TPD-0650FNFAGU-L; 10 Year Warranty",
-        "price": "91.99",
+        "price": "98.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-453-01.jpg"
     },
     {
+        "id": 73,
         "name": "EVGA 650 BP, 80+ BRONZE 650W, 3 Year Warranty, Compact 120mm Size, Power Supply 100-BP-0650-K1",
         "price": "64.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-253-01.png"
     },
     {
+        "id": 74,
         "name": "ASUS ROG Loki SFX-L 850W Platinum (Fully Modular Power Supply, 80+ Platinum, 120mm PWM ARGB Fan, Aura Sync, ATX 3.0 Compatible, PCIe 5.0 Ready)",
         "price": "212.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-320-031-26.png"
     },
     {
+        "id": 75,
         "name": "MSI MAG A550BN 550 W ATX12V 80 PLUS BRONZE Certified Active PFC Power Supply",
         "price": "49.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-012-01.png"
     },
     {
+        "id": 76,
         "name": "MSI MAG A650BN 650W ATX 80 PLUS BRONZE Certified Active PFC Power Supply",
         "price": "59.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-701-013-08.png"
     },
     {
+        "id": 77,
         "name": "CORSAIR HX1000i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR  iCUE Software Compatible - 80 PLUS Platinum Efficiency",
         "price": "234.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-139-313-01.png"
     },
     {
+        "id": 78,
         "name": "EVGA SuperNOVA 1000 G7 220-G7-1000-X1 1000 W ATX12V / EPS12V SLI CrossFire 80 PLUS GOLD Certified Full Modular Active PFC Power Supply",
         "price": "154.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/17-438-238-01.jpg"
-    },
-    {
-        "name": "Thermaltake Toughpower GF3 750W, ATX 3.0 Standard, PCIe Gen.5 300W 12VHPWR Connector Included, 80+ Gold Full Modular SLI/Crossfire Ready Power Supply, 10 Year Warranty, PS-TPD-0750FNFAGU-4",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17-153-439-01.jpg"
     }
 ]

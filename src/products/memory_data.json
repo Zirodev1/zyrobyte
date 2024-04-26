@@ -1,377 +1,452 @@
 [
     {
+        "id": 1,
         "name": "Team Group Delta RGB DDR5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7800 (PC5 62400) Desktop Memory Model FF3D532G7800HC38DDC01",
         "price": "179.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
     },
     {
+        "id": 2,
         "name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3636F16GX2-TZ5RK",
         "price": "114.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-351-10.png"
     },
     {
+        "id": 3,
         "name": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model F5-6400J3239G32GX2-TZ5RK",
         "price": "219.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-432-07.png"
     },
     {
-        "name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7200 (PC5 57600) Desktop Memory Model F5-7200J3445G16GX2-TZ5RK",
-        "price": "129.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-436-07.png"
+        "id": 4,
+        "name": "G.SKILL Trident Z5 Neo RGB Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3038F16GX2-TZ5NR",
+        "price": "112.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-427-10.png"
     },
     {
-        "name": "Team T-FORCE VULCAN Z 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model TLZGD432G3200HC16FDC01",
-        "price": "62.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-618-02.jpg"
-    },
-    {
+        "id": 5,
         "name": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5",
         "price": "106.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-419-07.png"
     },
     {
+        "id": 6,
+        "name": "Team T-FORCE VULCAN Z 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model TLZGD432G3200HC16FDC01",
+        "price": "62.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-618-02.jpg"
+    },
+    {
+        "id": 7,
         "name": "CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model CMW32GX4M2D3600C18",
         "price": "94.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-607-02.jpg"
     },
     {
+        "id": 8,
         "name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 Desktop Memory Model F5-6400J3239G16GX2-TZ5RK",
-        "price": "119.99",
+        "price": "112.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-358-10.png"
     },
     {
+        "id": 9,
         "name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2E6000C36",
         "price": "117.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-909-03.jpg"
     },
     {
+        "id": 10,
         "name": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GVK",
         "price": "67.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-232-091-08.jpg"
     },
     {
+        "id": 11,
         "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model FF3D532G6000HC38ADC01",
         "price": "105.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
     },
     {
+        "id": 12,
         "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model TF4D432G3600HC18JDC01",
         "price": "69.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-515-03.jpg"
     },
     {
-        "name": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
-        "price": "38.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-231-941-03.jpg"
-    },
-    {
+        "id": 13,
         "name": "G.SKILL Trident Z5 RGB Series 48GB (2 x 24GB) 288-Pin PC RAM DDR5 8000 (PC5 64000) Desktop Memory Model F5-8000J4048F24GX2-TZ5RK",
         "price": "259.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-460-01.png"
     },
     {
+        "id": 14,
+        "name": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-16GVKB",
+        "price": "38.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-231-941-03.jpg"
+    },
+    {
+        "id": 15,
         "name": "G.SKILL Trident Z5 Neo RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model F5-6400J3239G16GX2-TZ5NR",
         "price": "109.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-519-02.png"
     },
     {
-        "name": "Crucial Pro 32GB (2 x 16GB) DDR5 5600 (PC5 44800) XMP 3.0 & AMD EXPO Ready Desktop Memory Model CP2K16G56C46U5",
-        "price": "104.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-328-17.png"
-    },
-    {
-        "name": "G.SKILL TridentZ RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C18D-32GTZR",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-232-920-V01.jpg"
-    },
-    {
+        "id": 16,
         "name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2B6000C40L",
         "price": "109.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-879-03.jpg"
     },
     {
+        "id": 17,
+        "name": "Crucial Pro 32GB (2 x 16GB) DDR5 5600 (PC5 44800) XMP 3.0 & AMD EXPO Ready Desktop Memory Model CP2K16G56C46U5",
+        "price": "104.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-328-17.png"
+    },
+    {
+        "id": 18,
+        "name": "G.SKILL TridentZ RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C18D-32GTZR",
+        "price": "79.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-232-920-V01.jpg"
+    },
+    {
+        "id": 19,
         "name": "Team T-Force Vulcan 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model FLBD532G5600HC32DC01",
         "price": "92.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-848-V01.jpg"
     },
     {
+        "id": 20,
         "name": "CORSAIR Vengeance LPX 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK64GX4M2E3200C16",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-586-V01.jpg"
     },
     {
+        "id": 21,
         "name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2E6000C36W",
         "price": "114.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-887-01.jpg"
     },
     {
-        "name": "OLOy Blade RGB (OLOY) 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model ND5U1664360IRKDA",
-        "price": "97.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-559-03.jpg"
-    },
-    {
-        "name": "CORSAIR Vengeance 64GB (2 x 32GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CMK64GX5M2B5600C40",
-        "price": "187.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-848-04.jpg"
-    },
-    {
-        "name": "G.SKILL Ripjaws S5 Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040G32GX2-RS5K",
-        "price": "197.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-451-03.png"
-    },
-    {
+        "id": 22,
         "name": "OLOy WarHawk RGB (Intel/AMD Ready) 288-Pin PC RAM DDR4 3600 (PC4 28800) 16GB (2 x 8GB) Desktop Memory Model MD4U083618BEDA",
         "price": "43.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-167-Z05.jpg"
     },
     {
+        "id": 23,
+        "name": "OLOy Blade RGB (OLOY) 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model ND5U1664360IRKDA",
+        "price": "97.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-559-03.jpg"
+    },
+    {
+        "id": 24,
+        "name": "G.SKILL Ripjaws S5 Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040G32GX2-RS5K",
+        "price": "197.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-451-03.png"
+    },
+    {
+        "id": 25,
         "name": "G.SKILL Trident Z RGB (For AMD) 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model F4-3200C16D-32GTZRX",
         "price": "84.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-232-752-01.jpg"
     },
     {
+        "id": 26,
+        "name": "CORSAIR Vengeance 64GB (2 x 32GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CMK64GX5M2B5600C40",
+        "price": "187.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-848-04.jpg"
+    },
+    {
+        "id": 27,
         "name": "CORSAIR Vengeance RGB 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH64GX5M2N6000C30",
         "price": "199.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-879-03.jpg"
     },
     {
-        "name": "G.SKILL Ripjaws V Series 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C18D-64GVK",
-        "price": "134.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-003-02.jpg"
-    },
-    {
-        "name": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CMK32GX5M2B5600C36",
-        "price": "117.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-828-V01.jpg"
-    },
-    {
-        "name": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C18D-16GVK",
-        "price": "40.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-232-882-02.jpg"
-    },
-    {
+        "id": 28,
         "name": "G.SKILL Trident Z5 Neo Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040G32GX2-TZ5N",
         "price": "209.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-443-08.png"
     },
     {
+        "id": 29,
+        "name": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CMK32GX5M2B5600C36",
+        "price": "117.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-828-V01.jpg"
+    },
+    {
+        "id": 30,
+        "name": "G.SKILL Ripjaws V Series 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C18D-64GVK",
+        "price": "129.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-003-02.jpg"
+    },
+    {
+        "id": 31,
+        "name": "G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model F4-3600C18D-16GVK",
+        "price": "40.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-232-882-02.jpg"
+    },
+    {
+        "id": 32,
         "name": "Crucial Pro Overclocking 32GB (2 x 16GB) DDR5 6000 (PC5 48000) Desktop Memory Model CP2K16G60C36U5B",
         "price": "104.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-394-10.jpg"
     },
     {
+        "id": 33,
         "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model TF3D432G3600HC18JDC01",
         "price": "69.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-514-01.jpg"
     },
     {
+        "id": 34,
         "name": "CORSAIR Vengeance RGB Pro SL 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model CMH32GX4M2D3600C18W",
         "price": "99.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-708-V02.jpg"
     },
     {
+        "id": 35,
         "name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) XMP 3.0 AMD EXPO Desktop Memory Model CMH32GX5M2B6000Z30K",
         "price": "124.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-888-02.jpg"
     },
     {
-        "name": "CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK16GX4M2E3200C16",
-        "price": "39.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-540-S01.jpg"
-    },
-    {
-        "name": "Kingston FURY Beast 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory (Desktop Memory) Model KF560C36BBEAK2-32",
-        "price": "127.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-737-01.jpg"
-    },
-    {
+        "id": 36,
         "name": "OLOy Blade RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model ND4U1636181DRKDE",
         "price": "69.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-371-V01.jpg"
     },
     {
-        "name": "Team Group Delta RGB DDR5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7800 (PC5 62400) Desktop Memory Model FF3D532G7800HC38DDC01",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
-    },
-    {
-        "name": "Team Group Delta RGB DDR5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7800 (PC5 62400) Desktop Memory Model FF3D532G7800HC38DDC01",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
-    },
-    {
-        "name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2D6000C36W",
+        "id": 37,
+        "name": "Kingston FURY Beast 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory (Desktop Memory) Model KF560C36BBEAK2-32",
         "price": "127.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-887-01.jpg"
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-737-01.jpg"
     },
     {
+        "id": 38,
+        "name": "Team Group Delta RGB DDR5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7800 (PC5 62400) Desktop Memory Model FF3D532G7800HC38DDC01",
+        "price": "179.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Team Group Delta RGB DDR5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7800 (PC5 62400) Desktop Memory Model FF3D532G7800HC38DDC01",
+        "price": "179.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
+    },
+    {
+        "id": 40,
+        "name": "CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK16GX4M2E3200C16",
+        "price": "39.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-540-S01.jpg"
+    },
+    {
+        "id": 41,
         "name": "Team T-FORCE VULCAN Z 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model TLZGD416G3600HC18JDC01",
         "price": "37.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-542-05.jpg"
     },
     {
-        "name": "Kingston FURY Beast 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Memory (Desktop Memory) Model KF432C16BBK2/16",
-        "price": "42.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AFYUD2308020U7WRGE3.jpg"
+        "id": 42,
+        "name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2D6000C36W",
+        "price": "127.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-887-01.jpg"
     },
     {
+        "id": 43,
         "name": "OLOy OWL 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model MD4U083216BJDA",
         "price": "35.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-248-S01.jpg"
     },
     {
-        "name": "Kingston Fury Renegade 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory (Desktop Memory) Model KF560C32RSAK2-32",
-        "price": "137.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A4YUD23052206SYVU4E.jpg"
+        "id": 44,
+        "name": "Kingston FURY Beast 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Memory (Desktop Memory) Model KF432C16BBK2/16",
+        "price": "42.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/AFYUD2308020U7WRGE3.jpg"
     },
     {
+        "id": 45,
         "name": "CORSAIR Vengeance RGB 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH64GX5M2B6000C40L",
         "price": "189.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-879-03.jpg"
     },
     {
+        "id": 46,
         "name": "OLOy OWL 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model MD4U0836180BHKDA",
-        "price": "43.99",
+        "price": "42.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-245-S01.jpg"
     },
     {
+        "id": 47,
+        "name": "Kingston Fury Renegade 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory (Desktop Memory) Model KF560C32RSAK2-32",
+        "price": "137.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/A4YUD23052206SYVU4E.jpg"
+    },
+    {
+        "id": 48,
         "name": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model CMK32GX4M2D3600C18S",
         "price": "67.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-951-01.png"
     },
     {
+        "id": 49,
         "name": "Kingston Fury Renegade 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model KF564C32RWAK2-64",
         "price": "259.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-809-01.jpg"
     },
     {
+        "id": 50,
         "name": "OLOy OWL 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3000 (PC4 24000) Desktop Memory Model MD4U083016BGDA",
-        "price": "37.99",
+        "price": "35.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-077-02.jpg"
     },
     {
+        "id": 51,
         "name": "Kingston FURY Beast 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory (Desktop Memory) Model KF560C36BBEK2-64",
         "price": "219.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-242-743-01.jpg"
     },
     {
+        "id": 52,
         "name": "OLOy Blade (OLOY) 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model ND5U3264321BRLDA",
-        "price": "199.99",
+        "price": "194.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-567-01.jpg"
     },
     {
+        "id": 53,
         "name": "Kingston FURY Beast 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Memory (Desktop Memory) Model KF432C16BBK2/32",
         "price": "77.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/AFYUD240419188JA526.jpg"
     },
     {
+        "id": 54,
         "name": "Patriot Viper Venom 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVV532G600C36K",
-        "price": "104.99",
+        "price": "99.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-225-315-01.jpg"
     },
     {
+        "id": 55,
         "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model FF3D532G6000HC30DC01",
         "price": "106.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
     },
     {
-        "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model FF4D532G6000HC30DC01",
-        "price": "106.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-749-05.jpg"
-    },
-    {
+        "id": 56,
         "name": "Crucial Pro 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CP2K16G4DFRA32A",
         "price": "58.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-327-09.jpg"
     },
     {
+        "id": 57,
+        "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model FF4D532G6000HC30DC01",
+        "price": "106.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-749-05.jpg"
+    },
+    {
+        "id": 58,
         "name": "Patriot Viper 3 16GB (2 x 8GB) 240-Pin PC RAM DDR3 1600 (PC3 12800) Desktop Memory Model PV316G160C9K",
         "price": "27.49",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-220-686-02.jpg"
     },
     {
+        "id": 59,
         "name": "G.SKILL Trident Z5 Neo RGB Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3038F16GX2-TZ5NR",
-        "price": "119.99",
+        "price": "112.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-427-10.png"
     },
     {
-        "name": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 4400 (PC4 35200) Desktop Memory Model F4-4400C19D-32GVK",
-        "price": "82.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-173-V01.jpg"
-    },
-    {
+        "id": 60,
         "name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7200 (PC5 57600) Desktop Memory Model F5-7200J3445G16GX2-TZ5RK",
         "price": "129.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-436-07.png"
     },
     {
-        "name": "G.SKILL Ripjaws S5 Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040F16GX2-RS5K",
-        "price": "109.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-369-V04.jpg"
-    },
-    {
+        "id": 61,
         "name": "Team T-FORCE VULCAN Z 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model TLZGD416G3200HC16CDC01",
         "price": "35.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-354-V08.jpg"
     },
     {
+        "id": 62,
+        "name": "G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 4400 (PC4 35200) Desktop Memory Model F4-4400C19D-32GVK",
+        "price": "82.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-173-V01.jpg"
+    },
+    {
+        "id": 63,
         "name": "CORSAIR Vengeance RGB Pro 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model CMW64GX4M2D3600C18",
         "price": "159.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-602-02.jpg"
     },
     {
+        "id": 64,
+        "name": "G.SKILL Ripjaws S5 Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040F16GX2-RS5K",
+        "price": "109.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-369-V04.jpg"
+    },
+    {
+        "id": 65,
         "name": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model CMK32GX4M2D3600C18",
         "price": "81.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-236-596-S02.jpg"
     },
     {
+        "id": 66,
         "name": "CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CMK16GX4M2B3200C16",
         "price": "44.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-233-859-01.jpg"
     },
     {
+        "id": 67,
         "name": "G.SKILL Flare X5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3038F16GX2-FX5",
         "price": "106.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-457-02.png"
     },
     {
-        "name": "Crucial Pro 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CP2K32G4DFRA32A",
-        "price": "129.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-327-09.jpg"
-    },
-    {
-        "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7200 (PC5 57600) Desktop Memory Model FF3D532G7200HC34ADC01",
-        "price": "124.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
-    },
-    {
+        "id": 68,
         "name": "Team T-FORCE VULCAN Z 16GB (2 x 8GB) DDR4 3200 (PC4 25600) Desktop Memory Model TLZGD416G3200HC16FDC01",
         "price": "35.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-616-01.jpg"
     },
     {
+        "id": 69,
+        "name": "Crucial Pro 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model CP2K32G4DFRA32A",
+        "price": "129.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-156-327-09.jpg"
+    },
+    {
+        "id": 70,
         "name": "CORSAIR DOMINATOR TITANIUM 64GB (2 x 32GB) DDR5 6000 (PC5 48000) Desktop Memory Model CMP64GX5M2B6000C30W",
         "price": "289.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-982-098-01.png"
     },
     {
-        "name": "Team T-FORCE VULCAN Z 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model TLZGD432G3600HC18JDC01",
-        "price": "59.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-544-05.jpg"
-    },
-    {
+        "id": 71,
         "name": "OLOy Blade RGB (OLOY) 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model ND5U3264320IRKDE",
         "price": "184.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-821-559-03.jpg"
     },
     {
+        "id": 72,
         "name": "Mushkin Enhanced Redline Stiletto 16GB (2 x 8GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory Model MRF4U360JNNM8GX2",
         "price": "42.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-226-988-01.jpg"
     },
     {
+        "id": 73,
+        "name": "Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 7200 (PC5 57600) Desktop Memory Model FF3D532G7200HC34ADC01",
+        "price": "124.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-331-923-01.jpg"
+    },
+    {
+        "id": 74,
         "name": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model F5-6000J3040G32GX2-TZ5NR",
         "price": "214.99",
         "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-445-11.png"
+    },
+    {
+        "id": 75,
+        "name": "G.SKILL TridentZ RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR4 4400 (PC4 35200) Desktop Memory Model F4-4400C19D-32GTZR",
+        "price": "99.99",
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/20-374-166-V05.jpg"
     }
 ]

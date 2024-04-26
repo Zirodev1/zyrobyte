@@ -3,6 +3,7 @@
 .selected-parts-form {
     margin: 0 auto;
     width: 50%;
+    background-color: #f7f7f7;
 }
 
 .partCard {
@@ -13,6 +14,7 @@
     align-items: center;
     border: 1px solid #333;
     margin:  0 auto;
+    background-color: #ffffff;
 }
 
 .partCard img {
@@ -37,4 +39,11 @@
 
 .cardDesc h3 {
     margin: 0 30px;
+}
+
+.partInfoContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 50px;
+    margin-top: 50px;
 }

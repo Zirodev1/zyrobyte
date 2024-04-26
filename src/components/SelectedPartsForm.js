@@ -16,7 +16,13 @@ import hddPng from '../icons/hdd.png';
 const SelectedPartsForm = ({ selectedParts }) => {
   return (
     <div className="selected-parts-form">
-      <h2>My part list</h2>
+        <div className='partInfoContainer'>
+            <h2>My part list</h2>
+            <div className='partsInfo'>
+                <p>Parts(s) Selected</p>
+                <p>Total Cost: $0.00</p>
+            </div>
+        </div>
       <div className='cardDesc'>
         <h3>Component</h3>
         <h3>Selected Part</h3>

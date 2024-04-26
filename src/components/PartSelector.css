@@ -21,13 +21,14 @@
   }
   
   .part-item {
-    width: 100px;
+    width: 150px;
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 0.5rem;
     text-align: center;
     background-color: #f9f9f9;
     transition: all 0.3s ease;
+    margin: 10px auto;
   }
   
   .part-item:hover {
@@ -64,4 +65,23 @@
   .part-item button:hover {
     background-color: #002752;
   }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+  .pagination button{
+    padding: .5rem 1rem;
+    margin: 0 .3rem;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+
+  .pagination button.active, .pagination button:hover{
+background-color: #004085;
+color: white;
+}
   

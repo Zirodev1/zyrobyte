@@ -22,6 +22,11 @@
     max-width: 800px;
     width: 100%;
   }
+
+  .categories button{
+    padding: 10px;
+    margin-left: 1rem;
+  }
   
   .submit-btn {
     margin-top: 1rem;
