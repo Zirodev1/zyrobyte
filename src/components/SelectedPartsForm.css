@@ -1,9 +1,9 @@
 /* SelectedPartsForm.css */
 
 .selected-parts-form {
-    margin: 0 auto;
-    width: 50%;
+    width: 45%;
     background-color: #f7f7f7;
+    margin: 0 auto;
 }
 
 .partCard {

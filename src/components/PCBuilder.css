@@ -2,15 +2,13 @@
 
 .builder-container {
     display: flex;
-    
+    width: 1800px;
+    margin: 0 auto;
 }
 
 .pc-builder {
-    font: 'Areal', sans-serif;
-    color: #333;
-    background-color: #f7f7f7;
-    padding: 2rem;
-    max-width: 50%;
+    width: 45%;
+    margin: 0 auto;
   }
 
   .pc-builder h1 {
@@ -20,7 +18,7 @@
   
   .pc-builder form {
     max-width: 800px;
-    width: 100%;
+    width: 90%;
   }
 
   .categories button{

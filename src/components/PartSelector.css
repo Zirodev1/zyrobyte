@@ -1,6 +1,7 @@
 /* PartSelector.css */
 
 .part-selector {
+    width: 100%;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -14,14 +15,13 @@
   }
   
   .part-options {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+    width: 99%;
     margin: 0 auto;
   }
   
   .part-item {
-    width: 150px;
+    display: flex;
+    width: 98%;
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 0.5rem;
@@ -30,14 +30,29 @@
     transition: all 0.3s ease;
     margin: 10px auto;
   }
+
+  .part-details {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .part-details div {
+    width: 100px;
+  }
+
+  .part-img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
   
   .part-item:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
   }
   
   .part-item img {
-    max-width: 100%;
-    display: block;
+    max-width: 100px;
     margin: 0 auto 1rem;
   }
   
@@ -56,7 +71,8 @@
     background-color: #004085;
     color: white;
     border: none;
-    padding: 0.5rem 1rem;
+    height: 50px;
+    /* padding: 0.5rem 1rem; */
     cursor: pointer;
     border-radius: 4px;
     transition: background-color 0.2s;

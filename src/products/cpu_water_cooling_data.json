@@ -1,470 +1,482 @@
 [
     {
         "id": 1,
-        "name": "DeepCool LS720S ZERO DARK Liquid Cooler 360mm 4th Gen Pump 3100RPM 300w TDP AIO Cooler Anti-Leak Tech CPU Water Cooler Textured Block for AMD AM4/AM5 LGA 1700/1200, Black",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-275-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-353-01.png",
+        "title": "CORSAIR H100x RGB ELITE Liquid CPU Cooler - 32 Dynamic RGB LEDs - iCUE-Ready SP120 RGB ELITE Fans - Intel® LGA 1700, 1200, 115X, 2066, AMD® AM4 Sockets",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$99.99–"
     },
     {
         "id": 2,
-        "name": "MSI MAG Core Liquid 360R V2 AIO Liquid CPU Cooler, 360mm Radiator, Triple PWM, ARGB Lighting Controlled by Software LGA 1700 Ready / AM5 Compatible",
-        "price": "110.24",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-846-027-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-234-07.jpg",
+        "title": "DeepCool LT720 Premium Liquid CPU Cooler, 360mm, High-Performance FK120 FDB Fans, Multidimensional Infinity Mirror Block",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$139.99–"
     },
     {
         "id": 3,
-        "name": "ASUS ROG Ryujin III 360 ARGB all-in-one liquid CPU cooler with 360mm radiator. Asetek 8th gen pump, 3x magnetic 120mm ARGB fans (Daisy Chain design), 3.5” LCD display",
-        "price": "339.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-098-15.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-134-01.jpg",
+        "title": "NZXT Kraken Elite RGB 360mm - RL-KR36E-W1 – RGB AIO CPU Liquid Cooler – Customizable LCD Display - 3 x F120RGB Core Fans Radiator Fans White LGA 1700 / AM5 Compatible",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$283.99–"
     },
     {
         "id": 4,
-        "name": "Valkyrie Syn 360 Black - AIO CPU Liquid Cooler - LCD Screen Inside PC - 3x Fluid Dynamic Bearing X12 Fans, 360mm Water Cooler, Compatible w/ AMD AM4/AM5, Ryzen 7 7800x3d, Intel 14900k, LGA1700/1200",
-        "price": "223.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BREZS24031211Y3KT59.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-255-01.jpg",
+        "title": "DeepCool LS720 SE Liquid Cooler 360mm 4th Gen Dual-Chamber Pump 3100RPM 300w TDP AIO Cooler Anti-Leak Tech with ARGB Fans CPU Water Cooler Narrow Frame Infinity Mirror Block for AMD AM4/AM5 LGA 1700/1",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$109.99–"
     },
     {
         "id": 5,
-        "name": "NZXT Kraken 240mm - RL-KN240-B1 – AIO CPU Liquid Cooler - LCD Display - 2 x F120P Static Pressure Fan Radiator Fans LGA 1700 / AM5 Compatible",
-        "price": "120.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-146-118-10.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-335-08.png",
+        "title": "COOLER MASTER MLW-D24M-A18PA-R2 Water Cooler",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$69.99–"
     },
     {
         "id": 6,
-        "name": "NZXT Kraken Elite 360mm - RL-KN36E-B1 – AIO CPU Liquid Cooler - Customizable LCD Display - 3 x F120P Static Pressure Fan Radiator Fans LGA 1700 / AM5 Compatible",
-        "price": "266.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-146-129-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-337-01.png",
+        "title": "CORSAIR iCUE H150i ELITE LCD XT Liquid CPU Cooler - IPS LCD Screen - AF120 RGB ELITE Fans - 360mm Radiator - Fits Intel® LGA 1700, AMD® AM5, and More",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$289.99–"
     },
     {
         "id": 7,
-        "name": "X360 CPU Water Cooler AIO Cooler 360mm CPU Liquid Cooler Black 3 x120mm PWM Fans with Temperature Display, Intel 1700/1200/115X, AMD AM5/AM4",
-        "price": "88.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BT2US2311240MRAE20D.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-846-027-07.jpg",
+        "title": "MSI MAG CoreLiquid 360R V2 Water Cooler",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$123.99–"
     },
     {
         "id": 8,
-        "name": "DeepCool LS720 SE Liquid Cooler 360mm 4th Gen Dual-Chamber Pump 3100RPM 300w TDP AIO Cooler Anti-Leak Tech with ARGB Fans CPU Water Cooler Narrow Frame Infinity Mirror Block for AMD AM4/AM5 LGA 1700/1",
-        "price": "109.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-255-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-254-S01.jpg",
+        "title": "DeepCool LS720 SE Liquid Cooler 360mm 4th Gen Dual-Chamber Pump 3100RPM 300w TDP AIO Cooler Anti-Leak Tech with ARGB Fans CPU Water Cooler Narrow Frame Infinity Mirror Block for AMD AM4/AM5 LGA 1700/1",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$109.99–"
     },
     {
         "id": 9,
-        "name": "CORSAIR iCUE H150i ELITE LCD XT Liquid CPU Cooler - White - IPS LCD Screen - AF120 RGB ELITE Fans - 360mm Radiator - Fits Intel® LGA  1700, AMD® AM5, and More",
-        "price": "299.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-339-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-355-01.png",
+        "title": "Cooler Master MasterLiquid 360L Core 360mm Close-Loop AIO Liquid Cooler, ARGB Sync, Gen S Coldplate Pump, 120mm PWM, CryoFuze 14W/mK, AMD Ryzen AM5/AM4, Intel LGA 1700/1200 (MLW-D36M-A18PZ-R1)",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$99.99–"
     },
     {
         "id": 10,
-        "name": "SAMA 360mm Liquid Water AIO CPU Cooler For Gaming PC Computer with Screen LCD Display, 3 ARGB PWM Silent Fans",
-        "price": "140.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/B41TS2401210RS1TR0B.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-332-01.png",
+        "title": "CORSAIR iCUE H150i ELITE CAPELLIX XT Liquid CPU Cooler - AF120 RGB ELITE Fans - 360mm Radiator - Intel® LGA 1700, 1200, 115X, 2066 AMD® AM5, AM4",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$219.99–"
     },
     {
         "id": 11,
-        "name": "NZXT Kraken Elite RGB 360mm - RL-KR36E-W1 – RGB AIO CPU Liquid Cooler – Customizable LCD Display - 3 x F120RGB Core Fans Radiator Fans White LGA 1700 / AM5 Compatible",
-        "price": "283.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-146-134-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-250-09.jpg",
+        "title": "DeepCool LT720 WH Premium Liquid CPU Cooler, 360mm, High-Performance FK120 FDB Fans, Multidimensional Infinity Mirror Block DeepCool LT720 WH Premium Liquid CPU Cooler, 360mm, High-Performance FK1",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$139.99–"
     },
     {
         "id": 12,
-        "name": "CORSAIR iCUE H150i ELITE CAPELLIX XT Liquid CPU Cooler - White - AF120 RGB ELITE Fans - 360mm Radiator - Intel® LGA 1700, 1200,  115X, 2066 AMD® AM5, AM4",
-        "price": "229.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-335-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-257-07.jpg",
+        "title": "DeepCool LS520 SE Liquid Cooler 240mm 4th Gen Dual-Chamber Pump 3100RPM 280w TDP AIO Cooler Anti-Leak Tech with ARGB Fans CPU Water Cooler Narrow Frame Infinity Mirror Block for AMD AM4/AM5 LGA 1700/1",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$89.99–"
     },
     {
         "id": 13,
-        "name": "NZXT Kraken RGB 240mm - RL-KR240-W1- AIO RGB CPU Liquid Cooler - LCD Display - 2 x F120RGB Core Fans Radiator Fans White LGA 1700 / AM5 Compatible",
-        "price": "172.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-146-121-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-129-01.jpg",
+        "title": "NZXT Kraken Elite 360mm - RL-KN36E-B1 – AIO CPU Liquid Cooler - Customizable LCD Display - 3 x F120P Static Pressure Fan Radiator Fans LGA 1700 / AM5 Compatible",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$265.99–"
     },
     {
         "id": 14,
-        "name": "EK Nucleus AIO CR360 Lux D-RGB 360mm AIO Liquid CPU Cooler with EK FPT 120mm Fans - Compatible with latest Intel and AMD CPU sockets - LGA 1700 and AM5",
-        "price": "163.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AWVVS2402290KIZLE01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-317-15.jpg",
+        "title": "CORSAIR CW-9060058-WW Water Cooler",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$119.99–"
     },
     {
         "id": 15,
-        "name": "CORSAIR H100x RGB ELITE Liquid CPU Cooler - 32 Dynamic RGB LEDs - iCUE-Ready SP120 RGB ELITE Fans - Intel® LGA 1700, 1200, 115X,  2066, AMD® AM4 Sockets",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-353-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-335-01.png",
+        "title": "CORSAIR iCUE H150i ELITE CAPELLIX XT Liquid CPU Cooler - White - AF120 RGB ELITE Fans - 360mm Radiator - Intel® LGA 1700, 1200, 115X, 2066 AMD® AM5, AM4",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$229.99–"
     },
     {
         "id": 16,
-        "name": "CORSAIR iCUE H150i ELITE LCD XT Liquid CPU Cooler - IPS LCD Screen - AF120 RGB ELITE Fans - 360mm Radiator - Fits Intel® LGA 1700,  AMD® AM5, and More",
-        "price": "289.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-337-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-101-098-15.png",
+        "title": "ASUS ROG Ryujin III 360 ARGB all-in-one liquid CPU cooler with 360mm radiator. Asetek 8th gen pump, 3x magnetic 120mm ARGB fans (Daisy Chain design), 3.5” LCD display",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$339.99–"
     },
     {
         "id": 17,
-        "name": "360 ARGB CPU Water Cooler 5V 3-PIN Connector 360mm Addressable RGB Fan0mm CPU Liquid Cooler,AIOCooler,LGA115X/1200/1700/1366/2011 / 2066, AM5 / AM4 /AM3+/AM3/AM2+/AM2/FM2+/FM2/ White",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BT2US2312280SVG8Q46.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-118-10.jpg",
+        "title": "NZXT Kraken 240mm - RL-KN240-B1 – AIO CPU Liquid Cooler - LCD Display - 2 x F120P Static Pressure Fan Radiator Fans LGA 1700 / AM5 Compatible",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$120.99–"
     },
     {
         "id": 18,
-        "name": "CORSAIR CW-9060060-WW iCUE H150i RGB ELITE Liquid CPU Cooler",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-319-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-233-01.jpg",
+        "title": "DeepCool LT520 Premium Liquid CPU Cooler, 240mm, High-Performance FK120 FDB Fans, Multidimensional Infinity Mirror Block",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$109.99–"
     },
     {
         "id": 19,
-        "name": "CORSAIR iCUE H150i ELITE CAPELLIX XT Liquid CPU Cooler - AF120 RGB ELITE Fans - 360mm Radiator - Intel® LGA 1700, 1200, 115X, 2066  AMD® AM5, AM4",
-        "price": "219.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-332-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-135-01.jpg",
+        "title": "NZXT Kraken Elite RGB 360mm - RL-KR36E-B1 – RGB AIO CPU Liquid Cooler – Customizable LCD Display - 3 x F120RGB Core Fans Radiator Fans Black LGA 1700 / AM5 Compatible",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$276.99–"
     },
     {
         "id": 20,
-        "name": "CORSAIR iCUE H100i ELITE CAPELLIX XT Liquid CPU Cooler - AF120 RGB ELITE Fans - 240mm Radiator - Intel® LGA 1700, 1200, 115X, 2066,  AMD® AM5, AM4",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-330-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-846-050-11.jpg",
+        "title": "MSI MAG CoreLiquid E360 Black - AIO ARGB CPU Liquid Cooler - Rotating Cap Design - 360mm Radiator - Triple 120mm ARGB PWM Fans - LGA 1700 Ready / AM5 Compatible",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$135.99–"
     },
     {
         "id": 21,
-        "name": "CORSAIR H60x RGB ELITE, 120mm Radiator, Liquid CPU Cooler",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-352-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AFSTS231005AXYbE.jpg",
+        "title": "LIAN LI Galahad II LCD SL-INF Liquid Cooler",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$269.99–"
     },
     {
         "id": 22,
-        "name": "ASUS ROG Strix LC II 360 ARGB White Edition All-in-one AIO Liquid CPU Cooler 360mm Radiator, Intel LGA1700, 115x/2066 and AMD AM4/TR4 Support, Triple 120mm 4-pin PWM Addressable RGB Radiator Fans",
-        "price": "144.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-081-06.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-121-01.jpg",
+        "title": "NZXT Kraken RGB 240mm - RL-KR240-W1- AIO RGB CPU Liquid Cooler - LCD Display - 2 x F120RGB Core Fans Radiator Fans White LGA 1700 / AM5 Compatible",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$172.99–"
     },
     {
         "id": 23,
-        "name": "CORSAIR iCUE H170i ELITE LCD XT Liquid CPU Cooler - IPS LCD Screen - AF140 RGB ELITE Fans - 420mm Radiator - Fits Intel® LGA 1700,  AMD® AM5, and More",
-        "price": "299.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-338-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-398-09.png",
+        "title": "CORSAIR iCUE LINK H150i LCD Liquid CPU Cooler - QX120 RGB Fans - White - 360mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$284.99–"
     },
     {
         "id": 24,
-        "name": "COOLER MASTER Masterliquid ML240L ARGB V2 Liquid Cooler",
-        "price": "69.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-335-08.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-352-104-08.jpg",
+        "title": "Fractal Design Lumen S24 v2 RGB Aspect 12 RGB x2 AIO CPU Liquid/Water Cooler",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$109.99–"
     },
     {
         "id": 25,
-        "name": "Enermax LIQMAX III 360 ARGB, All-in-one CPU Liquid Cooler for AM4 & AM5 / LGA 1700/1200/1151, 360mm Radiator, Dual-Chamber Water Block, ARGB Fan - AM5 & LGA1700 Compatible",
-        "price": "92.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/17Z-00B8-00006-04.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AFSTS231005qLvj1.jpg",
+        "title": "LIAN LI Galahad II LCD SL-INF Liquid Cooler",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$258.99–"
     },
     {
         "id": 26,
-        "name": "DeepCool MYSTIQUE 360 LCD Liquid Cooler 360mm 5th Gen Pump 3400RPM AIO 2.8\" 640x480 TFT LCD Screen Anti-Leak Tech FT12 SE PWM Fans, Grey and Black",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-273-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A0ZXD2308081086A7CF.jpg",
+        "title": "LIAN LI GA2T36W Liquid / Water Cooling",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$119.00–"
     },
     {
         "id": 27,
-        "name": "MSI MAG CoreLiquid E360 Black - AIO ARGB CPU Liquid Cooler - Rotating Cap Design - 360mm Radiator - Triple 120mm ARGB PWM Fans - LGA 1700 Ready / AM5 Compatible",
-        "price": "135.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-846-050-11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-368-01.png",
+        "title": "CORSAIR iCUE LINK H150i RGB Liquid CPU Cooler - QX120 RGB Fans - 360mm Radiator - Fits Intel® LGA 1700, AMD® AM5 - iCUE LINK System Hub Included",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$204.99–"
     },
     {
         "id": 28,
-        "name": "DeepCool LT720 Premium Liquid CPU Cooler, 360mm, High-Performance FK120 FDB Fans, Multidimensional Infinity Mirror Block",
-        "price": "139.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-234-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/17Z-00B8-00006-04.jpg",
+        "title": "Enermax LIQMAX III 360 ARGB, All-in-one CPU Liquid Cooler for AM4 & AM5 / LGA 1700/1200/1151, 360mm Radiator, Dual-Chamber Water Block, ARGB Fan - AM5 & LGA1700 Ready",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$92.99–"
     },
     {
         "id": 29,
-        "name": "CORSAIR iCUE LINK H170i LCD Liquid CPU Cooler - QX140 RGB Fans - Large 420mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
-        "price": "289.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-394-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-393-01.png",
+        "title": "CORSAIR iCUE LINK H150i LCD Liquid CPU Cooler - QX120 RGB Fans - 360mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "",
+        "price": "$254.99–"
     },
     {
         "id": 30,
-        "name": "LIAN LI Galahad II LCD SL-INF 360 Black Liquid Cooler - GA2ALCD36INB",
-        "price": "269.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AFSTS231005AXYbE.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-330-01.png",
+        "title": "CORSAIR iCUE H100i ELITE CAPELLIX XT Liquid CPU Cooler - AF120 RGB ELITE Fans - 240mm Radiator - Intel® LGA 1700, 1200, 115X, 2066, AMD® AM5, AM4",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$179.99–"
     },
     {
         "id": 31,
-        "name": "ASUS ROG RYUO III 360 ARGB All-in-one AIO Liquid CPU Cooler 360mm Radiator, Asetek 8th gen pump solution, Anime Matrix™ LED Display and ROG AF 12S ARGB fan",
-        "price": "241.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-090-06.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-352-01.png",
+        "title": "CORSAIR H60x RGB ELITE, 120mm Radiator, Liquid CPU Cooler",
+        "fan_size": "1 Fan Slot (120 mm)",
+        "color": "Black",
+        "price": "$79.99–"
     },
     {
         "id": 32,
-        "name": "CORSAIR iCUE LINK H100i RGB Liquid CPU Cooler - QX120 RGB Fans - 240mm Radiator - Fits Intel® LGA 1700, AMD® AM5 - iCUE LINK System Hub Included",
-        "price": "159.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-366-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-339-01.png",
+        "title": "CORSAIR iCUE H150i ELITE LCD XT Liquid CPU Cooler - White - IPS LCD Screen - AF120 RGB ELITE Fans - 360mm Radiator - Fits Intel® LGA 1700, AMD® AM5, and More",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$239.99–"
     },
     {
         "id": 33,
-        "name": "CORSAIR iCUE LINK H150i RGB Liquid CPU Cooler - QX120 RGB Fans - White - 360mm Radiator - Fits Intel® LGA 1700, AMD® AM5 - iCUE LINK System Hub Included",
-        "price": "214.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-371-11.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-846-048-01.png",
+        "title": "MSI MAG CoreLiquid E240 Black - AIO ARGB CPU Liquid Cooler - Rotating Cap Design - 240mm Radiator - Dual 120mm ARGB PWM Fans - LGA 1700 Ready / AM5 Compatible",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$109.99–"
     },
     {
         "id": 34,
-        "name": "ARCTIC COOLING Liquid Freezer III - 360: All-in-One CPU Water Cooler with 360mm radiator and 3x P12 PWM PST fan, compatible Intel LGA1700, 1851 and AMD AM4, AM5 - Black color",
-        "price": "116.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-186-278-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-101-081-06.jpg",
+        "title": "ASUS ROG Strix LC II 360 ARGB White Edition All-in-one AIO Liquid CPU Cooler 360mm Radiator, Intel LGA1700, 115x/2066 and AMD AM4/TR4 Support, Triple 120mm 4-pin PWM Addressable RGB Radiator Fans",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$144.99–"
     },
     {
         "id": 35,
-        "name": "DeepCool LS520S ZERO DARK Liquid Cooler 240mm 4th Gen Pump 3100RPM 280w TDP AIO Cooler Anti-Leak Tech CPU Water Cooler Textured Block for AMD AM4/AM5 LGA 1700/1200, Black",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-274-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-376-01.png",
+        "title": "CORSAIR H100i RGB ELITE Liquid CPU Cooler - White - 16 Dynamic RGB LEDs - AF120 ELITE PWM Fans - Intel® LGA 1700, 1200, 2066, AMD® AM5 & AM4 Sockets",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$149.99–"
     },
     {
         "id": 36,
-        "name": "CORSAIR iCUE LINK H150i LCD Liquid CPU Cooler - QX120 RGB Fans - White - 360mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
-        "price": "284.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-398-09.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-213-S01.jpg",
+        "title": "DEEPCOOL LS720 Water Cooler",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$139.99–"
     },
     {
         "id": 37,
-        "name": "ASUS TUF Gaming LC II 360 ARGB All-in-One Liquid CPU Cooler with Aura Sync, 3x TUF Gaming 120mm ARGB Radiator Fans, Reinforced Tubing, Widely Compatible with Latest Intel & AMD CPUs",
-        "price": "128.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-102-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-361-01.png",
+        "title": "Cooler Master MasterLiquid 120L Core 120mm Close-Loop AIO Liquid Cooler, White LED Pump, Gen S Coldplate Pump, 120mm PWM, CryoFuze 14W/mK, AMD Ryzen AM5/AM4, Intel LGA1700/1200 (MLW-D12M-A17PK-R1)",
+        "fan_size": "1 Fan Slot (120 mm)",
+        "color": "Black",
+        "price": "$64.99–"
     },
     {
         "id": 38,
-        "name": "CORSAIR iCUE LINK H150i LCD Liquid CPU Cooler - QX120 RGB Fans - 360mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
-        "price": "254.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-393-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-709-245-08.jpg",
+        "title": "Phanteks Glacier One 360D30 Premium D-RGB AIO Liquid CPU Cooler, DRGB Pump Cap Design, 3x D30 120mm PWM D-RGB Fans, Black",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$179.99–"
     },
     {
         "id": 39,
-        "name": "CORSAIR iCUE LINK H150i RGB Liquid CPU Cooler - QX120 RGB Fans - 360mm Radiator - Fits Intel® LGA 1700, AMD® AM5 - iCUE LINK System Hub Included",
-        "price": "204.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-368-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-249-V01.jpg",
+        "title": "DeepCool LT520 WH Premium Liquid CPU Cooler, 240mm, High-Performance FK120 FDB Fans, Multidimensional Infinity Mirror Block",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$109.99–"
     },
     {
         "id": 40,
-        "name": "Fractal Design Lumen S24 v2 RGB Aspect 12 RGB x2 AIO CPU Liquid/Water Cooler",
-        "price": "109.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-352-104-08.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-846-051-01.png",
+        "title": "MSI MAG CoreLiquid E360 White - AIO ARGB CPU Liquid Cooler - Rotating Cap Design - 360mm Radiator - Triple 120mm ARGB PWM Fans - LGA 1700 Ready / AM5 Compatible",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$139.99–"
     },
     {
         "id": 41,
-        "name": "EK 360mm AIO V2  , D-RGB All-in-One Liquid CPU Cooler with EK-Vardar High-Performance PMW Fans, Water Cooling Computer Parts, 120mm Fan, Intel 115X/1200/2066, AMD AM5, (360mm AIO) LGA 1700 Compatible",
-        "price": "119.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-996-014-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-127-01.jpg",
+        "title": "NZXT Kraken Elite 240mm - RL-KN24E-B1 – AIO CPU Liquid Cooler – Customizable LCD Display - 2 x F120P Static Pressure Fan Radiator Fans LGA 1700 / AM5 Compatible",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$169.99–"
     },
     {
         "id": 42,
-        "name": "DeepCool LS720S ZERO DARK Liquid Cooler 360mm 4th Gen Pump 3100RPM 300w TDP AIO Cooler Anti-Leak Tech CPU Water Cooler Textured Block for AMD AM4/AM5 LGA 1700/1200, Black",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-275-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-256-01.jpg",
+        "title": "DeepCool LS520 SE WH Liquid Cooler 240mm 4th Gen Dual-Chamber Pump 3100RPM 280w TDP AIO Cooler with ARGB Fans CPU Water Cooler Narrow Frame Infinity Mirror Block for AMD AM4/AM5 LGA 1700/1200, White",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$94.35–"
     },
     {
         "id": 43,
-        "name": "Phanteks Glacier One 360D30 Premium D-RGB AIO Liquid CPU Cooler, DRGB Pump Cap Design, 3x D30 120mm PWM D-RGB Fans, Black",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-709-245-08.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-846-026-07.jpg",
+        "title": "MSI MAG CoreLiquid 240R V2 Water Cooler",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$99.99–"
     },
     {
         "id": 44,
-        "name": "DeepCool LS720 High-Performance Liquid CPU Cooler, 360mm Radiator, 120mm A-RGB PWM Fan with Auto-RGB Function, Infinity Mirror Cap Design, Customizable Logo Plate, 5V A-RGB Software Control",
-        "price": "139.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-213-S01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-334-01.png",
+        "title": "CORSAIR iCUE H100i ELITE CAPELLIX XT Liquid CPU Cooler - White - AF120 RGB ELITE Fans - 240mm Radiator - Intel® LGA 1700, 1200, 115X, 2066, AMD® AM5, AM4",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$179.99–"
     },
     {
         "id": 45,
-        "name": "MSI MAG Series CORELIQUID P240 AIO Liquid CPU Cooler, 240mm Radiator, Dual 120mm PWM Fans LGA 1700 Ready / AM5 Compatible",
-        "price": "98.44",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-846-021-10.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-846-021-10.jpg",
+        "title": "MSI CORELIQUID P240 Water Cooler",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$98.44–"
     },
     {
         "id": 46,
-        "name": "Cooler Master MasterLiquid 360 Atmos ARGB Close-Loop AIO Liquid Cooler, Customize Pump, Sickleflow Edge PWM Fans, 360mm Radiator, CryoFuze, AMD Ryzen AM5/AM4, Intel LGA1700/1200 (MLX-D36M-A25PZ-R1)",
-        "price": "144.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-362-10.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-353-01.png",
+        "title": "Cooler Master MasterLiquid 240L Core 240mm Close-Loop AIO Liquid Cooler, ARGB Sync, Gen S Coldplate Pump, 120mm PWM, CryoFuze Thermal Paste AMD Ryzen AM5/AM4, Intel LGA1700/1200 (MLW-D24M-A18PZ-R1)",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$84.99–"
     },
     {
         "id": 47,
-        "name": "CORSAIR H100i RGB ELITE Liquid CPU Cooler - White - 16 Dynamic RGB LEDs - AF120 ELITE PWM Fans - Intel® LGA 1700, 1200, 2066, AMD®  AM5 & AM4 Sockets",
-        "price": "149.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-376-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-394-01.png",
+        "title": "CORSAIR iCUE LINK H170i LCD Liquid CPU Cooler - QX140 RGB Fans - Large 420mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
+        "fan_size": "3 Fan Slots (140 mm)",
+        "color": "",
+        "price": "$289.99–"
     },
     {
         "id": 48,
-        "name": "CORSAIR iCUE H115i ELITE CAPELLIX XT Liquid CPU Cooler - AF140 RGB ELITE Fans - 280mm Radiator - Intel® LGA 1700, 1200, 115X, 2066,  AMD® AM5, AM4",
-        "price": "199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-331-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-338-01.png",
+        "title": "CORSAIR iCUE H170i ELITE LCD XT Liquid CPU Cooler - IPS LCD Screen - AF140 RGB ELITE Fans - 420mm Radiator - Fits Intel® LGA 1700, AMD® AM5, and More",
+        "fan_size": "3 Fan Slots (140 mm)",
+        "color": "Black",
+        "price": "$299.99–"
     },
     {
         "id": 49,
-        "name": "AORUS WATERFORCE X II 360 ICE Liquid CPU Cooler, 360mm Radiator with 3x 120mm low noise ARGB Fans, compatible with Intel LGA1700 and AMD AM5 (GP-AORUS WATERFORCE X II 360 ICE)",
-        "price": "269.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-128-036-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-273-01.jpg",
+        "title": "DEEPCOOL Mystique 360 Liquid / Water Cooling",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "",
+        "price": "$179.99–"
     },
     {
         "id": 50,
-        "name": "EVGA CLCx 360mm All-In-One LCD CPU Liquid Cooler, 3x 120mm PWM ARGB Fans, Intel, AMD, 5 YR Warranty, 400-HY-CX36-V1",
-        "price": "159.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-288-017-14.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/2YM-0004-000A9-01.png",
+        "title": "Cooler Master MasterLiquid ML360L ARGB V2 Close-Loop AIO CPU Liquid Cooler, Dual Chamber Pump, 360mm Radiator, SickleFlow 120 PWM ARGB, AMD Ryzen AM5/AM4, Intel LGA1700/1200 (MLW-D36M-A18PA-R2)",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$99.99–"
     },
     {
         "id": 51,
-        "name": "NZXT Kraken 120 - RL-KR120-B1 - AIO RGB CPU Liquid Cooler - Quiet and Effective - Silent Operation - Ring RGB LEDs - AER P 120mm Radiator Fans (Included)",
-        "price": "84.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-146-088-S01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-101-090-06.png",
+        "title": "ASUS ROG RYUO III 360 ARGB All-in-one AIO Liquid CPU Cooler 360mm Radiator, Asetek 8th gen pump solution, Anime Matrix™ LED Display and ROG AF 12S ARGB fan",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$189.99–"
     },
     {
         "id": 52,
-        "name": "CORSAIR iCUE H100i ELITE LCD XT Liquid CPU Cooler - IPS LCD Screen - AF120 RGB ELITE Fans - 240mm Radiator - Fits Intel® LGA 1700,  AMD® AM5, and More",
-        "price": "259.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-336-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-318-01.jpg",
+        "title": "CORSAIR CW-9060059-WW Water Cooler",
+        "fan_size": "2 Fan Slots (140 mm)",
+        "color": "Black",
+        "price": "$159.99–"
     },
     {
         "id": 53,
-        "name": "CORSAIR Hydro X Series iCUE LINK XH405i Custom Cooling Kit - Hardline Water Cooling Loop - XC7 ELITE CPU Water Block - XD5 ELITE D5 Pump Res - XR5 360mm Radiator - 3x QX120 RGB Fans",
-        "price": "699.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-421-02.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/B41TS2401210RS1TR0B.jpg",
+        "title": "SAMA 360mm Liquid Water AIO CPU Cooler For Gaming PC Computer with Screen LCD Display, 3 ARGB PWM Silent Fans",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$140.99–"
     },
     {
         "id": 54,
-        "name": "AORUS WATERFORCE II 360 Liquid CPU Cooler, 360mm Radiator with 3x120mm low noise ARGB Fans, compatible with Intel LGA1700 and AMD AM5 (GP-AORUS WATERFORCE II 360 G2)",
-        "price": "129.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-128-043-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-186-278-07.jpg",
+        "title": "ARCTIC COOLING Liquid Freezer III - 360: All-in-One CPU Water Cooler with 360mm radiator and 3x P12 PWM PST fan, compatible Intel LGA1700, 1851 and AMD AM4, AM5 - Black color",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$116.99–"
     },
     {
         "id": 55,
-        "name": "CORSAIR iCUE LINK H100i LCD Liquid CPU Cooler - QX120 RGB Fans - 2.1” IPS LCD screen - 240mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
-        "price": "249.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-395-08.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A6ZPD23091210A97CCA.jpg",
+        "title": "Thermaltake CL-W361-PL12SW-A All-In-One Liquid Cooler",
+        "fan_size": "2 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$92.99–"
     },
     {
         "id": 56,
-        "name": "CORSAIR H150i RGB ELITE Liquid CPU Cooler - White - 16 Dynamic RGB LEDs - AF120 ELITE PWM Fans - Intel® LGA 1700, 1200, 2066, AMD®  AM5 & AM4 Sockets",
-        "price": "189.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-377-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-377-01.png",
+        "title": "CORSAIR H150i RGB ELITE Liquid CPU Cooler - White - 16 Dynamic RGB LEDs - AF120 ELITE PWM Fans - Intel® LGA 1700, 1200, 2066, AMD® AM5 & AM4 Sockets",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$189.99–"
     },
     {
         "id": 57,
-        "name": "ENERMAX LIQMAXFLO SR 360 ARGB AIO CPU Liquid Cooler - 60mm VRM Fan up to 3000 RPM, PWM-Controlled Pump, 360mm Radiator, Triple Pressure-Optimized Silent Flow 120mm FDB Fans up to 1800 RPM, 370W TDP",
-        "price": "106.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-123-08.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A6ZPD23091210A9M094.jpg",
+        "title": "Thermaltake CL-W384-PL12SW-A Liquid / Water Cooling",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$190.67–"
     },
     {
         "id": 58,
-        "name": "ASUS ProArt LC 420 all-in-one CPU liquid cooler with illuminated system status meter and three Noctua NF-A14 industrialPPC-2000 PWM 140mm radiator fans",
-        "price": "269.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-104-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-352-106-01.jpg",
+        "title": "Fractal Design Lumen S36 v2 RGB Aspect 12 RGB x3 AIO CPU Liquid/Water Cooler",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "Black",
+        "price": "$129.99–"
     },
     {
         "id": 59,
-        "name": "Phanteks Glacier One 420D30 Premium D/A-RGB AIO Liquid CPU Cooler, D/A-RGB Pump Cap Design, 3x D30 140mm PWM D-RGB Fans, Support Intel Core 14th Gen, Black",
-        "price": "189.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-709-258-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-101-100-05.png",
+        "title": "ASUS ROG Ryujin III 360 ARGB WHT all-in-one liquid CPU cooler with 360mm radiator. Asetek 8th gen pump, 3x magnetic 120mm ARGB fans (Daisy Chain design), 3.5” LCD display",
+        "fan_size": "3 Fan Slots (120 mm)",
+        "color": "White",
+        "price": "$344.99–"
     },
     {
         "id": 60,
-        "name": "Thermaltake TH360 ARGB Sync V2 CPU Liquid Cooler/AlO Liquid Cooling /Fan 120mm*3/PWM 500~2000 RPM/Mirror Waterblock/MB ARGB Sync Control, CL-W362-PL12SW-A",
-        "price": "117.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A6ZPD23091210A9L69D.jpg"
-    },
-    {
-        "id": 61,
-        "name": "EVGA CLCx 240mm All-In-One LCD CPU Liquid Cooler, 2x 120mm PWM ARGB Fans, Intel, AMD, 5 YR Warranty, 400-HY-CX24-V1",
-        "price": "124.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-288-019-08.jpg"
-    },
-    {
-        "id": 62,
-        "name": "ASUS TUF Gaming LC 120 RGB All-in-one liquid CPU Cooler, Aura Sync, TUF 120mm RGB Radiator Fans with Fan Blade Groove Design LGA 1700 Compatible",
-        "price": "60.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-050-02.jpg"
-    },
-    {
-        "id": 63,
-        "name": "CORSAIR iCUE LINK H170i RGB Liquid CPU Cooler - QX140 RGB Fans - Large 420mm Radiator - Fits Intel® LGA 1700, AMD® AM5 - iCUE LINK System Hub Included",
-        "price": "269.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-369-01.png"
-    },
-    {
-        "id": 64,
-        "name": "ASUS TUF Gaming LC 240 ARGB all-in-one liquid CPU cooler (Aura Sync, dual TUF 120mm ARGB radiator fans with fan blade groove design)",
-        "price": "86.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-101-076-V05.jpg"
-    },
-    {
-        "id": 65,
-        "name": "Enermax AQUAFUSION ADV 360 ARGB AIO CPU Liquid Cooler, Infinity Mirror RGB Pump, 360mm Radiator, Triple 120mm SquaA ADV RGB PWM Fans, 380W TDP, 500 – 2000 RPM, Dual-Chamber Water Block, AM4 / LGA 1200",
-        "price": "101.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-119-11.jpg"
-    },
-    {
-        "id": 66,
-        "name": "Thermaltake TH240 ARGB Sync V2 CPU Liquid Cooler/AlO Liquid Cooling/Fan 120mm*2/PWM 500~2000 RPM/Mirror Waterblock/MB ARGB Sync Control, CL-W361-PL12SW-A",
-        "price": "92.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A6ZPD23091210A97CCA.jpg"
-    },
-    {
-        "id": 67,
-        "name": "AORUS WATERFORCE X II 360 Liquid CPU Cooler, 360mm Radiator with 3x 120mm low noise ARGB Fans, compatible with Intel LGA1700 and AMD AM5(GP-AORUS WATERFORCE X II 360)",
-        "price": "259.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-128-037-01.jpg"
-    },
-    {
-        "id": 68,
-        "name": "CORSAIR iCUE LINK H100i RGB Liquid CPU Cooler - QX120 RGB Fans - White - 240mm Radiator - Fits Intel® LGA 1700, AMD® AM5 - iCUE LINK System Hub Included",
-        "price": "169.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-370-01.png"
-    },
-    {
-        "id": 69,
-        "name": "MSI MPG CORELIQUID D360 Water Cooling ALUMINUM  Intel LGA 1700 & AMD AM5 ARGB 3-pin 3 FAN 4-pin PWM",
-        "price": "205.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-846-056-05.png"
-    },
-    {
-        "id": 70,
-        "name": "CORSAIR iCUE LINK H115i RGB Liquid CPU Cooler - QX140 RGB Fans - 280mm Radiator - Fits Intel LGA 1700, AMD AM5 - iCUE LINK System Hub Included",
-        "price": "219.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-367-11.png"
-    },
-    {
-        "id": 71,
-        "name": "LIAN LI Galahad II Trinity 360 GA2T36W Liquid / Water Cooling",
-        "price": "119.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A0ZXD2308081086A7CF.jpg"
-    },
-    {
-        "id": 72,
-        "name": "CORSAIR iCUE H100i ELITE CAPELLIX XT Liquid CPU Cooler - White - AF120 RGB ELITE Fans - 240mm Radiator - Intel® LGA 1700, 1200,  115X, 2066, AMD® AM5, AM4",
-        "price": "179.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-334-01.png"
-    },
-    {
-        "id": 73,
-        "name": "AORUS AIO Liquid Cooler, 360mm Radiator, 120*25mm*3 ARGB Fan, >200w TDP, 60x60mm LCD Full Color Pan",
-        "price": "199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/1YF-00K0-00009-01.jpg"
-    },
-    {
-        "id": 74,
-        "name": "MSI MAG CORELIQUID C360 Water Cooler, AM5 Compatible",
-        "price": "0.0",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-846-044-01.jpg"
-    },
-    {
-        "id": 75,
-        "name": "ENERMAX LIQTECH II TR4 360 All-in-one CPU Liquid Cooler for AMD TR4 & Intel Xeon , 360mm Radiator, Dual Chamber RGB Pump, T.B. Pressure fan blades, AMD Socket sWRS8 and Intel LGA 4677 Ready – AMD® TR5",
-        "price": "199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-089-01.jpg"
-    },
-    {
-        "id": 76,
-        "name": "Thermaltake TH420 V2 Ultra ARGB CL-W386-PL14SW-A Liquid / Water Cooling",
-        "price": "168.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A6ZPD23091210A9E7C2.jpg"
-    },
-    {
-        "id": 77,
-        "name": "Thermaltake TH120 ARGB Sync V2 CPU Liquid Cooler/AlO Liquid Cooling/Fan 120mm*1/PWM 500~2000 RPM/Mirror Waterblock/MB ARGB Sync Control, CL-W360-PL12SW-A",
-        "price": "74.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A6ZPD23091210A9K908.jpg"
-    },
-    {
-        "id": 78,
-        "name": "AORUS WATERFORCE II 360 ICE Liquid CPU Cooler, 360mm Radiator with 3x120mm low noise ARGB Fans,  compatible with Intel LGA1700 and AMD AM5 (GP-AORUS WATERFORCE II 360 ICE G2)",
-        "price": "139.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-128-042-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-146-119-10.jpg",
+        "title": "NZXT Kraken 280mm - RL-KN280-B1 – AIO CPU Liquid Cooler - LCD Display - 2 x F140P Static Pressure Fan Radiator Fans LGA 1700 / AM5 Compatible",
+        "fan_size": "2 Fan Slots (140 mm)",
+        "color": "Black",
+        "price": "$144.99–"
     }
 ]

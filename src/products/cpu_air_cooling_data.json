@@ -1,470 +1,542 @@
 [
     {
         "id": 1,
-        "name": "DeepCool AK620 DIGITAL Performance Air Cooler, Dual-Tower Layout, Real-Time CPU Status Screen, 6 Copper Heat Pipes, 260W Heat Dissipation, Twin 120mm FDB Fans, All Black Design",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-267-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-200-V01.jpg",
+        "title": "Deepcool AK620 CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$64.99–"
     },
     {
         "id": 2,
-        "name": "DeepCool AK620 High-Performance CPU Cooler, Dual-Tower Design, 2x 120mm Fluid Dynamic Bearing Fans, 6 Copper Heat Pipes, 260W Heat Dissipation, Black.",
-        "price": "64.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-200-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-232-01.jpg",
+        "title": "DeepCool AK620 ZERO DARK High-Performance CPU Cooler, Dual-Tower Design, 2x 120mm Fluid Dynamic Bearing Fans, 6 Copper Heat Pipes, 260W TDP",
+        "rpm": "",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$69.99–"
     },
     {
         "id": 3,
-        "name": "Noctua NH-D15 chromax.black, Dual-Tower CPU Cooler with Dual NF-A15 PWM 140mm Fans (Black)",
-        "price": "176.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AYTVS230413152MJ7CD.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/BFKMS2209050JF0TKB2.jpg",
+        "title": "Thermalright Peerless Assassin 120 SE CPU Air Cooler, PA120 SE, 6 Heat Pipes Cpu cooler,Dual 120mm TL-C12C PWM Fan, Aluminium Heatsink Cover, AGHP Technology, for AMD AM4 AM5/Intel 1700/1150/1151/1155",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$34.90–"
     },
     {
         "id": 4,
-        "name": "Vetroo U6PRO Black Dual Tower CPU Cooler w/ 6pcs Heatpipes, Top ARGB Lighting, 130mm ARGB & PWM Air Cooler 220W TDP for Intel LGA 1700/1200 AMD AM5/AM4",
-        "price": "29.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BGX1S24012503L2PCBF.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-223-01.jpg",
+        "title": "DeepCool AG400 BK ARGB Single-Tower CPU Cooler, 120mm Static ARGB Fan, Direct-Touch Copper Heat Pipes, Intel/AMD Support",
+        "rpm": "Variable",
+        "noise_level": "30-35 dBA",
+        "color": "Black",
+        "price": "$29.99–"
     },
     {
         "id": 5,
-        "name": "Thermaltake UX200 SE White 5V Motherboard ARGB Sync 16.8 Million Colors 15 Addressable LED Intel/AM5/AMD (LGA 1700) Universal Socket Hydraulic Bearing 170W CPU Cooler CL-P116-AL12SW-A",
-        "price": "29.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A0ZXD2309090XYX491B.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68VS2004301bflg.jpg",
+        "title": "be quiet! Pure Rock 2 CPU Air Cooler | 150W TDP | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD 4/5 CPU Cooler | Black | BK007",
+        "rpm": "<1600 RPM",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$39.99–"
     },
     {
         "id": 6,
-        "name": "Noctua NH-D15S chromax.black, Premium Dual-Tower CPU Cooler with NF-A15 PWM 140mm Fan (Black)",
-        "price": "109.95",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADYS201023vcgSI.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-202-V01.jpg",
+        "title": "Deepcool AK400 CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$34.99–"
     },
     {
         "id": 7,
-        "name": "Vetroo V5 Black CPU Air Cooler w/ w/Addressable RGB Lights Sync 5 Heat Pipes 120mm FDB PWM Processor 200W TDP Cooler for Intel LGA 1700/1200/115X AMD AM5/AM4",
-        "price": "24.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BGX1S23120907J50V19.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-201-V01.jpg",
+        "title": "Deepcool AK620 WH CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "White",
+        "price": "$69.99–"
     },
     {
         "id": 8,
-        "name": "Noctua NH-U12S redux, High Performance CPU Cooler with NF-P12 redux-1700 PWM 120mm fan (Grey)",
-        "price": "54.95",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADYS2206300OAKIA1B.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68VS23101719JCQRFD.jpg",
+        "title": "be quiet! Dark Rock Pro 5 | TDP 270W CPU Cooler | Air Cooler | Intel 1700 1200 1150 1151 1155 | AM5 AM4 | BK036",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$79.90–"
     },
     {
         "id": 9,
-        "name": "Enermax ETS-N31 CPU Air Cooler, 130W+ TDP for Intel/ AMD Universal Socket AM4 & AM5 / Intel LGA 1700/1200/1151, 3 Direct Contact Heat Pipes, 92mm PWM Fan – AM5 & LGA 1700 Ready",
-        "price": "23.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-074-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AYTVS230413152MJ7CD.jpg",
+        "title": "Noctua NH-D15 chromax.black, Dual-Tower CPU Cooler with Dual NF-A15 PWM 140mm Fans (Black)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$119.89–"
     },
     {
         "id": 10,
-        "name": "PANO-MOUNTS ARGB CPU Cooler Stock Air Cooling Fan with 120mm ARGB 4Pin PC PWM Fans 4 Heat Pipes TDP 210W for Intel LGA 1700 LGA 1200 LGA 1155 LGA AMD 1151 AM5/AM4",
-        "price": "30.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/B7W5S2401170FPSCC3C.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-344-15.png",
+        "title": "Cooler Master Hyper 212 Halo Black CPU Air Cooler, MF120 Halo² Fan, Dual Loop ARGB, Aluminum Top Cover, 4 Copper Heat Pipes, 154mm (H) for AMD Ryzen AM5/AM4, Intel LGA1700/1200 (RR-S4KK-20PA-R1)",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Black",
+        "price": "$34.99–"
     },
     {
         "id": 11,
-        "name": "Noctua NH-U12S chromax.Black, 120mm Single-Tower CPU Cooler (Black)",
-        "price": "93.59",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BE5US2212270XW4HLF9.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-221-21.png",
+        "title": "DeepCool GAMMAXX AG400 Single-Tower CPU Cooler, 120mm Fan, Direct-Touch Copper Heat Pipes, Intel/AMD Support",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$24.99–"
     },
     {
         "id": 12,
-        "name": "Thermaltake 95W Gravity A2 CPU Cooler, 92mm 4-Pins PWM 1200-3500rpm Aluminum Extrusion CPU Cooling Fan for AMD AM4, CL-P078-AL09WT-A",
-        "price": "20.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-106-662-06.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AY3SS21051245M1O.jpg",
+        "title": "JONSBO CR1400 COLOR CPU Cooler H126mm,Air Cooling Tower Radiator, Desktop PC AM4/AM5 heatsink, 4 Copper Heatpipes for AMD /Intel LGA1700/1200/115X , 92mm RGB Fan, Auto Rainbow Lighting on Top, Black",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$26.99–"
     },
     {
         "id": 13,
-        "name": "DeepCool AG400 BK ARGB Single-Tower CPU Cooler, 120mm Static ARGB Fan, Direct-Touch Copper Heat Pipes, Intel/AMD Support",
-        "price": "29.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-223-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-358-01.png",
+        "title": "Cooler Master Hyper 620S Dual Tower CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 6 Copper Direct Contact Heat Pipes, 154.9mm Tall, Brackets AMD Ryzen AM5/AM4, Intel LGA1700/1200 (RR-D6NA-17PA-R1)",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Black",
+        "price": "$49.99–"
     },
     {
         "id": 14,
-        "name": "DeepCool ASSASSIN IV Premium CPU Air Cooler, Dual-Tower, 120/140mm FDB Fan Configuration, 7 Copper Heat Pipes,  Quiet/Peformance Mode Switch",
-        "price": "96.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A4RES23061903OVY950.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-229-01.jpg",
+        "title": "DeepCool AK400 ZERO DARK Performance CPU Cooler, 4 Copper Heat Pipes, 120mm Fluid Dynamic Bearing PWM Fan, 220W TDP",
+        "rpm": "",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$39.99–"
     },
     {
         "id": 15,
-        "name": "Cooler Master Hyper 212 Halo Black CPU Air Cooler, MF120 Halo² Fan, Dual Loop ARGB, Aluminum Top Cover, 4 Copper Heat Pipes, 154mm (H) for AMD Ryzen AM5/AM4, Intel LGA1700/1200 (RR-S4KK-20PA-R1)",
-        "price": "34.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-344-15.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A4RES23061903OVY950.jpg",
+        "title": "DeepCool ASSASSIN IV Premium CPU Air Cooler, Dual-Tower, 120/140mm FDB Fan Configuration, 7 Copper Heat Pipes, Quiet/Peformance Mode Switch",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Black",
+        "price": "$96.99–"
     },
     {
         "id": 16,
-        "name": "DeepCool ASSASSIN 4S Premium CPU Air Cooler, Dual-Tower, Single center 140mm FDB Fan, 7 Copper Heat Pipes, Quiet/Peformance Mode Switch, Black",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-270-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-357-01.png",
+        "title": "Cooler Master Hyper 212 Spectrum V3 CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 4 Copper Direct Contact Heat Pipes, 152mm Tall, Brackets AMD Ryzen AM5/AM4, Intel LGA1700/1200 (RR-S4NA-17PA-R1)",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Silver",
+        "price": "$19.99–"
     },
     {
         "id": 17,
-        "name": "Thermalright AssassinX120 SE ARGB CPU Air Cooler, AX120 SE ARGB, 4 Heat Pipes, TL-C12C-S PWM Quiet Fan CPU Cooler With S-FDB Bearing, For AMD AM4AM5/Intel LGA 1700/1150/1151/1200,PC Cooler",
-        "price": "19.90",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BFKNS2209060KE2N89A.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADYS201023vcgSI.jpg",
+        "title": "Noctua NH-D15S chromax.black, Premium Dual-Tower CPU Cooler with NF-A15 PWM 140mm Fan (Black)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$107.90–"
     },
     {
         "id": 18,
-        "name": "Cooler Master Hyper 620S Dual Tower CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 6 Copper Direct Contact Heat Pipes, 154.9mm Tall, Brackets AMD Ryzen AM5/AM4, Intel LGA1700/1200 (RR-D6NA-17PA-R1)",
-        "price": "49.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-358-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-203-V01.jpg",
+        "title": "Deepcool AK400 WH CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "White",
+        "price": "$37.99–"
     },
     {
         "id": 19,
-        "name": "CORSAIR A115 High-Performance Tower CPU Air Cooler  LGA 1700 and AM5 brackets Compatible latest Intel and AMD CPUs, including LGA 1700, 1200, 115x, and AMD Socket AM5 and AM4",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-181-400-24.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-214-S11.jpg",
+        "title": "Deepcool GAMMAXX AG620 CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$39.99–"
     },
     {
         "id": 20,
-        "name": "Enermax ETS-F40 ARGB CPU Air Cooler, 200W+ TDP for Intel/ AMD Universal Socket, AM4 & AM5 / LGA 1700/1200/1151, 4 Direct Contact Heat Pipes, 140mm Silent PWM Fan - AM5 & LGA1700 Ready",
-        "price": "39.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-110-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADYS2110088268C.jpg",
+        "title": "Noctua NH-U12A chromax.black, 120mm Single-Tower CPU Cooler (Black)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$129.90–"
     },
     {
         "id": 21,
-        "name": "Cooler Master MasterAir MA624 Stealth CPU Air Cooler, 6 Heat Pipes, Nickel Plated Base, Dual Tower Aluminum Black Fins, Dual SickleFlow 140mm Fans for AMD Ryzen/Intel 1200/1151 LGA 1700 Compatible",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-319-06.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-224-01.jpg",
+        "title": "DeepCool AG400 WH ARGB Single-Tower CPU Cooler, 120mm Static ARGB Fan, Direct-Touch Copper Heat Pipes, Intel/AMD Support",
+        "rpm": "Variable",
+        "noise_level": "30-35 dBA",
+        "color": "White",
+        "price": "$29.99–"
     },
     {
         "id": 22,
-        "name": "Noctua NH-U14S, Premium CPU Cooler with NF-A15 140mm Fan (Brown)",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADYS210211olF7l.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-214-110-02.jpg",
+        "title": "Enermax ETS-F40 ARGB CPU Air Cooler, 200W+ TDP for Intel/ AMD Universal Socket, AM4 & AM5 / LGA 1700/1200/1151, 4 Direct Contact Heat Pipes, 140mm Silent PWM Fan - AM5 & LGA1700 Ready",
+        "rpm": "<1600 RPM",
+        "noise_level": "20-25 dBA",
+        "color": "Black",
+        "price": "$39.99–"
     },
     {
         "id": 23,
-        "name": "Cooler Master i70C LGA1700 ARGB Intel Low-Profile CPU Air Cooler, Anodized Black Aluminum Fins, Copper Insert Base, 95W TDP CPU Support, 120mm ARGB 3-Pin Fan for Intel LGA1700",
-        "price": "24.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-339-S01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/13C-001F-00064-01.jpg",
+        "title": "be quiet! Pure Rock 2 FX CPU Air Cooler | Black ARGB Air Cooler | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD AM5 AM4 CPU Cooler | 150W TDP | BK033",
+        "rpm": "2000-2499 RPM",
+        "noise_level": "20-25 dBA",
+        "color": "Black",
+        "price": "$49.90–"
     },
     {
         "id": 24,
-        "name": "ENERMAX CPU Air Cooler, 150W+ TDP for Intel/ AMD Universal Socket AM4 & AM5 / Intel LGA 1700/1200/1151, 3 Direct Contact Heat Pipes, 90mm PWM Fan – AM5 & LGA 1700 Ready – ETS-N30R-HE",
-        "price": "21.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-072-16.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-608-045-V02.jpg",
+        "title": "Noctua NH-D15 D-Type Premium CPU Cooler, NF-A15 x 2 PWM Fans",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "",
+        "price": "$107.49–"
     },
     {
         "id": 25,
-        "name": "DeepCool AK620 Zero Dark High-Performance CPU Cooler, Dual-Tower Design, 2x 120mm Fluid Dynamic Bearing Fans, 6 Copper Heat Pipes, 260W Heat Dissipation",
-        "price": "74.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-243-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-231-01.jpg",
+        "title": "DeepCool AK500 ZERO DARK High-Performance CPU Cooler, 5 Copper Heat Pipes, Single-Tower Heatsink, 120mm FDB PWM Fan, 240W TDP",
+        "rpm": "",
+        "noise_level": "30-35 dBA",
+        "color": "Black",
+        "price": "$54.99–"
     },
     {
         "id": 26,
-        "name": "NZXT T120 CPU Air Cooler - RC-TN120-B1 - CPU Liquid Cooler - Conductive Copper Pipes - Fluid Dynamic Bearings - AMD and Intel Compatibility - Black",
-        "price": "44.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-146-116-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A4RE_132090352989496141rBkX6cFmaM.jpg",
+        "title": "AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$29.99–"
     },
     {
         "id": 27,
-        "name": "Freezer 36 – CPU Cooler for Intel Socket LGA1700 and AMD Socket AM4, AM5, Direct touch technology, dual 12cm Pressure Optimized Fan in push pull configuration",
-        "price": "35.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-186-282-01.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68VS200430N8ELN.jpg",
+        "title": "be quiet! Pure Rock 2 CPU Air Cooler | 150W TDP | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD 4/5 CPU Cooler | Silver/Black | BK006",
+        "rpm": "<1600 RPM",
+        "noise_level": "",
+        "color": "Silver",
+        "price": "$39.90–"
     },
     {
         "id": 28,
-        "name": "Noctua NH-L9a-AM4, Premium Low-profile CPU Cooler for AMD AM4 (Brown)",
-        "price": "74.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADYS220127eBU8Y.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-267-01.jpg",
+        "title": "DeepCool AK620 DIGITAL Performance Air Cooler, Dual-Tower Layout, Real-Time CPU Status Screen, 6 Copper Heat Pipes, 260W Heat Dissipation, Twin 120mm FDB Fans, All Black Design",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Black",
+        "price": "$77.99–"
     },
     {
         "id": 29,
-        "name": "Enermax ETS-T40 Fit CPU Air Cooler, 200W+ TDP for Intel/ AMD Universal Socket, AM4 / LGA 1700/1200/1151, 4 Direct Contact Heat Pipes, 120mm Silent PWM Fan LGA 1700 Compatible",
-        "price": "18.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-214-063-10.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-214-074-02.jpg",
+        "title": "Enermax ETS-N31 CPU Air Cooler, 130W+ TDP for Intel/ AMD Universal Socket AM4 & AM5 / Intel LGA 1700/1200/1151, 3 Direct Contact Heat Pipes, 92mm PWM Fan – AM5 & LGA 1700 Ready",
+        "rpm": "Variable",
+        "noise_level": "20-25 dBA",
+        "color": "Black",
+        "price": "$23.99–"
     },
     {
         "id": 30,
-        "name": "AMD Wraith Prism Thermal Solution",
-        "price": "59.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-205-004-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-364-01.png",
+        "title": "COOLER MASTER Hyper 212 Black CPU Air Cooler",
+        "rpm": "Variable",
+        "noise_level": "30-35 dBA",
+        "color": "Black",
+        "price": "$29.99–"
     },
     {
         "id": 31,
-        "name": "SILVERSTONE SST-KR01 80mm Dual ball bearing CPU Cooler",
-        "price": "32.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-141-V07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68VS23101719YMVF85.jpg",
+        "title": "be quiet! Dark Rock Elite | TDP 280W CPU Cooler | Air Cooler | Intel 1700 1200 1150 1151 1155 | AM5 AM4 | BK037",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$99.90–"
     },
     {
         "id": 32,
-        "name": "Cooler Master Hyper 212 RGB Black Edition CPU Air Cooler, SF120R RGB Fan, 4 CD 2.0 Heatpipes, Anodized Gun-Metal Black, RGB Lighting for AMD Ryzen/Intel LGA1200/1151 LGA 1700 Compatible",
-        "price": "99.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-103-277-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-608-072-V02.jpg",
+        "title": "Noctua NH-D15S D-Type Premium CPU Cooler, NF-A15 PWM Fans",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "",
+        "price": "$102.99–"
     },
     {
         "id": 33,
-        "name": "Dynatron B11 Intel Skylake Socket FCLGA3647 Narrow ILM  80x80x25mm PWM Fan, Aluminum heatsink with heatpipe embedded for 3U Server up to CPU power 205 Watts",
-        "price": "53.28",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-146-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A0ZXD2309090XYX491B.jpg",
+        "title": "Thermaltake UX200 Special Edition CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "White",
+        "price": "$29.99–"
     },
     {
         "id": 34,
-        "name": "Dynatron B13 Intel Xeon Platinum / Gold Family Processor, (Products formerly Skylake ), Socket FCLGA3647, Square ILM, Aluminum Heatsink with Heatpipe Embedded, 6025 Axial PWM Fan for Heat Exhausting",
-        "price": "47.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-152-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68V_131672356585048592kTO4PebzW8.jpg",
+        "title": "be quiet! Dark Rock 4 CPU Air Cooler | 200W TDP | High Performance | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Socket Compatible | Intel and AMD 4/5 Support | Low Noise Air Cooler | BK021",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$69.90–"
     },
     {
         "id": 35,
-        "name": "Supermicro SNK-P0048AP4 CPU Cooling Fan/Heatsink for Socket LGA 2011",
-        "price": "51.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-184-040-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADYS2310110KKSBQF7.jpg",
+        "title": "Noctua NH-L9x65 chromax.black, Premium Low-Profile CPU Cooler (65mm, Black)",
+        "rpm": "",
+        "noise_level": "20-25 dBA",
+        "color": "Black",
+        "price": "$69.70–"
     },
     {
         "id": 36,
-        "name": "StarTech.com 95mm Socket T 775 CPU Cooler Fan with Heatsink Cooling FAN775E (Black)",
-        "price": "19.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-230-011-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A4RES200901gxqyr.jpg",
+        "title": "Intel K69237-001/E97379-001/E97378-001 LGA 1200/115X PWM Aluminum Stock Cooler Fan(All-Black) from i9-10900",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$17.99–"
     },
     {
         "id": 37,
-        "name": "Dynatron K199 80mm 2 Ball CPU Cooler for Intel LGA Socket 1151 / 1150 / 1155 / 1156",
-        "price": "43.36",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-094-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-339-S01.jpg",
+        "title": "COOLER MASTER RR-I7C7-18PA-R1 CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$24.99–"
     },
     {
         "id": 38,
-        "name": "Dynatron K17 92mm 2 Ball CPU Cooler for Intel LGA Socket 1151 / 1150 / 1155 / 1156",
-        "price": "57.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-140-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-181-400-24.png",
+        "title": "CORSAIR A115 High-Performance Tower CPU Air Cooler LGA 1700 and AM5 brackets Compatible latest Intel and AMD CPUs, including LGA 1700, 1200, 115x, and AMD Socket AM5 and AM4",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "",
+        "price": "$99.99–"
     },
     {
         "id": 39,
-        "name": "Dynatron B12 Intel Xeon Platinum / Gold Family Processor, (Products formerly Skylake ), Socket FCLGA3647, Square ILM, Aluminum Heatsink, Copper Base with Heatpipes Embedded",
-        "price": "35.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-151-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-608-071-V02.jpg",
+        "title": "Noctua NH-L9x65 Low-profile Quiet CPU Cooler, NF-A9x14 PWM fan",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Brown",
+        "price": "$64.99–"
     },
     {
         "id": 40,
-        "name": "SILVERSTONE SST-KR02 92mm Hydraulic bearing CPU Cooler",
-        "price": "37.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-150-S07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-246-01.jpg",
+        "title": "DeepCool AK500 WH High-Performance CPU Cooler, 5 Copper Heat Pipes, Single-Tower Heatsink, 120mm FDB PWM Fan, 240W",
+        "rpm": "",
+        "noise_level": "25-30 dBA",
+        "color": "White",
+        "price": "$53.99–"
     },
     {
         "id": 41,
-        "name": "SILVERSTONE NT07-115X Super Slim Profile CPU Cooler LGA 1156/1155/1150 Intel LGA115X",
-        "price": "29.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-067-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-106-662-06.jpg",
+        "title": "Thermaltake CL-P078-AL09WT-A CPU Cooler",
+        "rpm": "Variable",
+        "noise_level": "30-35 dBA",
+        "color": "2-Tone",
+        "price": "$20.99–"
     },
     {
         "id": 42,
-        "name": "DeepCool AK620 DIGITAL Performance Air Cooler, Dual-Tower Layout, Real-Time CPU Status Screen, 6 Copper Heat Pipes, 260W Heat Dissipation, Twin 120mm FDB Fans, All Black Design",
-        "price": "79.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-856-267-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/BFKMS22122307GPAKAC.jpg",
+        "title": "Thermalright PS120SE CPU Air Cooler, 7 Heat pipes CPU Cooler,Dual 120mm TL-C12B V2 PWM Fan, AGHP 4.0 Technilogy, S-FDB Bearing, For AMD AM4 AM5/Intel 1700/1150/1151/1200, PC Cooler",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$35.90–"
     },
     {
         "id": 43,
-        "name": "Dynatron K666 60mm 2 Ball CPU Cooler for Intel LGA Socket 1151 / 1150 / 1155 / 1156",
-        "price": "34.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-105-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADY_131504710147913939dt3BoXTedP.jpg",
+        "title": "Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan (Brown)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$59.95–"
     },
     {
         "id": 44,
-        "name": "Dynatron A18 AMD AM4 Processor 70 x70 x15mm PWM blower with Copper fins active Heatsink for 1U Server up to TDP 95 Watts CPU Cooler",
-        "price": "47.68",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-143-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/APNCS201118BI0rt.jpg",
+        "title": "Vetroo M2 CPU Cooler, Black Aluminum Fins LED Ring Lighting Hydraulic Bearing 90W TDP Air Cooler for Intel LGA 1700/1200/115X AMD AM5 AM4",
+        "rpm": "",
+        "noise_level": "25-30 dBA",
+        "color": "Multi-color",
+        "price": "$15.99–"
     },
     {
         "id": 45,
-        "name": "Dynatron B5 Intel Socket FCLGA3647 Narrow ILM 60x60x25mm PWM Fan, Aluminum Heatsink with Heatpipe embedded for 2U Server up to CPU power 205 Watts CPU Cooler",
-        "price": "47.59",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-144-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-103-345-15.png",
+        "title": "Cooler Master Hyper 212 Halo White CPU Air Cooler, MF120 Halo² Fan, Dual Loop ARGB, Aluminum Top Cover, 4 Copper Heat Pipes, 154mm (H) for AMD Ryzen AM5/AM4, Intel LGA1700/1200 (RR-S4WW-20PA-R1)",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "White",
+        "price": "$33.99–"
     },
     {
         "id": 46,
-        "name": "SILVERSTONE SST-NT08-115XP 80mm Long-Life Sleeve Bearing CPU Cooling",
-        "price": "29.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-121-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68VS200218uY1u1.jpg",
+        "title": "be quiet! Shadow Rock 3 CPU Air Cooler | 190W TDP | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD 4/5 Support | Low Noise Cooler | Silver/Black Design | BK004",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$47.90–"
     },
     {
         "id": 47,
-        "name": "SILVERSTONE SST-NT06-PRO-V2 Sleeve Bearing CPU Cooler",
-        "price": "81.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-130-S01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-268-01.jpg",
+        "title": "DeepCool AK620 DIGITAL WH Performance Air Cooler, Dual-Tower Layout, Real-Time CPU Status Screen, 6 Copper Heat Pipes, 260W Heat Dissipation, Twin 120mm FDB Fans, All White Design",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "White",
+        "price": "$82.99–"
     },
     {
         "id": 48,
-        "name": "SILVERSTONE NT07-AM2 80mm CPU Cooler",
-        "price": "32.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-030-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A9ZHS22090118TGNE24.jpg",
+        "title": "Scythe Mugen 5 Rev. C CPU Air Cooler, 120mm Single Tower, Black Edition, Intel LGA1700, LGA1151, AMD AM5/AM4/Ryzen 120mm, Single Tower",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$52.99–"
     },
     {
         "id": 49,
-        "name": "Dynatron R25 80mm 2 Ball CPU Cooler",
-        "price": "58.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-135-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A6J3_131671502326776695pDgmyI7x97.jpg",
+        "title": "Cooler Master i30 CPU Cooler - 92mm Low Noise Cooling Fan & Heatsink - For Intel Socket LGA 1150 / 1151 / 1155 / 1156",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$14.99–"
     },
     {
         "id": 50,
-        "name": "SILVERSTONE SST-AR11 92mm Dual ball bearing CPU Cooler",
-        "price": "50.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-139-V11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADYS220404YHWSh.jpg",
+        "title": "Noctua NH-D12L, Low-Height Dual-Tower CPU Cooler (120mm, Brown)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Brown",
+        "price": "$130.99–"
     },
     {
         "id": 51,
-        "name": "SILVERSTONE SST-AR09-115XP 60mm 2 Ball CPU Cooling",
-        "price": "40.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-122-Z01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-230-01.jpg",
+        "title": "DeepCool AK400 ZERO DARK PLUS Performance CPU Cooler, 4 Copper Heat Pipes, 120mm Fluid Dynamic Bearing PWM Fans, 220W TDP",
+        "rpm": "",
+        "noise_level": "25-30 dBA",
+        "color": "Black",
+        "price": "$44.99–"
     },
     {
         "id": 52,
-        "name": "StarTech.com FANP1003LD 50mm Ball Pentium/Celeron CPU Cooler Fan",
-        "price": "17.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-230-002-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-856-261-01.jpg",
+        "title": "DeepCool AK400 DIGITAL Air Cooler, Single Tower, Real-Time CPU Status Screen, 4 Copper Heat Pipes, 220W Heat Dissipation, All Black Design",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Black",
+        "price": "$49.99–"
     },
     {
         "id": 53,
-        "name": "Bluegears Bgears b-Cooler LGA115X CPU Cooler with Copper Core, 1-Inch-Thick Aluminum Heatsink, 90mm PWM fan for 90W TDP. Support motherboard for Intel CPU i3/i5/i7 with LGA 7775/1150/1151/1155/1156",
-        "price": "18.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-132-056-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADYS2206300OAKIA1B.jpg",
+        "title": "Noctua NH-U12S redux, High Performance CPU Cooler with NF-P12 redux-1700 PWM 120mm fan (Grey)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "",
+        "price": "$67.99–"
     },
     {
         "id": 54,
-        "name": "Dynatron K650 60mm 2 Ball CPU Cooler",
-        "price": "49.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-114-097-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-214-072-16.jpg",
+        "title": "ENERMAX CPU Air Cooler, 150W+ TDP for Intel/ AMD Universal Socket AM4 & AM5 / Intel LGA 1700/1200/1151, 3 Direct Contact Heat Pipes, 90mm PWM Fan – AM5 & LGA 1700 Ready – ETS-N30R-HE",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Black",
+        "price": "$21.99–"
     },
     {
         "id": 55,
-        "name": "SILVERSTONE SST-HE01-V2 140mm Dual Ball Bearing CPU Cooler",
-        "price": "100.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-220-137-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/B41TS2402280DPO9BAE.jpg",
+        "title": "SAMA CPU Air Cooler 4 Heat Copper Pipe 120mm Cooling Fan Addressable RGB Aluminum PC CPU Heatsink for Intel 775/115X/1700/1200/1366 AMD FM2+/FM2/FM1/AM4/AM3/M2+/AM2/AM5 Black",
+        "rpm": "<1600 RPM",
+        "noise_level": "35-40 dBA",
+        "color": "Black",
+        "price": "$25.99–"
     },
     {
         "id": 56,
-        "name": "be quiet! Pure Rock 2 CPU Air Cooler | 150W TDP | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD 4/5 CPU Cooler | Black | BK007",
-        "price": "39.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS2004301bflg.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A7RDD2012288SLFQ.jpg",
+        "title": "Zalman CNPS17x CPU Cooler with 4D Patented Corrugated Fin Design for Intel & AMD, RGB SYNC, 140mm",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$44.99–"
     },
     {
         "id": 57,
-        "name": "be quiet! Dark Rock Pro 5 | TDP 270W CPU Cooler | Air Cooler | Intel 1700 1200 1150 1151 1155 | AM5 AM4 | BK036",
-        "price": "79.90",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS23101719JCQRFD.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/B41TS2401220O9LFQD3.jpg",
+        "title": "SAMA KA200D RGB CPU Air Cooler 9cm fan with 2 Copper Heat Pipes Universal Gaming Computer Air Cooling Heatsink Radiator Quiet Cooler For AMD Intel Black",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$14.99–"
     },
     {
         "id": 58,
-        "name": "Scythe Mugen 5 Rev. C CPU Air Cooler, 120mm Single Tower, Black Edition, Intel LGA1700, LGA1151, AMD AM5/AM4/Ryzen 120mm, Single Tower",
-        "price": "52.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A9ZHS22090118TGNE24.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A68VS210727Hu8ca.jpg",
+        "title": "be quiet! Dark Rock TF2 CPU Air Cooler | Top Flow Cooler | 230W TDP | Socket 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM | Intel and AMD 4/5 Support | Low Noise Cooler | Black | BK031",
+        "rpm": "<1600 RPM",
+        "noise_level": "10-15 dBA",
+        "color": "Black",
+        "price": "$79.90–"
     },
     {
         "id": 59,
-        "name": "be quiet! Pure Rock 2 FX CPU Air Cooler | Black ARGB Air Cooler | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD AM5 AM4 CPU Cooler | 150W TDP | BK033",
-        "price": "49.90",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/13C-001F-00064-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/AADYS2301160NAJMEE7.jpg",
+        "title": "Noctua NH-L9a-AM5 chromax.black, Premium Low-profile CPU Cooler for AMD AM5 (Black)",
+        "rpm": "",
+        "noise_level": "",
+        "color": "Black",
+        "price": "$54.93–"
     },
     {
         "id": 60,
-        "name": "JONSBO CR1400 COLOR CPU Cooler H126mm,Air Cooling Tower Radiator, Desktop PC AM4/AM5 heatsink, 4 Copper Heatpipes for AMD /Intel LGA1700/1200/115X ,  92mm RGB Fan,  Auto Rainbow Lighting on Top, Black",
-        "price": "26.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AY3SS21051245M1O.jpg"
-    },
-    {
-        "id": 61,
-        "name": "Fuma 3 CPU Air Cooler, Intel LGA1700, LGA1151, AMD AM5/AM4/Ryzen 120mm, Dual Towers, Black Top Cover",
-        "price": "49.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A9ZHS2307070VCZX10C.jpg"
-    },
-    {
-        "id": 62,
-        "name": "be quiet! Shadow Rock 3 CPU Air Cooler | 190W TDP | LGA 1700 1200 2066 1150 1151 1155 2011(-3) Square ILM Compatible | Intel and AMD 4/5 Support | Low Noise Cooler | Silver/Black Design | BK004",
-        "price": "47.90",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A68VS200218uY1u1.jpg"
-    },
-    {
-        "id": 63,
-        "name": "Noctua NH-D9L, Premium CPU Cooler with NF-A9 92mm Fan (Brown)",
-        "price": "95.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/35-608-068-11.jpg"
-    },
-    {
-        "id": 64,
-        "name": "DEEPCOOL AN600 Ultra-Thin 6-Pipe Down-Press ITX Radiator With A TDP of Up to 180W And Height of Only 67mm. Compatible With Memory Within 40mm, Suitable LGA1700/1200/1151/1150/1155, AM5/AM4",
-        "price": "54.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A4RES230704087K3H3C.jpg"
-    },
-    {
-        "id": 65,
-        "name": "Montech Metal DT24 Premium, High Performance Dual-Tower CPU Cooler, with 2X Metal 120 PWM Fans, ARGB Aluminum Top Cover, 270W TDP - All Black",
-        "price": "69.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A1K6S2307021CER6W83.jpg"
-    },
-    {
-        "id": 66,
-        "name": "JONSBO CR1000 EVO ARGB CPU Cooler,Silent Series CPU Cooler , Air Cooler  H154mm, 4 Copper Heat Pipe Insert Aluminum Fin for AM4/AM5/Intel LGA1700, 120mm PWM ARGB 9-blades Fan,Top Cover ARGB, Black",
-        "price": "33.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AY3SS23060804CWR8CD.jpg"
-    },
-    {
-        "id": 67,
-        "name": "Intel K69237-001/E97379-001/E97378-001 LGA 1200/115X PWM Aluminum Stock Cooler Fan(All-Black) from i9-10900",
-        "price": "17.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A4RES200901gxqyr.jpg"
-    },
-    {
-        "id": 68,
-        "name": "NZXT T120 RGB - White",
-        "price": "56.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AG1PD22111201Q7N705.jpg"
-    },
-    {
-        "id": 69,
-        "name": "JONSBO HX6200D WHITE High Performance  Down-flow CPU Cooling,  Addressable RGB  CPU Cooler, 6 Copper Heatpipes  Radiator,H:63MM, 12cm Fans, FDB, with 1g Silicone Grease, White",
-        "price": "48.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AY3SS2203030LGFBVF1.jpg"
-    },
-    {
-        "id": 70,
-        "name": "Noctua NH-U14S TR4-SP3, Premium-grade CPU Cooler for AMD sTRX4/TR4/SP3 (140mm, Brown)",
-        "price": "144.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADY_131462424114421525y4HbR1MBia.jpg"
-    },
-    {
-        "id": 71,
-        "name": "Noctua NH-D12L, Low-Height Dual-Tower CPU Cooler (120mm, Brown)",
-        "price": "130.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADYS220404YHWSh.jpg"
-    },
-    {
-        "id": 72,
-        "name": "Thermalright Peerless Assassin 120 WHITE ARGB CPU Air Cooler,6 Heat Pipes, Dual 120mm TL-C12W-S PWM Fan,Aluminium Heatsink Cover,AGHP Technology,for AMD AM4 AM5/Intel LGA 115X/1200/2011/1700,PC Cooler",
-        "price": "64.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/BFKMS22091304J5NIA4.jpg"
-    },
-    {
-        "id": 73,
-        "name": "Dynatron N11 Ice Lake, Cooper Lake LGA 4189 CPU Heatsink and Fan",
-        "price": "56.74",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AB94S210615BnLlW.jpg"
-    },
-    {
-        "id": 74,
-        "name": "JONSBO HP400S BLACK Mini CPU cooling Fan, Top Flow CPU Cooler , All-in-one ITX Ultra- thin CPU Cooler ,4 Copper Heatpipes, Quiet & Temperature Control ,90mm Fan H: 40mm, support LGA 1700 AM4/AM5,Black",
-        "price": "29.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AY3SS2312050GZ8EG89.jpg"
-    },
-    {
-        "id": 75,
-        "name": "JONSBO CR-3000ARGB CPU Cooler,120mm Dual-Fan Dual-Tower,7 High Efficiency Composite Anti-gravity Heatpipe,Support AM5/Intel LGA 1700,Illusion topper with ARGB,No Blocking of the Memory, Black",
-        "price": "44.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AY3SS2307030FHIMT01.jpg"
-    },
-    {
-        "id": 76,
-        "name": "Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan (Brown)",
-        "price": "67.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AADY_131504710147913939dt3BoXTedP.jpg"
-    },
-    {
-        "id": 77,
-        "name": "AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)",
-        "price": "9.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A4RE_132090352989496141rBkX6cFmaM.jpg"
-    },
-    {
-        "id": 78,
-        "name": "Zalman CNPS 16x, Real RGB LED CPU Cooler with 4D Patented Corrugated Fin Design, 120mm, for Intel & AMD (Black)",
-        "price": "59.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/ABW9S200427xR4zR.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/35-608-068-11.jpg",
+        "title": "Noctua NH-D9L Low-profile Premium CPU Cooler, NF-A9 PWM Fans",
+        "rpm": "Variable",
+        "noise_level": "Variable",
+        "color": "Brown",
+        "price": "$95.99–"
     }
 ]

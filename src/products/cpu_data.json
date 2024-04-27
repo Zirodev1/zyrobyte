@@ -1,452 +1,662 @@
 [
     {
         "id": 1,
-        "name": "AMD Ryzen 5 7600X - 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
-        "price": "208.50",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-770-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-793-03.png",
+        "title": "AMD Ryzen 7 7800X3D Desktop Processor",
+        "cores": "8-Core",
+        "core_clock": "4.2 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "120W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$382.99–"
     },
     {
         "id": 2,
-        "name": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series 8-Core 4.2 GHz Socket AM5 120W AMD Radeon Graphics Desktop Processor - 100-100000910WOF",
-        "price": "383.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-793-03.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-466-04.jpg",
+        "title": "Intel Core i7-14700K Desktop Processor",
+        "cores": "20-Core (8P+12E)",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$399.99–"
     },
     {
         "id": 3,
-        "name": "Intel Core i7-14700K - Core i7 14th Gen 20-Core (8P+12E) LGA 1700 125W Intel UHD Graphics 770 Processor - Boxed - BX8071514700K",
-        "price": "399.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-466-04.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-770-02.jpg",
+        "title": "AMD Ryzen 5 7600X Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "4.7 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "105W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$207.15–"
     },
     {
         "id": 4,
-        "name": "AMD 100-100000031SBX Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Spire Cooler",
-        "price": "82.88",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A0ZXD2210250M5EIO0E.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-462-01.jpg",
+        "title": "Intel Core i9-14900K Desktop Processor",
+        "cores": "24-Core (8P+16E)",
+        "core_clock": "3.2 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$540.00–"
     },
     {
         "id": 5,
-        "name": "AMD Ryzen 5 7600 - Ryzen 5 7000 Series 6-Core 3.8 GHz Socket AM5 65W AMD Radeon Graphics Processor - 100-100001015BOX",
-        "price": "199.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-787-02.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-343-05.jpg",
+        "title": "Intel Core i7-12700K Desktop Processor",
+        "cores": "12-Core (8P+4E)",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$240.75–"
     },
     {
         "id": 6,
-        "name": "Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512900K",
-        "price": "336.36",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-339-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-349-05.jpg",
+        "title": "Intel Core i5-12600KF Desktop Processor",
+        "cores": "10-Core (6P+4E)",
+        "core_clock": "3.7 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$154.65–"
     },
     {
         "id": 7,
-        "name": "AMD Ryzen 5 5600X - Ryzen 5 5000 Series Vermeer (Zen 3) 6-Core 3.7 GHz Socket AM4 65W None Integrated Graphics Desktop Processor - 100-100000065BOX",
-        "price": "159.19",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-666-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-666-V01.jpg",
+        "title": "AMD Ryzen 5 5600X Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "3.7 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$159.19–"
     },
     {
         "id": 8,
-        "name": "Intel Core i9-14900KS - Core i9 14th Gen Raptor Lake 24-Core (8P+16E) LGA 1700 150W Intel UHD Graphics 770 Desktop Processor - BX8071514900KS",
-        "price": "663.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-496-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-345-05.jpg",
+        "title": "Intel Core i7-12700KF Desktop Processor",
+        "cores": "12-Core (8P+4E)",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$229.99–"
     },
     {
         "id": 9,
-        "name": "AMD Ryzen 5 7600X - 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
-        "price": "208.50",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-770-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-347-05.jpg",
+        "title": "Intel Core i5-12600K Desktop Processor",
+        "cores": "10-Core (6P+4E)",
+        "core_clock": "3.7 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$177.00–"
     },
     {
         "id": 10,
-        "name": "Intel Core i7-12700KF - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 3.6 GHz LGA 1700 125W Desktop Processor - BX8071512700KF",
-        "price": "229.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-345-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-769-02.jpg",
+        "title": "AMD Ryzen 9 7900X Desktop Processor",
+        "cores": "12-Core",
+        "core_clock": "4.7 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "170W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$423.99–"
     },
     {
         "id": 11,
-        "name": "AMD Ryzen 7 5800X - Ryzen 7 5000 Series Vermeer (Zen 3) 8-Core 3.8 GHz Socket AM4 105W None Integrated Graphics Desktop Processor - 100-100000063WOF",
-        "price": "202.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-665-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-414-V01.jpg",
+        "title": "Intel Core i7-13700K Desktop Processor",
+        "cores": "16-Core (8P+8E)",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$373.99–"
     },
     {
         "id": 12,
-        "name": "Intel Core i7-12700K - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 3.6 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512700K",
-        "price": "241.39",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-343-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-787-02.png",
+        "title": "AMD Ryzen 5 7600 Processor",
+        "cores": "6-Core",
+        "core_clock": "3.8 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$199.00–"
     },
     {
         "id": 13,
-        "name": "AMD Ryzen 5 5600 - Ryzen 5 5000 Series Vermeer (Zen 3) 6-Core 3.5 GHz Socket AM4 65W None Integrated Graphics Desktop Processor - 100-100000927BOX",
-        "price": "134.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-736-V03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-339-05.jpg",
+        "title": "Intel Core i9-12900K Desktop Processor",
+        "cores": "16-Core (8P+8E)",
+        "core_clock": "3.2 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$345.98–"
     },
     {
         "id": 14,
-        "name": "Intel Core i9-12900KF - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Desktop Processor - BX8071512900KF",
-        "price": "355.55",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-341-06.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-734-05.jpg",
+        "title": "AMD Ryzen 7 5800X3D Desktop Processor",
+        "cores": "8-Core",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "105W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$338.99–"
     },
     {
         "id": 15,
-        "name": "AMD Ryzen 9 5950X - Ryzen 9 5000 Series Vermeer (Zen 3) 16-Core 3.4 GHz Socket AM4 105W None Integrated Graphics Desktop Processor - 100-100000059WOF",
-        "price": "388.23",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-663-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-791-03.png",
+        "title": "AMD Ryzen 9 7950X3D Desktop Processor",
+        "cores": "16-Core",
+        "core_clock": "4.2 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "120W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$649.00–"
     },
     {
         "id": 16,
-        "name": "Intel Core i9-14900K - Core i9 14th Gen 24-Core (8P+16E) LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - Boxed - BX8071514900K",
-        "price": "540.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-462-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-737-V03.jpg",
+        "title": "AMD Ryzen 5 5500 Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$98.99–"
     },
     {
         "id": 17,
-        "name": "AMD Ryzen 7 7700X - 8-Core 4.5 GHz - Socket AM5 - 105W Desktop Processor (100-100000591WOF)",
-        "price": "301.51",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-768-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-665-V01.jpg",
+        "title": "AMD Ryzen 7 5800X Desktop Processor",
+        "cores": "8-Core",
+        "core_clock": "3.8 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "105W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$202.00–"
     },
     {
         "id": 18,
-        "name": "Intel Core i9-14900KF - Core i9 14th Gen 24-Core (8P+16E) LGA 1700 125W None Integrated Graphics Processor - Boxed - BX8071514900KF",
-        "price": "530.97",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-464-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-664-V01.jpg",
+        "title": "AMD Ryzen 9 5900X Desktop Processor",
+        "cores": "12-Core",
+        "core_clock": "3.7 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "105W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$260.99–"
     },
     {
         "id": 19,
-        "name": "AMD Ryzen 9 7900X - 12-Core 4.7 GHz - Socket AM5 - 170W Desktop Processor (100-100000589WOF)",
-        "price": "423.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-769-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-735-V01.jpg",
+        "title": "AMD Ryzen 7 5700X Desktop Processor",
+        "cores": "8-Core",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$189.00–"
     },
     {
         "id": 20,
-        "name": "Intel Core i5-12600KF - Core i5 12th Gen Alder Lake 10-Core (6P+4E) 3.7 GHz LGA 1700 125W Desktop Processor - BX8071512600KF",
-        "price": "154.65",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-349-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-412-V01.jpg",
+        "title": "Intel Core i9-13900K Desktop Processor",
+        "cores": "24-Core (8P+16E)",
+        "core_clock": "3.0 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$536.99–"
     },
     {
         "id": 21,
-        "name": "AMD Ryzen 7 5700X - Ryzen 7 5000 Series 8-Core 3.4 GHz Socket AM4 65W None Integrated Graphics Desktop Processor - 100-100000926WOF",
-        "price": "174.49",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-735-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-736-V03.jpg",
+        "title": "AMD Ryzen 5 5600 Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "3.5 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$146.89–"
     },
     {
         "id": 22,
-        "name": "Intel Core i5-14400F - Core i5 14th Gen Raptor Lake 10-Core (6P+4E) LGA 1700 65W None Integrated Graphics Processor - BX8071514400F",
-        "price": "209.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-489-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-468-03.jpg",
+        "title": "Intel Core i7-14700KF Desktop Processor",
+        "cores": "20-Core (8P+12E)",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$378.99–"
     },
     {
         "id": 23,
-        "name": "AMD Ryzen 5 5500 - Ryzen 5 5000 Series 6-Core 3.6 GHz Socket AM4 65W None Integrated Graphics Desktop Processor - 100-100000457BOX",
-        "price": "98.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-737-V03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-768-01.jpg",
+        "title": "AMD Ryzen 7 7700X Desktop Processor",
+        "cores": "8-Core",
+        "core_clock": "4.5 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "105W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$301.51–"
     },
     {
         "id": 24,
-        "name": "Intel Core i7-13700K - Core i7 13th Gen Raptor Lake 16-Core (8P+8E) P-core Base Frequency: 3.4 GHz E-core Base Frequency: 2.5 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071513700K",
-        "price": "344.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-414-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-464-03.jpg",
+        "title": "Intel Core i9-14900KF Processor",
+        "cores": "24-Core (8P+16E)",
+        "core_clock": "3.2 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$530.97–"
     },
     {
         "id": 25,
-        "name": "AMD Ryzen 7 5700G - Ryzen 7 5000 G-Series Cezanne (Zen 3) 8-Core 3.8 GHz Socket AM4 65W AMD Radeon Graphics Desktop Processor - 100-100000263BOX",
-        "price": "181.23",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-682-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-792-03.png",
+        "title": "AMD Ryzen 9 7900X3D Desktop Processor",
+        "cores": "12-Core",
+        "core_clock": "4.4 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "120W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$469.90–"
     },
     {
         "id": 26,
-        "name": "Intel Core i5-12600K - Core i5 12th Gen Alder Lake 10-Core (6P+4E) 3.7 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071512600K",
-        "price": "178.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-347-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-416-V01.jpg",
+        "title": "Intel Core i5-13600K Desktop Processor",
+        "cores": "14-Core (6P+8E)",
+        "core_clock": "3.5 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$291.76–"
     },
     {
         "id": 27,
-        "name": "AMD Ryzen 5 5600GT - Ryzen 5 5000 Series 6-Core 3.6 GHz Socket AM4 65W AMD Radeon Graphics Processor - 100-100001488BOX",
-        "price": "140.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-816-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-360-08.jpg",
+        "title": "Intel Core i5-12400F Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "2.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$134.33–"
     },
     {
         "id": 28,
-        "name": "Intel Core i5-14500 - Core i5 14th Gen Raptor Lake 14-Core (6P+8E) LGA 1700 65W Intel UHD Graphics 770 Processor - BX8071514500",
-        "price": "246.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-478-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-663-V01.jpg",
+        "title": "AMD Ryzen 9 5950X Desktop Processor",
+        "cores": "16-Core",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "105W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$380.00–"
     },
     {
         "id": 29,
-        "name": "AMD Ryzen 7 5700X3D - Ryzen 7 5000 Series 8-Core 3.0 GHz Socket AM4 105W None Integrated Graphics Processor - 100-100001503WOF",
-        "price": "244.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-734-S04.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-470-07.jpg",
+        "title": "Intel Core i5-14600K Desktop CPU",
+        "cores": "14-Core (6P+8E)",
+        "core_clock": "3.5 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$306.85–"
     },
     {
         "id": 30,
-        "name": "Intel Core i5-14600K - Core i5 14th Gen 14-Core (6P+8E) LGA 1700 125W Intel UHD Graphics 770 Processor - Boxed - BX8071514600K",
-        "price": "310.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-470-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/ARUXS2204210J7PZ0CA.jpg",
+        "title": "AMD Ryzen 5 4500 Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$79.00–"
     },
     {
         "id": 31,
-        "name": "AMD Ryzen 7 7700 - Ryzen 7 7000 Series 8-Core 3.8 GHz Socket AM5 65W AMD Radeon Graphics Processor - 100-100000592BOX",
-        "price": "291.29",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-786-03.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-496-01.jpg",
+        "title": "Intel Core i9-14900KS Desktop Processor",
+        "cores": "24-Core (8P+16E)",
+        "core_clock": "",
+        "memory": "DDR5 5600",
+        "tdp": "150W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$663.99–"
     },
     {
         "id": 32,
-        "name": "Intel Core i5-14400 - Core i5 14th Gen Raptor Lake 10-Core (6P+4E) LGA 1700 65W Intel UHD Graphics 730 Processor - BX8071514400",
-        "price": "234.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-478-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-682-V01.jpg",
+        "title": "AMD Ryzen 7 5700G Desktop Processor",
+        "cores": "8-Core",
+        "core_clock": "3.8 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$180.99–"
     },
     {
         "id": 33,
-        "name": "AMD Ryzen 9 7900 - Ryzen 9 7000 Series 12-Core 3.7 GHz Socket AM5 65W AMD Radeon Graphics Processor - 100-100000590BOX",
-        "price": "399.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-785-04.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-341-06.jpg",
+        "title": "Intel Core i9-12900KF Desktop Processor",
+        "cores": "16-Core (8P+8E)",
+        "core_clock": "3.2 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$355.55–"
     },
     {
         "id": 34,
-        "name": "Intel Core i5-12400 - Core i5 12th Gen Alder Lake 6-Core 2.5 GHz LGA 1700 65W Intel UHD Graphics 730 Desktop Processor - BX8071512400",
-        "price": "162.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-358-S02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-734-S04.jpg",
+        "title": "AMD Ryzen 7 5700X3D Processor",
+        "cores": "8-Core",
+        "core_clock": "3.0 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "105W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$244.00–"
     },
     {
         "id": 35,
-        "name": "AMD Ryzen 5 8600G - Ryzen 5 8000-G Series 6-Core 4.3 GHz Socket AM5 65W AMD Radeon 760M Processor - 100-100001237BOX",
-        "price": "228.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-814-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-413-V07.jpg",
+        "title": "Intel Core i9-13900KF Desktop Processor",
+        "cores": "24-Core (8P+16E)",
+        "core_clock": "3.0 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$539.99–"
     },
     {
         "id": 36,
-        "name": "Intel Core i7-12700F - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 2.1 GHz LGA 1700 65W Desktop Processor - BX8071512700F",
-        "price": "249.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-359-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-478-01.jpg",
+        "title": "Intel Core i5-14500 Processor",
+        "cores": "14-Core (6P+8E)",
+        "core_clock": "2.6 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$246.99–"
     },
     {
         "id": 37,
-        "name": "AMD Ryzen 5 4500 - Ryzen 5 4000 Series 6-Core 3.6 GHz Socket AM4 65W None Integrated Graphics Desktop Processor - 100-100000644BOX",
-        "price": "79.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/ARUXS2204210J7PZ0CA.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-417-V01.jpg",
+        "title": "Intel Core i5-13600KF Desktop Processor",
+        "cores": "14-Core (6P+8E)",
+        "core_clock": "3.5 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$284.59–"
     },
     {
         "id": 38,
-        "name": "Intel Core i5-12400F - Core i5 12th Gen Alder Lake 6-Core 2.5 GHz LGA 1700 65W Desktop Processor - BX8071512400F",
-        "price": "132.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-360-08.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-358-S02.jpg",
+        "title": "Intel Core i5-12400 Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "2.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "Intel UHD Graphics 730",
+        "price": "$162.99–"
     },
     {
         "id": 39,
-        "name": "AMD Ryzen 5 7600X - 6-Core 4.7 GHz - Socket AM5 - 105W Desktop Processor (100-100000593WOF)",
-        "price": "208.50",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-770-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-415-01.jpg",
+        "title": "Intel Core i7-13700KF Desktop Processor",
+        "cores": "16-Core (8P+8E)",
+        "core_clock": "3.4 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$354.99–"
     },
     {
         "id": 40,
-        "name": "AMD Ryzen 9 7900X3D - Ryzen 9 7000 Series 12-Core 4.4 GHz Socket AM5 120W AMD Radeon Graphics Desktop Processor - 100-100000909WOF",
-        "price": "469.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-792-03.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-472-03.jpg",
+        "title": "Intel Core i5-14600KF Desktop Processor",
+        "cores": "14-Core (6P+8E)",
+        "core_clock": "3.5 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "125W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$294.99–"
     },
     {
         "id": 41,
-        "name": "Intel Core i7-14700F - Core i7 14th Gen Raptor Lake 20-Core (8P+12E) LGA 1700 65W None Integrated Graphics Processor - BX8071514700F",
-        "price": "369.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-487-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-357-03.jpg",
+        "title": "Intel Core i3-12100F Desktop Processor",
+        "cores": "Quad-Core",
+        "core_clock": "3.3 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "58W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$94.98–"
     },
     {
         "id": 42,
-        "name": "AMD Ryzen 7 5700 - Ryzen 7 5000 Series 8-Core 3.7 GHz Socket AM4 65W None Integrated Graphics Processor - 100-100000743BOX",
-        "price": "175.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-813-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-813-01.jpg",
+        "title": "AMD Ryzen 7 5700 Processor",
+        "cores": "8-Core",
+        "core_clock": "3.7 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$175.00–"
     },
     {
         "id": 43,
-        "name": "AMD Ryzen 5 5500GT - Ryzen 5 5000 Series 6-Core 3.6 GHz Socket AM4 65W AMD Radeon Graphics Processor - 100-100001489BOX",
-        "price": "125.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-817-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-814-03.jpg",
+        "title": "AMD Ryzen 5 8600G Processor",
+        "cores": "6-Core",
+        "core_clock": "4.3 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon 760M",
+        "price": "$228.99–"
     },
     {
         "id": 44,
-        "name": "Intel Core i7-12700 - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 2.1 GHz LGA 1700 65W Intel UHD Graphics 770 Desktop Processor - BX8071512700",
-        "price": "265.49",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-368-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-431-04.jpg",
+        "title": "Intel Core i5-13400F Desktop Processor",
+        "cores": "10-Core (6P+4E)",
+        "core_clock": "2.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$185.99–"
     },
     {
         "id": 45,
-        "name": "AMD Ryzen 7 8700G - Ryzen 7 8000-G Series 8-Core 4.2 GHz Socket AM5 65W AMD Radeon 780M Processor - 100-100001236BOX",
-        "price": "329.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-811-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-785-04.png",
+        "title": "AMD Ryzen 9 7900 Processor",
+        "cores": "12-Core",
+        "core_clock": "3.7 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$399.00–"
     },
     {
         "id": 46,
-        "name": "Intel Core i7-14700KF - Core i7 14th Gen 20-Core (8P+12E) LGA 1700 125W None Integrated Graphics Desktop Processor - Boxed - BX8071514700KF",
-        "price": "378.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-468-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-429-04.jpg",
+        "title": "Intel Core i5-13500 Desktop Processor",
+        "cores": "14-Core (6P+8E)",
+        "core_clock": "2.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$244.85–"
     },
     {
         "id": 47,
-        "name": "Intel Core i5-14600KF - Core i5 14th Gen 14-Core (6P+8E) LGA 1700 125W None Integrated Graphics Desktop Processor - Boxed - BX8071514600KF",
-        "price": "294.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-472-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-811-01.jpg",
+        "title": "AMD Ryzen 7 8700G Processor",
+        "cores": "8-Core",
+        "core_clock": "4.2 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon 780M",
+        "price": "$329.00–"
     },
     {
         "id": 48,
-        "name": "AMD Ryzen 5 8500G - Ryzen 5 8000-G Series 6-Core 3.5 GHz Socket AM5 65W AMD Radeon 740M Processor - 100-100000931BOX",
-        "price": "179.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-815-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-786-03.png",
+        "title": "AMD Ryzen 7 7700 Processor",
+        "cores": "8-Core",
+        "core_clock": "3.8 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$291.29–"
     },
     {
         "id": 49,
-        "name": "Intel Core i5-13600KF - Core i5 13th Gen Raptor Lake 14-Core (6P+8E) 3.5 GHz LGA 1700 125W None Integrated Graphics Desktop Processor - BX8071513600KF",
-        "price": "244.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-417-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A24GD2203220DB6YE7D.jpg",
+        "title": "Intel Core i3-12100 Desktop Processor",
+        "cores": "Quad-Core",
+        "core_clock": "3.3 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "60W",
+        "integrated_graphics": "Intel UHD Graphics 730",
+        "price": "$121.98–"
     },
     {
         "id": 50,
-        "name": "AMD Ryzen 3 4100 - Ryzen 3 4000 Series Quad-Core 3.8 GHz Socket AM4 65W None Integrated Graphics Desktop Processor - 100-100000510BOX",
-        "price": "68.98",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/APRGS220504H6qmG.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-430-10.jpg",
+        "title": "Intel Core i5-13400 Desktop Processor",
+        "cores": "10-Core (6P+4E)",
+        "core_clock": "2.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "Intel UHD Graphics 730",
+        "price": "$228.98–"
     },
     {
         "id": 51,
-        "name": "Intel Core i5-13600K - Core i5 13th Gen Raptor Lake 14-Core (6P+8E) 3.5 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor - BX8071513600K",
-        "price": "272.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-416-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-487-01.jpg",
+        "title": "Intel Core i7-14700F Processor",
+        "cores": "20-Core (8P+12E)",
+        "core_clock": "2.1 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$369.99–"
     },
     {
         "id": 52,
-        "name": "AMD Ryzen Threadripper 7970X 350W SP6 - 32-Core/64-Threads (100-100001351WOF)",
-        "price": "2399.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-808-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-476-01.jpg",
+        "title": "Intel Core i7-14700 Processor",
+        "cores": "20-Core (8P+12E)",
+        "core_clock": "2.1 GHz",
+        "memory": "DDR5 5600",
+        "tdp": "65W",
+        "integrated_graphics": "Intel UHD Graphics 770",
+        "price": "$399.99–"
     },
     {
         "id": 53,
-        "name": "Intel Core i7-14700 - Core i7 14th Gen Raptor Lake 20-Core (8P+12E) LGA 1700 65W Intel UHD Graphics 770 Processor - BX8071514700",
-        "price": "399.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-476-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-489-01.jpg",
+        "title": "Intel Core i5-14400F Processor",
+        "cores": "10-Core (6P+4E)",
+        "core_clock": "2.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$209.99–"
     },
     {
         "id": 54,
-        "name": "AMD Ryzen Threadripper 7960X 350W SP6 - 24-Core/48-Threads - 100-100001352WOF",
-        "price": "1469.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-808-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/APRGS220504H6qmG.jpg",
+        "title": "AMD Ryzen 3 4100 Desktop Processor",
+        "cores": "Quad-Core",
+        "core_clock": "3.8 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$68.98–"
     },
     {
         "id": 55,
-        "name": "Intel Core i5-13400F Desktop Processor 10 cores (6 P-cores + 4 E-cores) 20MB Cache, up to 4.6 GHz - Box",
-        "price": "185.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-431-04.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-817-01.jpg",
+        "title": "AMD Ryzen 5 5500GT Processor",
+        "cores": "6-Core",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$125.00–"
     },
     {
         "id": 56,
-        "name": "AMD Ryzen 9 5900X - Ryzen 9 5000 Series Vermeer (Zen 3) 12-Core 3.7 GHz Socket AM4 105W None Integrated Graphics Desktop Processor - 100-100000061WOF",
-        "price": "261.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-664-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-569-V01.jpg",
+        "title": "AMD Ryzen 5 3600 Desktop Processor",
+        "cores": "6-Core",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "",
+        "price": "$104.75–"
     },
     {
         "id": 57,
-        "name": "Intel Core i3-13100F Desktop Processor 4 cores (4 P-cores + 0 E-cores) 12MB Cache, up to 4.5 GHz - Box",
-        "price": "109.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-433-02.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-798-01.jpg",
+        "title": "AMD Ryzen 5 7600 Processor",
+        "cores": "6-Core",
+        "core_clock": "3.8 GHz",
+        "memory": "DDR5 5200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$189.99–"
     },
     {
         "id": 58,
-        "name": "AMD Ryzen Threadripper PRO 5995WX - Ryzen Threadripper PRO Chagall PRO (Zen 3) 64-Core 2.7 GHz Socket sWRX8 280W None Integrated Graphics Desktop Processor - 100-100000444WOF",
-        "price": "5499.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-763-09.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/A0ZXD2210250M5EIO0E.jpg",
+        "title": "AMD 100-100000031SBX Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Spire Cooler",
+        "cores": "6-Core",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$82.88–"
     },
     {
         "id": 59,
-        "name": "Intel Core i3-14100 - Core i3 14th Gen Raptor Lake 4-Core (4P+0E) LGA 1700 60W Intel UHD Graphics 730 Processor - BX8071514100",
-        "price": "139.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-483-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-113-816-01.jpg",
+        "title": "AMD Ryzen 5 5600GT Processor",
+        "cores": "6-Core",
+        "core_clock": "3.6 GHz",
+        "memory": "DDR4 3200",
+        "tdp": "65W",
+        "integrated_graphics": "AMD Radeon Graphics",
+        "price": "$140.00–"
     },
     {
         "id": 60,
-        "name": "AMD Ryzen Threadripper PRO 7975WX 350W SP6 - 32-Core/64-Threads (100-100000453WOF)",
-        "price": "3899.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-810-01.jpg"
-    },
-    {
-        "id": 61,
-        "name": "Intel Core i9-13900KS - Core i9 13th Gen Raptor Lake 24-Core (8P+16E) 3.2 GHz LGA 1700 - Intel UHD Graphics 770 - Unlocked Desktop Processor - BX8071513900KS",
-        "price": "509.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-446-06.jpg"
-    },
-    {
-        "id": 62,
-        "name": "AMD Ryzen Threadripper PRO 7985WX 350W SP6 - 64-Core/128-Threads (100-100000454WOF)",
-        "price": "7349.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-810-01.jpg"
-    },
-    {
-        "id": 63,
-        "name": "Intel Core i5-13400 Desktop Processor 10 cores (6 P-cores + 4 E-cores) 20MB Cache, up to 4.6 GHz - Box",
-        "price": "228.98",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-430-10.jpg"
-    },
-    {
-        "id": 64,
-        "name": "AMD Ryzen Threadripper PRO 5975WX - Ryzen Threadripper PRO Chagall PRO (Zen 3) 32-Core 3.6 GHz Socket sWRX8 280W None Integrated Graphics Desktop Processor - 100-100000445WOF",
-        "price": "2579.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-764-07.jpg"
-    },
-    {
-        "id": 65,
-        "name": "AMD Ryzen Threadripper PRO 7995WX 350W SP6 - 96-Core/192-Threads (100-100000884WOF)",
-        "price": "9999.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-810-01.jpg"
-    },
-    {
-        "id": 66,
-        "name": "Intel Core i7-13700KF - Core i7 13th Gen Raptor Lake 16-Core (8P+8E) P-core Base Frequency: 3.4 GHz E-core Base Frequency: 2.5 GHz LGA 1700 125W None Integrated Graphics Desktop Processor - BX80715137",
-        "price": "324.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-415-01.jpg"
-    },
-    {
-        "id": 67,
-        "name": "AMD Ryzen Threadripper PRO 7965WX 350W SP6 - 24-Core/48-Threads - 100-100000885WOF",
-        "price": "2649.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-810-01.jpg"
-    },
-    {
-        "id": 68,
-        "name": "Intel Core i3-12100 - Core i3 12th Gen Alder Lake Quad-Core 3.3 GHz LGA 1700 Processor 60W Intel UHD Graphics 730 Desktop Processor - BX8071512100",
-        "price": "121.98",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/A24GD2203220DB6YE7D.jpg"
-    },
-    {
-        "id": 69,
-        "name": "AMD Ryzen Threadripper 7980X 350W SP6 - 64-Core/128-Threads (100-100001350WOF)",
-        "price": "4999.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-808-02.jpg"
-    },
-    {
-        "id": 70,
-        "name": "Intel Core i5-13500 Desktop Processor 14 cores (6 P-cores + 8 E-cores) 24MB Cache, up to 4.8 GHz - Box",
-        "price": "244.85",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-429-04.jpg"
-    },
-    {
-        "id": 71,
-        "name": "Intel Core i3-12100F - Core i3 12th Gen Alder Lake Quad-Core 3.3 GHz LGA 1700 58W Desktop Processor - BX8071512100F",
-        "price": "94.98",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-357-03.jpg"
-    },
-    {
-        "id": 72,
-        "name": "Intel Core i3-13100 Desktop Processor 4 cores (4 P-cores + 0 E-cores) 12MB Cache, up to 4.5 GHz - Box",
-        "price": "147.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-432-05.jpg"
-    },
-    {
-        "id": 73,
-        "name": "AMD Ryzen 9 7950X3D - Ryzen 9 7000 Series 16-Core 4.2 GHz Socket AM5 120W AMD Radeon Graphics Desktop Processor - 100-100000908WOF",
-        "price": "649.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-113-791-03.png"
-    },
-    {
-        "id": 74,
-        "name": "Intel Core i9-13900 Desktop Processor - 24 cores (8 P-cores + 16 E-cores) - 36MB Cache, up to 5.6 GHz - Box",
-        "price": "517.44",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-425-04.jpg"
-    },
-    {
-        "id": 75,
-        "name": "Intel Core i9-14900F - Core i9 14th Gen Raptor Lake 24-Core (8P+16E) LGA 1700 65W None Integrated Graphics Processor - BX8071514900F",
-        "price": "529.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/19-118-485-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/19-118-492-01.jpg",
+        "title": "Intel Core i3-14100F Processor",
+        "cores": "4-Core (4P+0E)",
+        "core_clock": "3.5 GHz",
+        "memory": "DDR5 4800",
+        "tdp": "58W",
+        "integrated_graphics": "None Integrated Graphics",
+        "price": "$94.99–"
     }
 ]

@@ -1,452 +1,662 @@
 [
     {
         "id": 1,
-        "name": "MSI Gaming Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 ATX Video Card RX 7900 XTX GAMING TRIO CLASSIC 24G",
-        "price": "1029.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-781-08.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-632-03.jpg",
+        "title": "MSI RTX 3060 Ventus 2X 12G OC Ventus GeForce RTX 3060 Video Card",
+        "gpu": "GeForce RTX 3060",
+        "memory": "12GB",
+        "psu": "550W",
+        "length": "235 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$289.99–"
     },
     {
         "id": 2,
-        "name": "ASRock Phantom Gaming Radeon RX 7900 XT 20GB GDDR6 PCI Express 4.0 ATX Video Card RX7900XT PG 20GO",
-        "price": "699.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-083-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-611-V01.jpg",
+        "title": "GIGABYTE GV-N4070WF3OC-12GD WINDFORCE GeForce RTX 4070 Video Card",
+        "gpu": "GeForce RTX 4070",
+        "memory": "12GB",
+        "psu": "650W",
+        "length": "261 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$579.99–"
     },
     {
         "id": 3,
-        "name": "Yeston Radeon RX 7900 XTX 24GD6 GDDR6 384bit 5nm video cards Desktop computer PC Video Graphics Cards support PCI-Express 4.0 3*DP+1*HDMI-compatible RGB light effect Fragrant graphics card",
-        "price": "979.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AZUES2302230KD3O3A4.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-687-11.png",
+        "title": "ASUS Dual GeForce RTX 4070 SUPER OC Edition graphics card (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1, DisplayPort 1.4a, 2.56-slot design, Axial-tech fan design, Auto-Extreme Tech) DUAL-RTX4070S-O12G",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "750W",
+        "length": "267 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$650.11–"
     },
     {
         "id": 4,
-        "name": "GIGABYTE GeForce RTX 4070 GAMING OC V2 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N4070GAMING OCV2-12GD Video Card",
-        "price": "549.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-685-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-431-12.jpg",
+        "title": "SAPPHIRE 11323-02-20G PULSE Radeon RX 7900 XT Video Card",
+        "gpu": "Radeon RX 7900 XT",
+        "memory": "20GB",
+        "psu": "750W",
+        "length": "313 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$699.99–"
     },
     {
         "id": 5,
-        "name": "SAPPHIRE PULSE Radeon RX 7900 XT 20GB GDDR6 PCI Express 4.0 x16 ATX Video Card 11323-02-20G",
-        "price": "699.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-202-431-12.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-481-11.jpg",
+        "title": "GIGABYTE GV-R66EAGLE-8GD Eagle Radeon RX 6600 Video Card",
+        "gpu": "Radeon RX 6600",
+        "memory": "8GB",
+        "psu": "500W",
+        "length": "282 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$199.99–"
     },
     {
         "id": 6,
-        "name": "Refurbished NVIDIA GeForce GRID K520 Fanless 8GB GDDR5 GRID K520 Video Graphic Card GPU",
-        "price": "37.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/ADFRD210504SDCR8.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-066-07.jpg",
+        "title": "ASRock RX6600 CLD 8G Radeon RX 6600 Video Card",
+        "gpu": "Radeon RX 6600",
+        "memory": "8GB",
+        "psu": "500W",
+        "length": "269 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$199.99–"
     },
     {
         "id": 7,
-        "name": "MSI Ventus GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ventus 2X 12G OC",
-        "price": "289.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-632-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-804-11.jpg",
+        "title": "MSI RTX 4060 VENTUS 2X BLACK 8G OC Ventus GeForce RTX 4060 Video Card",
+        "gpu": "GeForce RTX 4060",
+        "memory": "8GB",
+        "psu": "550W",
+        "length": "199 mm",
+        "interface": "PCI Express 4.0 x8",
+        "price": "$314.99–"
     },
     {
         "id": 8,
-        "name": "ASRock Radeon RX 6600 8GB GDDR6 PCI Express 4.0 Video Card RX6600 CLD 8G",
-        "price": "199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-066-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-683-11.jpg",
+        "title": "GIGABYTE GeForce RTX 4070 SUPER WINDFORCE OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SWF3OC-12GD  Video Card",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "650W",
+        "length": "261 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$599.99–"
     },
     {
         "id": 9,
-        "name": "Yeston Radeon R7 350-4G 6HDMI 4GB 128bit GDDR5 800MHz 512processors PCIExpress 3.0*16 video cards 6 Screen Graphics Card  DirectX12 6*HDMI compatible graphics card of Desktop",
-        "price": "179.00",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/AZUES211009qrp8O.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-685-14.png",
+        "title": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 Ti SUPER OC Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4070TIS-O16G-GAMING",
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "305 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$849.99–"
     },
     {
         "id": 10,
-        "name": "ASRock Steel Legend Radeon RX 7900 GRE 16GB GDDR6 PCI Express 4.0 ATX Video Card RX7900GRE SL 16GO",
-        "price": "599.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-122-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-671-10.jpg",
+        "title": "GIGABYTE GeForce RTX 4080 SUPER GAMING OC 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SGAMING OC-16GD Video Card",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "850W",
+        "length": "342 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,099.99–"
     },
     {
         "id": 11,
-        "name": "MSI Gaming GeForce RTX 4090 24GB GDDR6X PCI Express 4.0 Video Card RTX 4090 GAMING X TRIO 24G",
-        "price": "1849.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-761-34.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-631-03.jpg",
+        "title": "MSI RTX 3060 Ventus 3X 12G OC Ventus GeForce RTX 3060 Video Card",
+        "gpu": "GeForce RTX 3060",
+        "memory": "12GB",
+        "psu": "550W",
+        "length": "316 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$299.99–"
     },
     {
         "id": 12,
-        "name": "SAPPHIRE PULSE Radeon RX 7700 XT 12GB GDDR6 PCI Express 4.0 x16 Video Card 11335-04-20G",
-        "price": "399.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-202-436-11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-657-V01.jpg",
+        "title": "GIGABYTE Radeon RX 7800 XT GAMING OC 16G Graphics Card, 3x WINDFORCE Fans 16GB 256-bit GDDR6, GV-R78XTGAMING OC-16GD Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "700W",
+        "length": "302 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$499.99–"
     },
     {
         "id": 13,
-        "name": "SAPPHIRE NITRO+ Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card 11330-01-20G",
-        "price": "539.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-202-433-16.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-150-886-07.png",
+        "title": "XFX SPEEDSTER SWFT319 AMD Radeon RX 6800 CORE Gaming Graphics Card",
+        "gpu": "Radeon RX 6800",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "340 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$374.99–"
     },
     {
         "id": 14,
-        "name": "ZOTAC GAMING GeForce RTX 4080 SUPER Trinity Black Edition DLSS 3 16GB GDDR6X 256-bit 23 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40820D-10P",
-        "price": "999.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-500-580-18.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-871-01.jpg",
+        "title": "MSI RTX 4080 SUPER 16G EXPERT EXPERT GeForce RTX 4080 SUPER Video Card",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "312 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,149.99–"
     },
     {
         "id": 15,
-        "name": "GIGABYTE GeForce RTX 4070 SUPER WINDFORCE OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SWF3OC-12GD  Video Card",
-        "price": "599.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-683-11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-428-V02.jpg",
+        "title": "SAPPHIRE 11322-01-40G NITRO Radeon RX 7900 XTX Video Card",
+        "gpu": "Radeon RX 7900 XTX",
+        "memory": "24GB",
+        "psu": "800W",
+        "length": "320 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$1,029.99–"
     },
     {
         "id": 16,
-        "name": "ASUS TUF Gaming NVIDIA GeForce RTX 4070 Ti SUPER OC Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4070TIS-O16G-GAMING",
-        "price": "849.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-685-14.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-855-04.png",
+        "title": "MSI RTX 4070 Ti SUPER 16G GAMING X SLIM Gaming GeForce RTX 4070 Ti SUPER Video Card",
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "307 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$856.99–"
     },
     {
         "id": 17,
-        "name": "ASUS TUF Gaming GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4090-O24G-GAMING",
-        "price": "1799.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-594-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-860-02.jpg",
+        "title": "MSI RTX 4070 SUPER 12G GAMING X SLIM Gaming GeForce RTX 4070 SUPER Video Card",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "750W",
+        "length": "307 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$649.99–"
     },
     {
         "id": 18,
-        "name": "GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G Graphics Card, 2x WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060WF2OC-8GD  Video Card",
-        "price": "299.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-630-17.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-550-23.jpg",
+        "title": "GIGABYTE GV-N4090GAMING OC-24GD Gaming GeForce RTX 4090 Video Card",
+        "gpu": "GeForce RTX 4090",
+        "memory": "24GB",
+        "psu": "1000W",
+        "length": "340 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$1,799.99–"
     },
     {
         "id": 19,
-        "name": "MSI Ventus GeForce RTX 4060 8GB GDDR6 PCI Express 4.0 x8 ATX Video Card RTX 4060 VENTUS 2X BLACK 8G OC",
-        "price": "314.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-804-11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-832-01.png",
+        "title": "MSI Ventus GeForce RTX 4060 Video Card RTX 4060 VENTUS 2X WHITE 8G OC",
+        "gpu": "GeForce RTX 4060",
+        "memory": "8GB",
+        "psu": "550W",
+        "length": "199 mm",
+        "interface": "PCI Express 4.0 x8",
+        "price": "$299.99–"
     },
     {
         "id": 20,
-        "name": "ASRock STEEL LEGEND Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card RX7800XT SL 16GO",
-        "price": "529.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-105-10.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-500-580-18.jpg",
+        "title": "ZOTAC GAMING GeForce RTX 4080 SUPER Trinity Black Edition DLSS 3 16GB GDDR6X 256-bit 23 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40820D-10P",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "307 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$999.99–"
     },
     {
         "id": 21,
-        "name": "GIGABYTE GeForce RTX 4070 Ti WINDFORCE OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407TWF3OC-12GD Video Card",
-        "price": "679.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-623-07.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-439-09.png",
+        "title": "SAPPHIRE 11330-03-20G PURE Radeon RX 7800 XT Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "700W",
+        "length": "320 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$539.99–"
     },
     {
         "id": 22,
-        "name": "GIGABYTE Gaming GeForce RTX 4090 24GB GDDR6X PCI Express 4.0 x16 ATX Video Card GV-N4090GAMING OC-24GD",
-        "price": "1799.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-550-23.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-500-576-12.png",
+        "title": "ZOTAC GAMING GeForce RTX 4070 Ti SUPER Trinity Black Edition DLSS 3 16GB GDDR6X 256-bit 21 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40730D-10P",
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "307 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$799.99–"
     },
     {
         "id": 23,
-        "name": "GIGABYTE WINDFORCE GeForce RTX 4070 12GB GDDR6X PCI Express 4.0 x16 ATX Video Card GV-N4070WF3OC-12GD",
-        "price": "579.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-611-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-781-08.jpg",
+        "title": "MSI RX 7900 XTX GAMING TRIO CLASSIC 24G Gaming Radeon RX 7900 XTX Video Card",
+        "gpu": "Radeon RX 7900 XTX",
+        "memory": "24GB",
+        "psu": "800W",
+        "length": "325 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,029.99–"
     },
     {
         "id": 24,
-        "name": "GIGABYTE GeForce RTX 4080 SUPER GAMING OC 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SGAMING OC-16GD Video Card",
-        "price": "1099.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-671-10.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-685-02.jpg",
+        "title": "GIGABYTE GV-N4070GAMING OCV2-12GD Gaming GeForce RTX 4070 Video Card",
+        "gpu": "GeForce RTX 4070",
+        "memory": "12GB",
+        "psu": "650W",
+        "length": "300 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$549.99–"
     },
     {
         "id": 25,
-        "name": "GIGABYTE GeForce RTX 4070 SUPER GAMING OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SGAMING OC-12GD  Video Card",
-        "price": "629.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-681-11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-693-02.png",
+        "title": "ASUS TUF Gaming NVIDIA GeForce RTX 4080 SUPER OC Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4080S-O16G-GAMING",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "850W",
+        "length": "348 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,139.99–"
     },
     {
         "id": 26,
-        "name": "ASRock Challenger Arc A580 8GB GDDR6 PCI Express 4.0 x16 ATX Video Card A580 CL 8GO",
-        "price": "164.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-112-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-437-13.jpg",
+        "title": "SAPPHIRE 21330-01-20G Radeon RX 7800 XT Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "700W",
+        "length": "280 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$499.99–"
     },
     {
         "id": 27,
-        "name": "ASUS ROG Strix GeForce RTX 4090 White OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) ROG-STRIX-RTX4090-O24G-WHITE",
-        "price": "2129.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-616-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-433-16.jpg",
+        "title": "SAPPHIRE 11330-01-20G NITRO+ Radeon RX 7800 XT Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "700W",
+        "length": "320 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$539.99–"
     },
     {
         "id": 28,
-        "name": "ASRock Challenger Radeon RX 7700 XT 12GB GDDR6 PCI Express 4.0 x16 ATX Video Card RX7700XT CL 12GO",
-        "price": "394.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-109-09.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-500-572-19.png",
+        "title": "ZOTAC GAMING GeForce RTX 4070 SUPER Twin Edge DLSS 3 12GB GDDR6X 192-bit 21 Gbps PCIE 4.0 Compact Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40720E-10M",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "750W",
+        "length": "234 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$589.99–"
     },
     {
         "id": 29,
-        "name": "GIGABYTE Radeon RX 6600 EAGLE 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 128-bit GDDR6, GV-R66EAGLE-8GD Video Card",
-        "price": "199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-481-11.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-676-03.jpg",
+        "title": "GIGABYTE GeForce RTX 4070 Ti SUPER GAMING OC 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N407TSGAMING OC-16GD Video Card",
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "300 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$829.99–"
     },
     {
         "id": 30,
-        "name": "GIGABYTE Radeon RX 7900 GRE GAMING OC 16G Graphics Card, 3x WINDFORCE Fans 16GB 256-bit GDDR6, GV-R79GREGAMING OC-16GD Video Card",
-        "price": "549.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-694-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-056-01.jpg",
+        "title": "ASRock RX6700XT CLD 12G Challenger D Radeon RX 6700 XT Video Card",
+        "gpu": "Radeon RX 6700 XT",
+        "memory": "12GB",
+        "psu": "650W",
+        "length": "269 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$319.99–"
     },
     {
         "id": 31,
-        "name": "MSI Gaming GeForce RTX 4070 SUPER 12GB GDDR6X PCI Express 4.0 ATX Video Card RTX 4070 SUPER 12G GAMING X SLIM",
-        "price": "649.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-860-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-698-29.png",
+        "title": "ASUS Dual GeForce RTX 4070 SUPER White OC Edition (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, 2.56-slot design, Axial-tech fan design, Auto-Extreme Tech) DUAL-RTX4070S-O12G-WHITE",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "750W",
+        "length": "267 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$619.99–"
     },
     {
         "id": 32,
-        "name": "MSI EXPERT GeForce RTX 4080 SUPER 16GB GDDR6X PCI Express 4.0 Video Card RTX 4080 SUPER 16G EXPERT",
-        "price": "1149.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-871-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-594-V01.jpg",
+        "title": "ASUS TUF Gaming GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4090-O24G-GAMING",
+        "gpu": "GeForce RTX 4090",
+        "memory": "24GB",
+        "psu": "1000W",
+        "length": "348 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,799.99–"
     },
     {
         "id": 33,
-        "name": "GIGABYTE Radeon RX 7800 XT GAMING OC 16G Graphics Card, 3x WINDFORCE Fans 16GB 256-bit GDDR6, GV-R78XTGAMING OC-16GD Video Card",
-        "price": "499.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-657-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-665-V02.jpg",
+        "title": "ASUS Dual GeForce RTX 4060 OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, 2.5-slot design, Axial-tech fan design, 0dB technology) DUAL-RTX4060-O8G",
+        "gpu": "GeForce RTX 4060",
+        "memory": "8GB",
+        "psu": "550W",
+        "length": "200 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$309.99–"
     },
     {
         "id": 34,
-        "name": "ZOTAC GAMING GeForce RTX 4070 Ti Trinity OC DLSS 3 12GB GDDR6X 192-bit 21 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA 2.0 RGB Lighting, ZT-D40710J-10P",
-        "price": "699.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-500-546-18.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-593-V01.jpg",
+        "title": "ASUS ROG Strix GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) ROG-STRIX-RTX4090-O24G-GAMING",
+        "gpu": "GeForce RTX 4090",
+        "memory": "24GB",
+        "psu": "1000W",
+        "length": "358 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,999.99–"
     },
     {
         "id": 35,
-        "name": "SAPPHIRE NITRO+ Radeon RX 7900 GRE 16GB GDDR6 PCI Express 4.0 x16 ATX Video Cards 11325-02-20G",
-        "price": "599.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-202-441-09.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-083-01.jpg",
+        "title": "ASRock RX7900XT PG 20GO Phantom Gaming Radeon RX 7900 XT Video Card",
+        "gpu": "Radeon RX 7900 XT",
+        "memory": "20GB",
+        "psu": "750W",
+        "length": "330 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$699.99–"
     },
     {
         "id": 36,
-        "name": "SAPPHIRE NITRO Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 x16 ATX Video Card 11322-01-40G",
-        "price": "1029.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-202-428-V02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-759-34.png",
+        "title": "MSI RTX 4090 SUPRIM LIQUID X 24G Suprim GeForce RTX 4090 Video Card",
+        "gpu": "GeForce RTX 4090",
+        "memory": "24GB",
+        "psu": "1000W",
+        "length": "280 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,899.99–"
     },
     {
         "id": 37,
-        "name": "ASRock Challenger Pro Radeon RX 6750 XT 12GB GDDR6 PCI Express 4.0 Video Card RX6750XT CLP 12GO",
-        "price": "339.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-071-02.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-049-02.jpg",
+        "title": "ASRock Radeon RX 6800 XT Phantom Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
+        "gpu": "Radeon RX 6800 XT",
+        "memory": "16GB",
+        "psu": "800W",
+        "length": "330 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$559.99–"
     },
     {
         "id": 38,
-        "name": "ASRock Phantom Gaming Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 ATX Video Card RX7900XTX PG 24GO",
-        "price": "929.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-081-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-434-11.jpg",
+        "title": "SAPPHIRE 11330-02-20G PULSE Radeon RX 7800 XT Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "700W",
+        "length": "280 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$519.99–"
     },
     {
         "id": 39,
-        "name": "GIGABYTE GeForce RTX 4060 AERO OC 8G Graphics Card, 3x WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060AERO OC-8GD Video Card",
-        "price": "319.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-627-04.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-150-852-V08.jpg",
+        "title": "XFX RX-67XTYJFDV SPEEDSTER SWFT309 Radeon RX 6700 XT Video Card",
+        "gpu": "Radeon RX 6700 XT",
+        "memory": "12GB",
+        "psu": "650W",
+        "length": "304 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$319.99–"
     },
     {
         "id": 40,
-        "name": "ASRock Phantom Gaming Radeon RX 7900 XT 20GB GDDR6 PCI Express 4.0 ATX Video Card RX7900XT PGW 20GO",
-        "price": "704.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-117-13.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-126-688-10.png",
+        "title": "ASUS Dual GeForce RTX 4070 SUPER graphics card (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1, DisplayPort 1.4a, 2.56-slot design, Axial-tech fan design, Auto-Extreme Tech) DUAL-RTX4070S-12G",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "750W",
+        "length": "267 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$609.99–"
     },
     {
         "id": 41,
-        "name": "ASUS Dual GeForce RTX 4070 SUPER White OC Edition (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, 2.56-slot design, Axial-tech fan design, Auto-Extreme Tech) DUAL-RTX4070S-O12G-WHITE",
-        "price": "619.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-698-29.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-669-10.jpg",
+        "title": "GIGABYTE AORUS GeForce RTX 4080 SUPER MASTER 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SAORUS M-16GD Video Card",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "850W",
+        "length": "357 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,199.99–"
     },
     {
         "id": 42,
-        "name": "MSI Gaming GeForce RTX 4080 16GB GDDR6X PCI Express 4.0 ATX Video Card RTX 4080 16GB GAMING X SLIM WHITE",
-        "price": "1099.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-843-02.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-106-05.jpg",
+        "title": "ASRock RX7800XT CL 16GO Challenger Radeon RX 7800 XT Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "267 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$489.99–"
     },
     {
         "id": 43,
-        "name": "ASRock Low Profile Arc A380 6GB GDDR6 PCI Express 4.0 ITX Video Card A380 LP 6G",
-        "price": "113.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-110-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-623-07.jpg",
+        "title": "GIGABYTE GeForce RTX 4070 Ti WINDFORCE OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407TWF3OC-12GD Video Card",
+        "gpu": "GeForce RTX 4070 Ti",
+        "memory": "12GB",
+        "psu": "750W",
+        "length": "261 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$832.40–"
     },
     {
         "id": 44,
-        "name": "MSI Gaming GeForce RTX 4070 SUPER 12GB GDDR6X PCI Express 4.0 ATX Video Card RTX 4070 SUPER 12G GAMING X SLIM MLG",
-        "price": "669.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-872-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-500-577-12.png",
+        "title": "ZOTAC GAMING GeForce RTX 4070 Ti SUPER Trinity OC White Edition DLSS 3 16GB GDDR6X 256-bit 21 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40730Q-10P",
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "307 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$839.99–"
     },
     {
         "id": 45,
-        "name": "MSI Suprim GeForce RTX 4090 24GB GDDR6X PCI Express 4.0 Video Card RTX 4090 SUPRIM LIQUID X 24G",
-        "price": "1899.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-759-34.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-843-02.png",
+        "title": "MSI RTX 4080 16GB GAMING X SLIM WHITE Gaming GeForce RTX 4080 Video Card",
+        "gpu": "GeForce RTX 4080",
+        "memory": "16GB",
+        "psu": "850W",
+        "length": "322 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,099.99–"
     },
     {
         "id": 46,
-        "name": "ASUS Dual GeForce RTX 4070 SUPER EVO OC Edition 12GB GDDR6X (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, 2.5-slot design, Axial-tech fan design, 0dB technology) DUAL-RTX4070S-O12G-EVO",
-        "price": "599.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-711-02.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-670-18.jpg",
+        "title": "GIGABYTE GeForce RTX 4080 SUPER AERO OC 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SAERO OC-16GD Video Card",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "850W",
+        "length": "342 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,149.99–"
     },
     {
         "id": 47,
-        "name": "MSI Ventus GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ventus 3X 12G OC",
-        "price": "299.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-631-03.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-202-429-15.jpg",
+        "title": "SAPPHIRE 11322-02-20G PULSE Radeon RX 7900 XTX Video Card",
+        "gpu": "Radeon RX 7900 XTX",
+        "memory": "24GB",
+        "psu": "800W",
+        "length": "313 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$929.99–"
     },
     {
         "id": 48,
-        "name": "ASRock Challenger Arc A770 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card A770 CL 16GO",
-        "price": "279.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-113-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-117-13.png",
+        "title": "ASRock RX7900XT PGW 20GO Phantom Gaming Radeon RX 7900 XT Video Card",
+        "gpu": "Radeon RX 7900 XT",
+        "memory": "20GB",
+        "psu": "750W",
+        "length": "330 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$704.99–"
     },
     {
         "id": 49,
-        "name": "GIGABYTE AORUS GeForce RTX 4080 SUPER MASTER 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SAORUS M-16GD Video Card",
-        "price": "1199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-669-10.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-628-16.jpg",
+        "title": "GIGABYTE GeForce RTX 4060 GAMING OC 8G Graphics Card, 3x WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060GAMING OC-8GD Video Card",
+        "gpu": "GeForce RTX 4060",
+        "memory": "8GB",
+        "psu": "450W",
+        "length": "281 mm",
+        "interface": "PCI Express 4.0 x8",
+        "price": "$314.99–"
     },
     {
         "id": 50,
-        "name": "ASUS ROG Strix GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) ROG-STRIX-RTX4090-O24G-GAMING",
-        "price": "1999.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-593-V01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-819-04.png",
+        "title": "MSI RTX 4060 Ti VENTUS 3X 16G OC Ventus GeForce RTX 4060 Ti Video Card",
+        "gpu": "GeForce RTX 4060 Ti",
+        "memory": "16GB",
+        "psu": "550W",
+        "length": "308 mm",
+        "interface": "PCI Express 4.0 x8",
+        "price": "$521.10–"
     },
     {
         "id": 51,
-        "name": "PowerColor Hellhound Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 ATX Video Card RX7900XTX 24G-L/OC",
-        "price": "949.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-131-808-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-675-11.jpg",
+        "title": "GIGABYTE GeForce RTX 4070 Ti SUPER AERO OC 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N407TSAERO OC-16GD Video Card",
+        "gpu": "GeForce RTX 4070 Ti SUPER",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "300 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$879.99–"
     },
     {
         "id": 52,
-        "name": "ASRock Challenger Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card RX7800XT CL 16GO",
-        "price": "489.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-106-05.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-150-878-16.jpg",
+        "title": "XFX SPEEDSTER MERC310 Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 x16 Video Card RX-79XMERCB9",
+        "gpu": "Radeon RX 7900 XTX",
+        "memory": "24GB",
+        "psu": "850W",
+        "length": "344 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$925.99–"
     },
     {
         "id": 53,
-        "name": "ASUS Dual GeForce RTX 4070 SUPER OC Edition graphics card (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1, DisplayPort 1.4a, 2.56-slot design, Axial-tech fan design, Auto-Extreme Tech) DUAL-RTX4070S-O12G",
-        "price": "619.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-687-11.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-137-853-01.jpg",
+        "title": "MSI RTX 4080 SUPER 16G SUPRIM X Suprim GeForce RTX 4080 SUPER Video Card",
+        "gpu": "GeForce RTX 4080 SUPER",
+        "memory": "16GB",
+        "psu": "850W",
+        "length": "336 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$1,219.99–"
     },
     {
         "id": 54,
-        "name": "ASRock Taichi Radeon RX 7900 XTX 24GB GDDR6 PCI Express 4.0 ATX Video Card RX7900XTX TC 24GO",
-        "price": "989.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-080-01.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-630-17.jpg",
+        "title": "GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G Graphics Card, 2x WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060WF2OC-8GD Video Card",
+        "gpu": "GeForce RTX 4060",
+        "memory": "8GB",
+        "psu": "450W",
+        "length": "192 mm",
+        "interface": "PCI Express 4.0 x8",
+        "price": "$299.99–"
     },
     {
         "id": 55,
-        "name": "MSI Gaming GeForce RTX 4070 Ti SUPER 16GB GDDR6X PCI Express 4.0 ATX Video Card RTX 4070 Ti SUPER 16G GAMING X SLIM",
-        "price": "856.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-855-04.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-122-05.jpg",
+        "title": "ASRock RX7900GRE SL 16GO Steel Legend Radeon RX 7900 GRE Video Card",
+        "gpu": "Radeon RX 7900 GRE",
+        "memory": "16GB",
+        "psu": "800W",
+        "length": "304 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$599.99–"
     },
     {
         "id": 56,
-        "name": "ZOTAC GAMING GeForce RTX 4070 SUPER Twin Edge DLSS 3 12GB GDDR6X 192-bit 21 Gbps PCIE 4.0 Compact Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40720E-10M",
-        "price": "589.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-500-572-19.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-681-11.jpg",
+        "title": "GIGABYTE GeForce RTX 4070 SUPER GAMING OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SGAMING OC-12GD  Video Card",
+        "gpu": "GeForce RTX 4070 SUPER",
+        "memory": "12GB",
+        "psu": "700W",
+        "length": "300 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$629.99–"
     },
     {
         "id": 57,
-        "name": "ZOTAC GAMING GeForce RTX 4070 Ti SUPER Trinity Black Edition DLSS 3 16GB GDDR6X 256-bit 21 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40730D-10P",
-        "price": "799.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-500-576-12.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-694-02.jpg",
+        "title": "GIGABYTE Radeon RX 7900 GRE GAMING OC 16G Graphics Card, 3x WINDFORCE Fans 16GB 256-bit GDDR6, GV-R79GREGAMING OC-16GD Video Card",
+        "gpu": "Radeon RX 7900 GRE",
+        "memory": "16GB",
+        "psu": "700W",
+        "length": "302 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$549.99–"
     },
     {
         "id": 58,
-        "name": "GIGABYTE GeForce RTX 4080 SUPER AERO OC 16G Graphics Card, 3x WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SAERO OC-16GD Video Card",
-        "price": "1149.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-670-18.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-932-601-02.jpg",
+        "title": "GIGABYTE GV-N4090AERO OC-24GD AERO GeForce RTX 4090 Video Card",
+        "gpu": "GeForce RTX 4090",
+        "memory": "24GB",
+        "psu": "1000W",
+        "length": "342 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$1,849.99–"
     },
     {
         "id": 59,
-        "name": "PowerColor Hellhound Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card RX7800XT 16G-L/OC",
-        "price": "529.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-131-821-04.png"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-105-10.jpg",
+        "title": "ASRock RX7800XT SL 16GO STEEL LEGEND Radeon RX 7800 XT Video Card",
+        "gpu": "Radeon RX 7800 XT",
+        "memory": "16GB",
+        "psu": "800W",
+        "length": "304 mm",
+        "interface": "PCI Express 4.0 x16",
+        "price": "$529.99–"
     },
     {
         "id": 60,
-        "name": "XFX SPEEDSTER QICK319 RADEON RX 6750 XT CORE Gaming Graphics Card",
-        "price": "329.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-150-887-16.png"
-    },
-    {
-        "id": 61,
-        "name": "ASRock Radeon RX 6700 XT Challenger D Gaming Graphic Card, 12GB GDDR6 VRAM, AMD RDNA2 (RX6700XT CLD 12G)",
-        "price": "319.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-056-01.jpg"
-    },
-    {
-        "id": 62,
-        "name": "ASRock Radeon RX 6800 XT Phantom Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
-        "price": "559.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-049-02.jpg"
-    },
-    {
-        "id": 63,
-        "name": "GIGABYTE Radeon RX 7600 XT GAMING OC 16G Graphics Card, 3x WINDFORCE Fans 16GB 128-bit GDDR6, GV-R76XTGAMING OC-16GD Video Card",
-        "price": "329.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-687-03.jpg"
-    },
-    {
-        "id": 64,
-        "name": "XFX SPEEDSTER MERC319 Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card RX-78TMERCB9",
-        "price": "519.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-150-882-06.jpg"
-    },
-    {
-        "id": 65,
-        "name": "ASUS ROG Strix GeForce RTX 4070 SUPER OC Edition Gaming Graphics Card (PCIe 4.0, 12GB GDDR6X, DLSS 3, Massive vented backplate, Power sensing, Aura Sync) ROG-STRIX-RTX4070S-O12G-GAMING",
-        "price": "749.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-696-13.png"
-    },
-    {
-        "id": 66,
-        "name": "ASRock Challenger D Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 Video Card RX6600XT CLD 8GO",
-        "price": "239.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-063-01.jpg"
-    },
-    {
-        "id": 67,
-        "name": "ZOTAC GAMING GeForce RTX 4080 SUPER Trinity OC White Edition DLSS 3 16GB GDDR6X 256-bit 23 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting, ZT-D40820Q-10P",
-        "price": "1069.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-500-581-18.jpg"
-    },
-    {
-        "id": 68,
-        "name": "ZOTAC GAMING GeForce RTX 3060 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Compact Gaming Graphics Card, Active Fan Control, FREEZE fan stop, ZT-A30600P-10M",
-        "price": "279.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-500-574-02.jpg"
-    },
-    {
-        "id": 69,
-        "name": "ASRock Challenger Arc A750 8GB GDDR6 PCI Express 4.0 x16 ATX Video Card A750 CLD 8GO",
-        "price": "199.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-078-04.jpg"
-    },
-    {
-        "id": 70,
-        "name": "PNY GeForce RTX 4090 24GB XLR8 Gaming VERTO EPIC-X RGB Overclocked Triple Fan DLSS 3 VCG409024TFXXPB1-O",
-        "price": "1799.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-133-842-V05.jpg"
-    },
-    {
-        "id": 71,
-        "name": "ASRock Radeon RX 6600 8GB GDDR6 PCI Express 4.0 Video Card RX6600 CLW 8G",
-        "price": "209.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-114-09.png"
-    },
-    {
-        "id": 72,
-        "name": "GIGABYTE AORUS GeForce RTX 4070 SUPER MASTER 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SAORUS M-12GD? Video Card",
-        "price": "699.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-679-11.jpg"
-    },
-    {
-        "id": 73,
-        "name": "SPARKLE ECO Arc A310 4GB GDDR6 PCI Express 4.0 ITX Video Card SA310C-4G",
-        "price": "103.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-993-008-01.png"
-    },
-    {
-        "id": 74,
-        "name": "Intel Arc A750 Limited Edition 8GB PCI Express 4.0 Graphics Card 21P02J00BA",
-        "price": "239.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-883-002-07.jpg"
-    },
-    {
-        "id": 75,
-        "name": "ASRock Steel Legend Radeon RX 7600 8GB GDDR6 PCI Express 4.0 x8 ATX Video Card RX7600 SL 8GO",
-        "price": "269.99",
-        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-930-092-12.jpg"
+        "image_url": "https://c1.neweggimages.com/ProductImage/14-930-123-05.jpg",
+        "title": "ASRock RX7900GRE CL 16GO Challenger Radeon RX 7900 GRE Video Card",
+        "gpu": "Radeon RX 7900 GRE",
+        "memory": "16GB",
+        "psu": "750W",
+        "length": "269 mm",
+        "interface": "PCI Express 4.0",
+        "price": "$549.99–"
     }
 ]

@@ -66,10 +66,7 @@ const PCBuilder = () => {
                     </button>
                     ))}
                 </div>
-            <PartSelector
-                category={selectedCategory}
-                onSelectPart={handleSelectPart}
-                />
+                <PartSelector category={selectedCategory} onSelectPart={handleSelectPart}/>
             </div>
             <SelectedPartsForm selectedParts={selectedParts} />
         </div>
