@@ -1,0 +1,47 @@
+.web-development {
+    padding: 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .web-development h1 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .services-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* This will place 3 items in a row */
+    gap: 20px; /* You can adjust the gap size as needed */
+    padding: 1rem;
+  }
+  
+  .service {
+    background: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+  }
+  
+  .service:hover {
+    transform: translateY(-5px);
+  }
+  
+  .service h2 {
+    color: #0056b3;
+  }
+  
+  .cta .btn-primary {
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta .btn-primary:hover {
+    background-color: #004494;
+  }
+  

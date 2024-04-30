@@ -42,8 +42,8 @@
   }
 
   .part-img{
-    width: 100px;
-    height: 100px;
+    width: 200px !important;
+    height: 200px !important;
     margin: 0 auto;
   }
   
@@ -52,7 +52,7 @@
   }
   
   .part-item img {
-    max-width: 100px;
+    /* max-width: 100px; */
     margin: 0 auto 1rem;
   }
   

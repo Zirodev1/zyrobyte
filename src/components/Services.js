@@ -1,3 +1,4 @@
+// services.js
 import React from "react";
 import ServiceDetail from "./ServiceDetail.js";
 import './Services.css';
@@ -10,7 +11,7 @@ const servicesData = [
       description: 'Tailor-made PCs built to perfection. Whether for gaming, professional use, or content creation, we construct your dream machine.',
       details: 'Choose from the latest components and let our experts assemble a PC that meets your exact needs. We provide advice on the best parts within your budget, ensure all components are compatible, and perform rigorous testing.',
       cta: 'Build Now',
-      ctaLink: '/services/pc-building',
+      ctaLink: '/services/build-pc',
       image: "https://images.unsplash.com/photo-1596697938289-68e8d0c6e8f4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -22,7 +23,7 @@ const servicesData = [
       image: "https://images.unsplash.com/photo-1576613109753-27804de2cba8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
     },
     {
-      name: 'Data Transfer',
+      name: 'Data Transfer/Recovery',
       description: 'Secure and efficient data migration services. Transfer your data safely from one device to another without losing a byte.',
       details: 'Whether upgrading to a new system or backing up important files, our data transfer services ensure your digital belongings are accurately duplicated and moved. We prioritize data integrity and confidentiality.',
       cta: 'Transfer Data',

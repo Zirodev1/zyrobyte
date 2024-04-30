@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Link } from'react-router-dom';
-import './ServiceDetail.css'; // Make sure to link the corresponding CSS file
+import './ServiceDetail.css'; 
 
 const ServiceDetail = ({ service }) => {
   return (
@@ -12,7 +12,7 @@ const ServiceDetail = ({ service }) => {
       <p>{service.description}</p>
       {/* Add more details as needed */}
       <p>{service.details}</p>
-      <Link to="/services" className="service-cta">{service.cta}</Link>
+      <Link to={service.ctaLink} className="service-cta">{service.cta}</Link>
     </div>
   );
 };

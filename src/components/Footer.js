@@ -2,8 +2,8 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Footer.css'; // Make sure to link the corresponding CSS file
-import logo from '../images/logo.png'; // Update the path to your logo file
+import './Footer.css';
+import logo from '../images/logo.png';
 
 const Footer = () => {
   return (
