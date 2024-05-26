@@ -1,8 +1,8 @@
 /* ServiceCard.css */
-
 .service-card {
-    max-width: 300px;
-    margin: auto;
+    width: 270px;
+    height: 400px;
+
     padding: 15px;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -23,9 +23,9 @@
 }
 
 .service-image-home {
-    width: 300px; /* Ensure the image fits the card */
-    height: 250px; /* Maintain aspect ratio */
+    width: 250px;
+    height: 250px;
     object-fit: cover;
-    border-top-left-radius: 8px; /* Match the card's border radius */
+    border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }

@@ -1,55 +1,48 @@
 /* Footer.css */
 
 .footer {
-    background-color: #000000; /* Dark background */
     color: white;
-    padding: 20px 50px; /* Spacing around the footer content */
+    padding: 20px 50px;
+    /* padding-bottom: 50px; */
   }
-  
-  .footer-content {
-    display: flex;
-    justify-content: space-between; /* Space out the sections */
-    align-items: start;
-  }
-  
+   
   .footer-section {
-    flex: 1;
+    max-width: 200px;
+    text-align: left;
+    margin-top: 1.5em;
+    /* margin-bottom: 1.5em !important; */
   }
   
   .footer-logo {
-    width: 100px; /* Adjust size as needed */
-    margin-bottom: 1em;
-  }
-  
-  .footer-section h4 {
-    margin-top: 0;
+    width: 100px;
+    border-radius: 10px;
   }
   
   .footer-section a {
     color: white;
     text-decoration: none;
-    display: block; /* Stack links vertically */
+    display: block;
     margin: 0.5em 0;
     transition: color 0.3s ease;
   }
   
   .footer-section a:hover {
-    color: var(--modern-orange); /* Highlight links on hover with the brand orange color */
+    color: rgb(249, 115, 22) !important;
   }
   
   /* Add responsiveness for smaller screens */
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .footer-content {
       flex-direction: column;
-      align-items: center;
+      align-items: left;
     }
   
-    .footer-section {
-      margin: 1em 0;
-    }
-  
+  .footer-section {
+    margin-bottom: 1.5em;
+  }
     .footer-logo {
-      margin-bottom: 2em;
+      margin-bottom: 1em;
     }
+
   }
   

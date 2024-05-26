@@ -1,52 +1,18 @@
 /* Services.css */
-
 .services-page {
     padding: 2em;
-    background-color: #f9f9f9;
-    
   }
 
   .service-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
 
-  .service-image {
-    width: 350px;
-    height: 250px;
-    border-radius: 5px;
-  }
-  
-  .service-detail {
-    max-width: 350px;
-    background-color: #fff;
-    padding: 1em;
-    margin: 1em 0;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  .service-cta {
-    background-color: rgb(249, 115, 22);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: bold;
-    text-transform: uppercase;
-    text-decoration: none;
-    display: inline-block;
-    transition: background-color 0.2s;
-  }
-  
-  .service-cta:hover {
-    background-color: darken(rgb(249, 115, 22), 10%);
-  }
-
-.service-detail p {
-    color: #333;
-    line-height: 1.6;
-}
+ 
 
 /* color: rgb(249, 115, 22); */

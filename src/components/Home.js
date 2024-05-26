@@ -36,19 +36,21 @@ export default function Home() {
         <Navbar/>
             <main>
                 <section className="hero" style={{ backgroundImage: `url(${heroBackground})` }}>
-                    <h1>Welcome to ZyroByte</h1>
-                    <p>Your one-stop shop for custom PCs, repairs, and Web Dev services</p>
-                    <Link to="./services" className="btn btn-hero">Learn More...</Link>
+                    <div className="container-xxl">
+                        <h1>Welcome to ZyroByte</h1>
+                        <p className="hero-description">Your one-stop shop for custom PCs, repairs, and Web Dev services</p>
+                        <Link to="./services" className="btn-hero">Learn More...</Link>
+                    </div>
                 </section>
                 
-                <section className="services-overview">
-        <h2>Our Services</h2>
-        <div className="services-container">
-          {services.map((service, index) => (
-            <ServiceCard key={index} title={service.title} description={service.description} image={service.imageUrl}/>
-          ))}
-        </div>
-      </section>
+                <section className="services-overview container-xxl pt-5 pb-5 d-flex flex-column justify-content-center">
+                    <h2>Our Services</h2>
+                    <div className="services-container mt-5">
+                    {services.map((service, index) => (
+                        <ServiceCard key={index} title={service.title} description={service.description} image={service.imageUrl}/>
+                    ))}
+                    </div>
+                 </section>
                 
                 {/* <section className="about">
                     <h2>About Us</h2>

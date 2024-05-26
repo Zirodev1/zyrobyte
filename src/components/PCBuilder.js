@@ -1,3 +1,4 @@
+// PCBuilder.js
 import React, { useState } from "react";
 import PartSelector from "./PartSelector.js";
 import SelectedPartsForm from "./SelectedPartsForm.js";
@@ -19,7 +20,6 @@ const defaultPartSelections = {
 const PCBuilder = () => {
   const [selectedCategory, setSelectedCategory] = useState("cpu");
   const [selectedParts, setSelectedParts] = useState(defaultPartSelections);
-  
 
   const handleSelectPart = (category, part) => {
     setSelectedParts((prev) => ({ ...prev, [category]: part }));
@@ -38,25 +38,30 @@ const PCBuilder = () => {
   return (
     <>
       <Navbar />
-      <div className="builder-container">
+      <div className="container-xxl">
         <div className="pc-builder">
           <h1>Build Your Custom PC</h1>
           <div className="categories">
             {Object.keys(defaultPartSelections).map((category) => (
-              <button
-                key={category}
-                onClick={() => handleChangeCategory(category)}
+              <button 
+              className={`category-button ${selectedCategory === category ? "category-button-active" : ""}`}
+              key={category}
+              onClick={() => handleChangeCategory(category)}
               >
                 {category.toUpperCase()}
               </button>
             ))}
-          </div>
           <PartSelector
             category={selectedCategory}
             onSelectPart={handleSelectPart} selectedParts={selectedParts}
+            />
+            </div>
+      </div> 
+          <SelectedPartsForm
+            selectedParts={selectedParts}
+            onDeletePart={handleDeletePart}
+            defaultPartSelections={defaultPartSelections}
           />
-        </div>
-          <SelectedPartsForm selectedParts={selectedParts} onDeletePart={handleDeletePart} defaultPartSelections={defaultPartSelections}/>
       </div>
       <Footer />
     </>

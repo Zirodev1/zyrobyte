@@ -10,6 +10,7 @@ const QuoteForm = ({ selectedParts, onSubmit }) => {
   const handleSubmit = (event) => {
     event.preventDefault();
 
+
     onSubmit({
       email,
       name,

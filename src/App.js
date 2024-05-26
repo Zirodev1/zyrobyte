@@ -7,6 +7,13 @@ import Contact from './components/Contact';
 import RepairRequestForm from './components/RepairRequestForm';
 import DataRecoveryForm from './components/DataRecoveryForm';
 import WebDevelopment from './components/WebDevelopment';
+import About from './components/About';
+
+// Bootstrap
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
+
+
 
 function App() {
   return (
@@ -19,7 +26,8 @@ function App() {
           <Route path="/services/repairs" element={<RepairRequestForm/>} />
           <Route path="/services/data-transfer" element={<DataRecoveryForm/>} />
           <Route path="/services/web-development" element={<WebDevelopment/>} />
-          <Route path="/contact" component={Contact} />
+          <Route path="/contact" element={<Contact/>} />
+          <Route path="/about" element={<About/>} />
         </Routes>
       </div>
     </Router>

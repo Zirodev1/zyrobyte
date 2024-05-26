@@ -44,7 +44,7 @@ export default function Services() {
     return (
         <>
             <Navbar />
-            <section className="services-page">
+            <section className="container-xxl services-page ">
                 <h1>Our Services</h1>
                 <div className="service-container">
                     {servicesData.map((service, index) => (

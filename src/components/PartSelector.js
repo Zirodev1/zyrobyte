@@ -1,7 +1,6 @@
 // PartSelector.js
-
 import React, { useState, useEffect } from "react";
-import "./PartSelector.css"; // Ensure you have the CSS file for styling
+import "./PartSelector.css";
 
 const ITEMS_PER_PAGE = 8;
 
@@ -67,6 +66,12 @@ const PartSelector = ({ category, onSelectPart, selectedParts }) => {
   const indexOfLastItem = currentPage * ITEMS_PER_PAGE;
   const indexOfFirstItem = indexOfLastItem - ITEMS_PER_PAGE;
   const currentParts = parts.slice(indexOfFirstItem, indexOfLastItem);
+  const trimTitle = (title, maxLength = 30) => {
+    if (title.length > maxLength) {
+      return `${title.substring(0, maxLength - 3)}...`; // Subtract 3 for the ellipsis
+    }
+    return title;
+  }
 
   const handlePageChange = (pageNumber) => {
     setCurrentPage(pageNumber);
@@ -105,49 +110,50 @@ const PartSelector = ({ category, onSelectPart, selectedParts }) => {
       <h2>Select {category.toUpperCase()}</h2>
       {category === 'motherboard' && (
     <>
-      <button onClick={() => handleSetMotherboardType('amd')} >AMD</button>
-      <button onClick={() => handleSetMotherboardType('intel')}>INTEL</button>
+      <button className={`button-brand ${motherboardType === 'all' ? 'button-brand-active' : ''}`} onClick={() => handleSetMotherboardType('all')} >All</button>
+      <button className={`button-brand ${motherboardType === 'amd' ? 'button-brand-active' : ''}`} onClick={() => handleSetMotherboardType('amd')} >AMD</button>
+      <button className={`button-brand ${motherboardType === 'intel' ? 'button-brand-active' : ''}`} onClick={() => handleSetMotherboardType('intel')}>INTEL</button>
     </>
       )}
         {category === 'cpu' && (
         <>
-          <button onClick={() => handleBrandSelection('all')}>All</button>
-          <button onClick={() => handleBrandSelection('AMD')}>AMD</button>
-          <button onClick={() => handleBrandSelection('Intel')}>Intel</button>
+          <button className={`button-brand ${selectedBrand === 'all' ? 'button-brand-active' : ''}`} onClick={() => handleBrandSelection('all')}>All</button>
+          <button className={`button-brand ${selectedBrand === 'AMD' ? 'button-brand-active' : ''}`} onClick={() => handleBrandSelection('AMD')}>AMD</button>
+          <button className={`button-brand ${selectedBrand === 'Intel' ? 'button-brand-active' : ''}`} onClick={() => handleBrandSelection('Intel')}>Intel</button>
         </>
       )}
        {category === 'cpuCooler' && (
         <>
-          <button onClick={() => handleCoolingTypeChange('all')}>All</button>
-          <button onClick={() => handleCoolingTypeChange('air')}>Air</button>
-          <button onClick={() => handleCoolingTypeChange('water')}>Water</button>
+          <button className={`button-brand ${coolingType === 'all' ? 'button-brand-active' : ''}`} onClick={() => handleCoolingTypeChange('all')}>All</button>
+          <button className={`button-brand ${coolingType === 'air' ? 'button-brand-active' : ''}`} onClick={() => handleCoolingTypeChange('air')}>Air</button>
+          <button className={`button-brand ${coolingType === 'water' ? 'button-brand-active' : ''}`} onClick={() => handleCoolingTypeChange('water')}>Water</button>
         </>
       )}
        {category === 'storage' && (
         <>
-          <button onClick={() => handleStorageTypeChange('all')}>All</button>
-          <button onClick={() => handleStorageTypeChange('ssd')}>SSD</button>
-          <button onClick={() => handleStorageTypeChange('hdd')}>HDD</button>
+          <button className={`button-brand ${storageType === 'all' ? 'button-brand-active' : ''}`} onClick={() => handleStorageTypeChange('all')}>All</button>
+          <button className={`button-brand ${storageType === 'ssd' ? 'button-brand-active' : ''}`} onClick={() => handleStorageTypeChange('ssd')}>SSD</button>
+          <button className={`button-brand ${storageType === 'hdd' ? 'button-brand-active' : ''}`} onClick={() => handleStorageTypeChange('hdd')}>HDD</button>
         </>
       )}
       <div className="part-options">
         {currentParts.map((part) => (
           <div key={part.id} className="part-item">
-            <img className="part-img" src={part.image_url} alt={part.name} />
             <div className="part-details">
+              <img className="part-img" src={part.image_url} alt={part.name} />
               <div>
-                <p>{part.title}</p>
+                <p  title={part.gpu || part.title}>{part.gpu || trimTitle(part.title)}</p>
               </div>
               <div>
-                <p>{part.core_clock}</p>
+                <p>{part.memory || part.core_clock || part.rpm || part.fan_size || part.socket || part.speed || part.type || part.capacity}</p>
               </div>
               <div>
-                <p>{part.memory}</p>
+                <p>{ part.psu || part.chipset || part.module || part.memory || part.max_gpu_length || part.max_sequential_read}</p>
               </div>
               <div>
-                <p>{part.tdp}</p>
+                <p>{part.tdp || part.color || part.length || part.max_sequential_write}</p>
               </div>
-            <div className="part-price">{part.price}</div>
+              <div className="part-price">{part.price}</div>
             <div>
                 <button onClick={() => handleSelect(part)}>Select</button>
             </div>
