@@ -259,6 +259,8 @@ app.post("/contact", upload.array("files", 10), async (req, res) => {
   }
 });
 
+app.use('/images', express.static(path.join(__dirname, 'public/src/images')));
+
 // Serve static files from the frontend build directory
 app.use(express.static(path.join(__dirname, '../frontend/build')));
 
