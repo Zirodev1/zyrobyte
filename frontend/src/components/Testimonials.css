@@ -1,0 +1,66 @@
+/* Testimonials.css */
+.testimonials {
+  padding: 4em 0;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.testimonials h2 {
+  font-size: 3em;
+  color: #333;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+.testimonial-card {
+  background-color: #fff;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 2em;
+  margin: 1em;
+  display: inline-block;
+  vertical-align: top;
+  max-width: 300px;
+  transition: all.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 8px rgb(249, 92, 18) !important;
+}
+
+.quote {
+  font-style: italic;
+  color: #555;
+  font-size: 1em;
+  line-height: 1.6;
+  position: relative;
+  margin: 0;
+}
+
+.quote::before,
+.quote::after {
+  color: rgb(249, 115, 22);
+  font-size: 4em;
+  position: absolute;
+  top: -0.4em;
+}
+
+.quote::before {
+  content: "“";
+  left: -0.6em;
+}
+
+.quote::after {
+  content: "”";
+  right: -0.6em;
+  top: 0.6em;
+}
+
+.author {
+  display: block;
+  font-weight: bold;
+  color: #333;
+  margin-top: 1em;
+  font-size: 1em;
+}

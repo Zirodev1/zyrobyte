@@ -1,0 +1,18 @@
+/* Services.css */
+.services-page {
+    padding: 2em;
+  }
+
+  .service-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+ 
+
+/* color: rgb(249, 115, 22); */
