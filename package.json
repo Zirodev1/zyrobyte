@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Your project description",
   "scripts": {
-    "start": "cd backend && npm start & cd frontend && npm start",
-    "heroku-postbuild": "cd backend && npm install && cd ../frontend && npm install && npm run build"
+    "start": "cd backend && npm start",
+    "heroku-postbuild": "cd frontend && npm install && npm run build"
   },
   "engines": {
     "node": ">=14.x",
