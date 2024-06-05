@@ -10,6 +10,7 @@ const xss = require("xss");
 const helmet = require("helmet");
 const rateLimit = require("express-rate-limit");
 const cookieParser = require("cookie-parser");
+const path = require('path');
 
 const app = express();
 const upload = multer({ dest: "uploads/" });
