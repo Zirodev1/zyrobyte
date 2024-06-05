@@ -258,6 +258,13 @@ app.post("/contact", upload.array("files", 10), async (req, res) => {
   }
 });
 
+// Serve static files from the frontend build directory
+app.use(express.static(path.join(__dirname, '../frontend/build')));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
+});
+
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
