@@ -20,7 +20,7 @@ app.use(helmet({
       directives: {
           defaultSrc: ["'self'"],
           scriptSrc: ["'self'", "https://cdn.jsdelivr.net"],
-          imgSrc: ["'self'", "data:", "https://images.unsplash.com"],
+          imgSrc: ["'self'", "data:", "https://c1.neweggimages.com", "https://images.unsplash.com"],
           styleSrc: ["'self'", "'unsafe-inline'", "https://cdn.jsdelivr.net"],
           connectSrc: ["'self'", "https://cors-anywhere.herokuapp.com"]
       }
