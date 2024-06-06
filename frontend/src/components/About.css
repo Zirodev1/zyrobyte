@@ -38,7 +38,7 @@
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .about-services-imgs {
@@ -150,8 +150,9 @@ h3 {
   }
   .about-services {
     flex-direction: column;
-    margin-bottom: 200px;
+ 
   }
+
 
   .aboutHero-img {
     max-width: 400px;
@@ -162,6 +163,6 @@ h3 {
   }
 
   .about-services-imgs {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
   }
 }
