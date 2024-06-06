@@ -150,6 +150,7 @@ h3 {
   }
   .about-services {
     flex-direction: column;
+    margin-bottom: 150px;
   }
 
   .aboutHero-img {
