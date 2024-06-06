@@ -1,7 +1,7 @@
 /* ServiceCard.css */
 .service-card {
-    width: 270px;
-    height: 400px;
+    width: 300px;
+    height: 340px;
 
     padding: 15px;
     border: 1px solid #ddd;
@@ -28,4 +28,11 @@
     object-fit: cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+}
+
+@media (max-width: 660px) {
+    .service-card {
+        width: 550px;
+        height: 325px;
+    }
 }

@@ -106,3 +106,13 @@ footer {
     background: #333;
     color: white;
 }
+
+@media (max-width: 570px) {
+    .hero {
+        padding: 50px 50px;
+    }
+
+    .hero-description {
+        margin-top: 290px;
+    }
+}
