@@ -49,8 +49,6 @@
   max-width: 400px;
   aspect-ratio: 1 / 1;
   margin: 10px;
-  margin-bottom: 30px;
-  height: auto;
 }
 
 .about-services-imgs img {
@@ -160,5 +158,9 @@ h3 {
 
   .aboutHero {
     flex-direction: column;
+  }
+
+  .about-services-imgs {
+    margin-bottom: 200px;
   }
 }
