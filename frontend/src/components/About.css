@@ -49,6 +49,7 @@
   max-width: 400px;
   aspect-ratio: 1 / 1;
   margin: 10px;
+  height: 400px;
 }
 
 .about-services-imgs img {
@@ -138,6 +139,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   max-width: 600px;
+  height: 550px;
   justify-content: space-around;
   padding: 20px 0;
 }
