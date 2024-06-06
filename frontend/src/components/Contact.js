@@ -150,8 +150,8 @@ const ContactForm = () => {
           <div>
             <h2>Ways to Reach Us</h2>
             <p>Email: contact@zyrobyte.com</p>
-            <p>Phone: (965) 515-8142</p>
-            <p>If not answered leave a voice mail or Shoot a text message</p>
+            <p>Phone: (956) 515-8142</p>
+            <p>If not answered leave a voice mail or shoot a text message</p>
             {/* Add any other contact information or links to social media */}
           </div>
           <div>
@@ -162,7 +162,7 @@ const ContactForm = () => {
           </div>
           <div>
             <h2>Our Location</h2>
-            <p>Located in Mcallen, Tx. But We work World Wide.</p>
+            <p>Located in McAllen, Tx. But we work world wide.</p>
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57303.78662471763!2d-98.29144801618655!3d26.203407793117065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866ad818e96a69b9%3A0x52c5a2033b4d7f03!2sMcAllen%2C%20TX%2C%20USA!5e0!3m2!1sen!2s!4v1653077862062!5m2!1sen!2s"
               width="100%"
