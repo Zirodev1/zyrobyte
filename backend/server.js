@@ -15,7 +15,17 @@ const path = require('path');
 const app = express();
 const upload = multer({ dest: "uploads/" });
 
-app.use(helmet());
+app.use(helmet({
+  contentSecurityPolicy: {
+      directives: {
+          defaultSrc: ["'self'"],
+          scriptSrc: ["'self'", "https://cdn.jsdelivr.net"],
+          imgSrc: ["'self'", "data:", "https://images.unsplash.com"],
+          styleSrc: ["'self'", "'unsafe-inline'", "https://cdn.jsdelivr.net"],
+          connectSrc: ["'self'", "https://cors-anywhere.herokuapp.com"]
+      }
+  }
+}));
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
