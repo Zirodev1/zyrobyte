@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-351-10.png",
+        "title": "G.SKILL Trident Z5 RGB Series Model F5-6000J3636F16GX2-TZ5RK",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$114.99–"
+    },
+    {
+        "id": 2,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-358-10.png",
+        "title": "G.SKILL Trident Z5 RGB Series Model F5-6400J3239G16GX2-TZ5RK",
+        "speed": "DDR5 6400 (PC5 51200)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "32",
+        "price": "$112.99–"
+    },
+    {
+        "id": 3,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-432-07.png",
+        "title": "G.SKILL Trident Z5 RGB Series Model F5-6400J3239G32GX2-TZ5RK",
+        "speed": "DDR5 6400 (PC5 51200)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "32",
+        "price": "$219.99–"
+    },
+    {
+        "id": 4,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-618-02.jpg",
+        "title": "Team T-FORCE VULCAN Z Model TLZGD432G3200HC16FDC01",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Gray",
+        "cas_latency": "16",
+        "price": "$62.99–"
+    },
+    {
+        "id": 5,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-909-03.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH32GX5M2E6000C36",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$117.99–"
+    },
+    {
+        "id": 6,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-419-07.png",
+        "title": "G.SKILL Flare X5 Model F5-6000J3636F16GX2-FX5",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$106.99–"
+    },
+    {
+        "id": 7,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-354-V08.jpg",
+        "title": "Team T-FORCE VULCAN Z Model TLZGD416G3200HC16CDC01",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Gray",
+        "cas_latency": "16",
+        "price": "$35.99–"
+    },
+    {
+        "id": 8,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-232-091-08.jpg",
+        "title": "G.SKILL Ripjaws V Series Model F4-3200C16D-32GVK",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$67.99–"
+    },
+    {
+        "id": 9,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-607-02.jpg",
+        "title": "CORSAIR Vengeance RGB Pro Model CMW32GX4M2D3600C18",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$94.99–"
+    },
+    {
+        "id": 10,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-427-10.png",
+        "title": "G.SKILL Trident Z5 Neo RGB Series Model F5-6000J3038F16GX2-TZ5NR",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$112.99–"
+    },
+    {
+        "id": 11,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-923-01.jpg",
+        "title": "Team T-Force Delta RGB Model FF3D532G6000HC30DC01",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$106.99–"
+    },
+    {
+        "id": 12,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-369-V04.jpg",
+        "title": "G.SKILL Ripjaws S5 Series Model F5-6000J3040F16GX2-RS5K",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$109.99–"
+    },
+    {
+        "id": 13,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-451-03.png",
+        "title": "G.SKILL Ripjaws S5 Series Model F5-6000J3636F16GX2-RS5K",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$106.99–"
+    },
+    {
+        "id": 14,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-749-05.jpg",
+        "title": "Team T-Force Delta RGB Model FF4D532G6000HC30DC01",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "White",
+        "cas_latency": "30",
+        "price": "$106.99–"
+    },
+    {
+        "id": 15,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-436-07.png",
+        "title": "G.SKILL Trident Z5 RGB Series Model F5-7200J3445G16GX2-TZ5RK",
+        "speed": "DDR5 7200 (PC5 57600)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "34",
+        "price": "$129.99–"
+    },
+    {
+        "id": 16,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-887-01.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH32GX5M2E6000C36W",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "White",
+        "cas_latency": "36",
+        "price": "$114.99–"
+    },
+    {
+        "id": 17,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-231-941-03.jpg",
+        "title": "G.SKILL Ripjaws V Series Model F4-3200C16D-16GVKB",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$38.99–"
+    },
+    {
+        "id": 18,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-541-V01.jpg",
+        "title": "CORSAIR Vengeance LPX Model CMK32GX4M2E3200C16",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$67.99–"
+    },
+    {
+        "id": 19,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-827-V01.jpg",
+        "title": "CORSAIR Vengeance Model CMK32GX5M2B5200C40",
+        "speed": "DDR5 5200 (PC5 41600)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "40",
+        "price": "$102.99–"
+    },
+    {
+        "id": 20,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-445-11.png",
+        "title": "G.SKILL Trident Z5 Neo RGB Series Model F5-6000J3040G32GX2-TZ5NR",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$214.99–"
+    },
+    {
+        "id": 21,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-596-S02.jpg",
+        "title": "CORSAIR Vengeance LPX Model CMK32GX4M2D3600C18",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$81.99–"
+    },
+    {
+        "id": 22,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-586-V01.jpg",
+        "title": "CORSAIR Vengeance LPX Model CMK64GX4M2E3200C16",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$129.99–"
+    },
+    {
+        "id": 23,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-233-859-01.jpg",
+        "title": "CORSAIR Vengeance LPX Model CMK16GX4M2B3200C16",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$44.99–"
+    },
+    {
+        "id": 24,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-232-928-02.jpg",
+        "title": "G.SKILL Ripjaws V Series Model F4-3600C18D-32GVK",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$67.99–"
+    },
+    {
+        "id": 25,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-519-02.png",
+        "title": "G.SKILL Trident Z5 Neo RGB Series Model F5-6400J3239G16GX2-TZ5NR",
+        "speed": "DDR5 6400 (PC5 51200)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "32",
+        "price": "$109.99–"
+    },
+    {
+        "id": 26,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-232-920-V01.jpg",
+        "title": "G.SKILL TridentZ RGB Series Model F4-3600C18D-32GTZR",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$79.99–"
+    },
+    {
+        "id": 27,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-457-02.png",
+        "title": "G.SKILL Flare X5 Model F5-6000J3038F16GX2-FX5",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$106.99–"
+    },
+    {
+        "id": 28,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-828-V01.jpg",
+        "title": "CORSAIR Vengeance Model CMK32GX5M2B5600C36",
+        "speed": "DDR5 5600 (PC5 44800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$117.99–"
+    },
+    {
+        "id": 29,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-887-01.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH32GX5M2D6000C36W",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "White",
+        "cas_latency": "36",
+        "price": "$127.99–"
+    },
+    {
+        "id": 30,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-848-04.jpg",
+        "title": "CORSAIR Vengeance Model CMK64GX5M2B5600C40",
+        "speed": "DDR5 5600 (PC5 44800)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "40",
+        "price": "$187.99–"
+    },
+    {
+        "id": 31,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-828-V01.jpg",
+        "title": "CORSAIR Vengeance Model CMK32GX5M2E6000C36",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$104.99–"
+    },
+    {
+        "id": 32,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-515-03.jpg",
+        "title": "Team T-Force Delta RGB Model TF4D432G3600HC18JDC01",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "White",
+        "cas_latency": "18",
+        "price": "$69.99–"
+    },
+    {
+        "id": 33,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-544-05.jpg",
+        "title": "Team T-FORCE VULCAN Z Model TLZGD432G3600HC18JDC01",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Gray",
+        "cas_latency": "18",
+        "price": "$59.99–"
+    },
+    {
+        "id": 34,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-443-08.png",
+        "title": "G.SKILL Trident Z5 Neo Series Model F5-6000J3040G32GX2-TZ5N",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$209.99–"
+    },
+    {
+        "id": 35,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-156-327-09.jpg",
+        "title": "Crucial Pro Model CP2K16G4DFRA32A DDR4 3200 (2 x 16GB)",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "22",
+        "price": "$58.99–"
+    },
+    {
+        "id": 36,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-839-V01.jpg",
+        "title": "CORSAIR Vengeance Model CMK64GX5M2B5200C40",
+        "speed": "DDR5 5200 (PC5 41600)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "40",
+        "price": "$159.99–"
+    },
+    {
+        "id": 37,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-003-02.jpg",
+        "title": "G.SKILL Ripjaws V Series Model F4-3600C18D-64GVK",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$129.99–"
+    },
+    {
+        "id": 38,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-879-03.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH32GX5M2X7000C36",
+        "speed": "DDR5 7000 (PC5 56000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "36",
+        "price": "$127.99–"
+    },
+    {
+        "id": 39,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-451-03.png",
+        "title": "G.SKILL Ripjaws S5 Series Model F5-6000J3040G32GX2-RS5K",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$197.99–"
+    },
+    {
+        "id": 40,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-602-02.jpg",
+        "title": "CORSAIR Vengeance RGB Pro Model CMW64GX4M2D3600C18",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$159.99–"
+    },
+    {
+        "id": 41,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-821-559-03.jpg",
+        "title": "OLOy Blade RGB (OLOY) Model ND5U1660366BRKDA",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black Hairline",
+        "cas_latency": "36",
+        "price": "$104.99–"
+    },
+    {
+        "id": 42,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-419-07.png",
+        "title": "G.SKILL Flare X Series Model F5-6000J3040G32GX2-FX5",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$199.99–"
+    },
+    {
+        "id": 43,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-542-05.jpg",
+        "title": "Team T-FORCE VULCAN Z Model TLZGD416G3600HC18JDC01",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Gray",
+        "cas_latency": "18",
+        "price": "$37.99–"
+    },
+    {
+        "id": 44,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-520-01.jpg",
+        "title": "G.SKILL Trident Z5 Neo Series Model F5-6000J3036F16GX2-TZ5NRW",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "White",
+        "cas_latency": "30",
+        "price": "$124.99–"
+    },
+    {
+        "id": 45,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-879-03.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH64GX5M2N6000C30",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$199.99–"
+    },
+    {
+        "id": 46,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-417-02.jpg",
+        "title": "CORSAIR Vengeance RGB Pro Model CMW16GX4M2C3200C16",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$55.99–"
+    },
+    {
+        "id": 47,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-985-077-01.jpg",
+        "title": "Team Group T-CREATE EXPERT Model CTCED532G6000HC30DC01",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$102.99–"
+    },
+    {
+        "id": 48,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-879-03.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH32GX5M2B6000C40L",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "40",
+        "price": "$109.99–"
+    },
+    {
+        "id": 49,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-708-V02.jpg",
+        "title": "CORSAIR Vengeance RGB Pro SL Model CMH32GX4M2D3600C18W",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "White",
+        "cas_latency": "18",
+        "price": "$99.99–"
+    },
+    {
+        "id": 50,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-374-520-01.jpg",
+        "title": "G.SKILL Trident Z5 Neo Series Model F5-6000J3036G32GX2-TZ5NRW",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "64GB (2 x 32GB)",
+        "color": "White",
+        "cas_latency": "30",
+        "price": "$214.99–"
+    },
+    {
+        "id": 51,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-220-686-02.jpg",
+        "title": "Patriot Viper 3 Model PV316G160C9K",
+        "speed": "DDR3 1600 (PC3 12800)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Black",
+        "cas_latency": "9",
+        "price": "$27.49–"
+    },
+    {
+        "id": 52,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-538-V01.jpg",
+        "title": "CORSAIR Vengeance LPX Model CMK16GX4M2D3600C18",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$40.99–"
+    },
+    {
+        "id": 53,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-848-V01.jpg",
+        "title": "Team T-Force Vulcan Model FLBD532G5600HC32DC01",
+        "speed": "DDR5 5600 (PC5 44800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "32",
+        "price": "$92.99–"
+    },
+    {
+        "id": 54,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-616-01.jpg",
+        "title": "Team T-FORCE VULCAN Z Model TLZGD416G3200HC16FDC01",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Gray",
+        "cas_latency": "16",
+        "price": "$35.99–"
+    },
+    {
+        "id": 55,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-232-907-02.jpg",
+        "title": "G.SKILL Ripjaws V Series Model F4-3600C16D-32GVKC",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$79.99–"
+    },
+    {
+        "id": 56,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-236-888-02.jpg",
+        "title": "CORSAIR Vengeance RGB Model CMH32GX5M2B6000Z30K",
+        "speed": "DDR5 6000 (PC5 48000)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "30",
+        "price": "$124.99–"
+    },
+    {
+        "id": 57,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-232-990-V01.jpg",
+        "title": "G.SKILL TridentZ RGB Series Model F4-3600C18D-64GTZR",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "64GB (2 x 32GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$139.99–"
+    },
+    {
+        "id": 58,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-331-514-01.jpg",
+        "title": "Team T-Force Delta RGB Model TF3D432G3600HC18JDC01",
+        "speed": "DDR4 3600 (PC4 28800)",
+        "module": "32GB (2 x 16GB)",
+        "color": "Black",
+        "cas_latency": "18",
+        "price": "$69.99–"
+    },
+    {
+        "id": 59,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-220-694-02.jpg",
+        "title": "Patriot Viper 3 Model PV316G186C0K",
+        "speed": "DDR3 1866 (PC3 15000)",
+        "module": "16GB (2 x 8GB)",
+        "color": "Black",
+        "cas_latency": "10",
+        "price": "$27.99–"
+    },
+    {
+        "id": 60,
+        "image_url": "https://c1.neweggimages.com/ProductImage/20-232-090-04.jpg",
+        "title": "G.SKILL Ripjaws V Series Model F4-3200C16S-16GVK",
+        "speed": "DDR4 3200 (PC4 25600)",
+        "module": "16GB",
+        "color": "Black",
+        "cas_latency": "16",
+        "price": "$37.99–"
+    }
+]

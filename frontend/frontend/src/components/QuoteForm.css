@@ -1,0 +1,11 @@
+.infoForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.infoForm button  {
+    border: none;
+    background-color: rgb(249, 115, 22);
+    color: white;
+    transition: all .3s ease;
+}

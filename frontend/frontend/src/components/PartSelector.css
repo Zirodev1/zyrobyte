@@ -1,0 +1,133 @@
+/* PartSelector.css */
+.part-selector {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 1rem auto;
+    padding: 1rem;
+  }
+  
+  .part-selector h2 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .part-options {
+    width: 99%;
+    margin: 0 auto;
+  }
+
+  .button-brand {
+    background-color: white!important;
+    color: rgb(249, 92, 18)!important;
+    
+  }
+  
+  .button-brand:hover {
+    border-bottom: 1px solid rgb(249, 115, 22);
+    border-radius: 0;
+  }
+
+  .button-brand-active {
+    background-color: rgb(249, 92, 18)!important;
+    color: #fff!important;
+    border: 1px solid rgb(249, 92, 18)!important;
+  }
+
+  .partTitle {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px;
+  }
+  
+  .part-item {
+    width: 98%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+    margin: 10px auto;
+  }
+
+  .part-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .part-details div {
+    width: 100px;
+  }
+
+  .part-img{
+    width: 100px !important;
+    height: 100px !important;
+  }
+  
+  .part-item:hover {
+    box-shadow: 0 4px 8px rgb(249, 92, 18) !important;
+  }
+  
+  .part-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .part-price {
+    color: #e55300;
+    margin-bottom: 0.5rem;
+  }
+  
+  .part-item button {
+    background-color: rgb(249, 115, 22) !important;
+    color: white;
+    border: none;
+    width: 90px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+  
+  .part-item button:hover {
+    background-color: rgb(196, 92, 18) !important;
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+.pagination button{
+    padding: .5rem 1rem;
+    margin: 0 .3rem;
+    color: black;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+
+.pagination button.active{
+    background-color: rgb(249, 115, 22);
+    color: white;
+}
+
+.pagination button:hover {
+  background-color: rgb(168, 80, 18) !important;
+  color: white;
+}
+
+/* color: rgb(249, 115, 22) */
+
+@media only screen and (max-width: 768px) {
+  .part-details {
+    display: flex;
+    flex-direction: column;
+  }
+}
+  

@@ -1,0 +1,98 @@
+/* Reset some basic styling */
+.contact-form-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  font-style: "Crimson";
+}
+
+.contact-form, .contact-info {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form input, .contact-form textarea, .contact-form button, .contact-form .file-upload {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-form button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #0056b3;
+}
+
+.contact-form h2, .contact-info h2 {
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.contact-form .mb-3 {
+  margin-bottom: 10px;
+}
+
+/* Checkbox alignment */
+.contact-form label {
+  width: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.contact-form input[type="checkbox"] {
+  width: 100px;
+  margin-right: 10px;
+  accent-color: rgb(249, 115, 22);
+}
+
+.checkbox-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+
+.file-upload{
+  background-color: #eee;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.contact-btn-form {
+  font-size: 18px;
+  background-color: rgb(249, 115, 22) !important;
+  transition: all .3s ease;
+}
+.contact-btn-form:hover {
+  background-color: rgb(168, 80, 18) !important;
+  color: white;
+}
+/* Responsive styles */
+@media (min-width: 768px) {
+  .contact-form-container {
+    grid-template-columns: 2fr 1fr;
+  }
+
+ 
+}
+
+@media (max-width: 600px){
+  .file-upload {
+    display: flex;
+    flex-direction: column;
+  }
+}
