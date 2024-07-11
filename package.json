@@ -1,6 +1,7 @@
 {
-  "name": "zyrobyte",
-  "version": "0.1.0",
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Zyrobyte",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -43,7 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  "engines": {
+    "node": ">=14.x",
+    "npm": ">=6.x"
   }
 }

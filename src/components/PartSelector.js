@@ -145,13 +145,16 @@ const PartSelector = ({ category, onSelectPart, selectedParts }) => {
                 <p  title={part.gpu || part.title}>{part.gpu || trimTitle(part.title)}</p>
               </div>
               <div>
-                <p>{part.memory || part.core_clock || part.rpm || part.fan_size || part.socket || part.speed || part.type || part.capacity}</p>
+                <p>{part.cores || part.noise_level || part.fan_size || part.socket || part.speed || part.type || part.capacity}</p>
               </div>
               <div>
-                <p>{ part.psu || part.chipset || part.module || part.memory || part.max_gpu_length || part.max_sequential_read}</p>
+                <p>{part.core_clock || part.memory_max }</p>
               </div>
               <div>
-                <p>{part.tdp || part.color || part.length || part.max_sequential_write}</p>
+                <p>{ part.psu || part.chipset || part.module || part.memory || part.max_gpu_length || part.max_sequential_read }</p>
+              </div>
+              <div>
+                <p>{part.tdp || part.color || part.length || part.max_sequential_write || part.form_factor}</p>
               </div>
               <div className="part-price">{part.price}</div>
             <div>

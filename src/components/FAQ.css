@@ -1,0 +1,40 @@
+.faq-container {
+    max-width: 800px;
+    height: 80vh;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .faq-container h1 {
+    color: #f97316;
+    margin-bottom: 20px;
+  }
+  
+  .faq-container h2 {
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .faq-container p {
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .faq-container {
+      padding: 10px;
+    }
+  
+    .faq-container h1 {
+      font-size: 28px;
+    }
+  
+    .faq-container h2 {
+      font-size: 22px;
+    }
+  }
+  

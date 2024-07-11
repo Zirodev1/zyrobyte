@@ -8,6 +8,11 @@ import RepairRequestForm from './components/RepairRequestForm';
 import DataRecoveryForm from './components/DataRecoveryForm';
 import WebDevelopment from './components/WebDevelopment';
 import About from './components/About';
+import PrivacyPolicy from './components/PrivacyPolicy';
+import TermsConditions from './components/TermsConditions';
+import Refunds from './components/Refunds';
+import FAQ from './components/FAQ';
+import Donate from './components/Donate';
 
 // Bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -28,6 +33,11 @@ function App() {
           <Route path="/services/web-development" element={<WebDevelopment/>} />
           <Route path="/contact" element={<Contact/>} />
           <Route path="/about" element={<About/>} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy/>} />
+          <Route path="/terms-conditions" element={<TermsConditions/>} />
+          <Route path="/refunds" element={<Refunds/>} />
+          <Route path="/faq" element={<FAQ/>} />
+          <Route path="/donate" element={<Donate/>} />
         </Routes>
       </div>
     </Router>

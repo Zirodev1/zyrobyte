@@ -9,7 +9,7 @@ const testimonialsData = [
     author: "Damian Acevedo",
   },
   {
-    quote: "The custom PC building service was fantastic! The team guided me through the entire process and I got exactly what I needed.",
+    quote: "Pc was built exactly what i had ask for! One of the best pcs i could ever ask for!",
     author: "Jose Romo",
   },
   {
