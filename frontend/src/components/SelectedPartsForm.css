@@ -64,10 +64,10 @@
 }
 
 .sideBar-container{
-    width: 100px;
+    width: 140px;
     height: 100vh;
     position: fixed;
-    top: 95px; 
+    top: 0px; 
     right: 0px;     
     border: 1px solid black;
     color: white;
@@ -76,25 +76,31 @@
 
 .sideBar{
     width: 55px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: 10px auto;
     text-align: center;
     padding: 0px;
 }
 
 .sideBar img{
-    width: 55px;
-    height: 55px;
+    width: 75px;
+    height: 75px;
     z-index: 1000;  
-    margin: 0 auto;
+    margin: 10px auto;
     padding: 4px;
+}
+
+.sidebar-cost {
+    width: 80px;
+    margin-top: 30px;
+    margin-inline: auto;
 }
 
 .left-arrow {
     width: 50px;
     position: fixed;
     top: 50%;
-    right: 90px;
+    right: 130px;
     text-align: center;
     border: none !important;
 }

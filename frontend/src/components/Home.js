@@ -51,8 +51,18 @@ export default function Home() {
                     ))}
                     </div>
                  </section>
+                
+                {/* <section className="about">
+                    <h2>About Us</h2>
+                    <p>Learn more about our mission and values.</p>
+                </section> */}
 
                 <Testimonials/>
+                
+                {/* <section className="contact-cta">
+                    <h2>Get in Touch</h2>
+                    <Link to="/contact" className="btn btn-secondary">Contact Us</Link>
+                </section> */}
 
                 <Footer/>
             </main>

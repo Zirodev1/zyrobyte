@@ -38,7 +38,7 @@
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .about-services-imgs {
@@ -63,10 +63,6 @@ h2,
 h3 {
   color: rgb(249, 115, 22) !important;
 }
-
-/* p, li {
-    line-height: 1.6;
-  } */
 
 /* Team Section */
 .team {
@@ -95,29 +91,6 @@ h3 {
   color: #333;
 }
 
-/* Values List */
-/* ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  li {
-    margin-bottom: 10px;
-    padding-left: 20px;
-    position: relative;
-  } */
-
-/* li:before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 7px;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: #0056b3;
-  } */
-
 /* Call to Action Button */
 .about-cta {
   margin-top: 30px;
@@ -138,7 +111,6 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   max-width: 600px;
-  
   justify-content: space-around;
   padding: 20px 0;
 }
@@ -150,9 +122,7 @@ h3 {
   }
   .about-services {
     flex-direction: column;
- 
   }
-
 
   .aboutHero-img {
     max-width: 400px;
@@ -160,9 +130,5 @@ h3 {
 
   .aboutHero {
     flex-direction: column;
-  }
-
-  .about-services-imgs {
-    margin-bottom: 200px;
   }
 }

@@ -40,7 +40,8 @@
   text-decoration: none;
   color: white !important;
   padding: 10px;
-  margin: 0 5px;
+  /* margin: 0 5px; */
+  border-radius: 10px;
   transition: background-color 0.3s;
 }
 
@@ -65,14 +66,4 @@
 
 .navbar-nav {
   margin-left: auto;
-}
-
-@media (max-width: 990px) {
-.navbar-nav {
-  width: 100%;
-}
-
-  .nav-link {
-    width: 100%;
-  }
 }

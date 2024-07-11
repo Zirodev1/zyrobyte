@@ -64,12 +64,11 @@
 }
 
 
-.file-upload{
+.file-upload {
   background-color: #eee;
   padding: 10px;
   margin-top: 10px;
   cursor: pointer;
-  width: 100%;
 }
 
 .contact-btn-form {
@@ -85,14 +84,5 @@
 @media (min-width: 768px) {
   .contact-form-container {
     grid-template-columns: 2fr 1fr;
-  }
-
- 
-}
-
-@media (max-width: 600px){
-  .file-upload {
-    display: flex;
-    flex-direction: column;
   }
 }
