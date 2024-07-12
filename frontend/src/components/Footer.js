@@ -25,13 +25,13 @@ const Footer = () => {
               <h3>Support</h3>
               <Link to="/refunds">Refunds</Link>
               <Link to="/faq">FAQ</Link>
-              <Link to="/donate">Donate</Link>
+              {/* <Link to="/donate">Donate</Link> */}
             </div>
             <div>
               <h3>Contact</h3>
-              <Link to="/">contact@zyrobyte.com</Link>
-              <Link to="/">youtube</Link>
-              <Link to="/">twitter</Link>
+              <Link to="/contact">contact@zyrobyte.com</Link>
+              <p className="mb-0">Youtube (Coming Soon)</p>
+              <p>Twitter (Coming Soon)</p>
             </div>
             <div>
               <h3>Legal</h3>
